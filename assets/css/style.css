@@ -95,6 +95,7 @@ a:hover { text-decoration: underline; }
 .lesson-body { font-size: 1.075rem; }
 .lesson-body h2 { font-family: "Fraunces", Georgia, serif; font-weight: 600; font-size: 1.5rem; margin: 2rem 0 .6rem; }
 .lesson-body h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; font-size: 1.2rem; margin: 1.6rem 0 .5rem; }
+.lesson-body h4 { font-weight: 600; font-size: 1.02rem; letter-spacing: .01em; margin: 1.4rem 0 .4rem; color: var(--accent); }
 .lesson-body p { margin: 0 0 1.1rem; }
 .lesson-body ul, .lesson-body ol { margin: 0 0 1.1rem; padding-left: 1.3rem; }
 .lesson-body li { margin-bottom: .35rem; }
@@ -118,6 +119,62 @@ a:hover { text-decoration: underline; }
 }
 .lesson-body pre code { background: none; padding: 0; }
 .lesson-body hr { border: none; border-top: 1px solid var(--line); margin: 2rem 0; }
+
+/* Tables */
+.lesson-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.4rem 0;
+  font-size: .97rem;
+}
+.lesson-body th, .lesson-body td {
+  text-align: left;
+  vertical-align: top;
+  padding: .6rem .8rem;
+  border-bottom: 1px solid var(--line);
+}
+.lesson-body thead th {
+  background: var(--accent-soft);
+  font-weight: 600;
+  border-bottom: 2px solid var(--line);
+}
+.lesson-body tbody tr:last-child td { border-bottom: none; }
+
+/* Callouts (converted from admonitions) */
+.lesson-body .callout {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+  background: #fff;
+  color: var(--ink);
+  font-style: normal;
+}
+.lesson-body .callout > :first-child { margin-top: 0; }
+.lesson-body .callout > :last-child { margin-bottom: 0; }
+.lesson-body .callout strong:first-child {
+  display: block;
+  font-size: .78rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  margin-bottom: .5rem;
+}
+.lesson-body .callout-quote {
+  border-left-color: #b08b5c;
+  background: #fbf6ef;
+  font-style: italic;
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.12rem;
+  line-height: 1.5;
+}
+.lesson-body .callout-question { border-left-color: #2c6e8f; background: #eef5f8; }
+.lesson-body .callout-question strong:first-child { color: #2c6e8f; }
+.lesson-body .callout-note { border-left-color: #5a6b3f; background: #f1f4ea; }
+.lesson-body .callout-note strong:first-child { color: #5a6b3f; }
+.lesson-body .callout-tip { border-left-color: #2f7d5b; background: #ecf5f0; }
+.lesson-body .callout-tip strong:first-child { color: #2f7d5b; }
+.lesson-body .callout-warning { border-left-color: #b4632a; background: #fbf0e6; }
+.lesson-body .callout-warning strong:first-child { color: #b4632a; }
 
 /* Pager */
 .lesson-pager {
