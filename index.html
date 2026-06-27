@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section class="hero">
+  <h1>{{ site.title }}</h1>
+  <p class="hero-tagline">{{ site.tagline }}</p>
+</section>
+
+<ul class="lesson-list">
+  {% for post in site.posts %}
+  <li class="lesson-item">
+    <a href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+      <span class="lesson-item-title">{{ post.title }}</span>
+      {% if post.subtitle %}<span class="lesson-item-sub">{{ post.subtitle }}</span>{% endif %}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if site.posts.size == 0 %}
+<p class="empty">No lessons yet. Add your first one in <code>_posts/</code>.</p>
+{% endif %}

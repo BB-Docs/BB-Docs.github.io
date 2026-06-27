@@ -1,0 +1,142 @@
+:root {
+  --bg: #faf8f4;
+  --surface: #ffffff;
+  --ink: #1f1b16;
+  --ink-soft: #6b6359;
+  --line: #e7e1d6;
+  --accent: #9a5b2c;
+  --accent-soft: #f2e7da;
+  --max: 720px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.65;
+  font-size: 18px;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.25rem 1.25rem 0;
+}
+.brand { display: flex; align-items: center; gap: .5rem; color: var(--ink); }
+.brand:hover { text-decoration: none; }
+.brand-mark { font-size: 1.4rem; }
+.brand-name {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+.site-nav a { color: var(--ink-soft); font-size: .95rem; }
+
+/* Layout */
+.container { max-width: var(--max); margin: 0 auto; padding: 0 1.25rem; }
+
+/* Home hero */
+.hero { padding: 2.5rem 0 1.5rem; border-bottom: 1px solid var(--line); margin-bottom: 1rem; }
+.hero h1 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 2.4rem;
+  line-height: 1.1;
+  margin: 0 0 .4rem;
+}
+.hero-tagline { color: var(--ink-soft); margin: 0; font-size: 1.05rem; }
+
+/* Lesson list */
+.lesson-list { list-style: none; margin: 0; padding: 0; }
+.lesson-item { border-bottom: 1px solid var(--line); }
+.lesson-item a {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: .25rem 1rem;
+  align-items: baseline;
+  padding: 1rem .25rem;
+  color: var(--ink);
+}
+.lesson-item a:hover { text-decoration: none; background: var(--accent-soft); border-radius: 8px; }
+.lesson-item time { color: var(--ink-soft); font-size: .85rem; font-variant-numeric: tabular-nums; padding-top: .15rem; }
+.lesson-item-title { font-family: "Fraunces", Georgia, serif; font-weight: 500; font-size: 1.2rem; }
+.lesson-item-sub { grid-column: 2; color: var(--ink-soft); font-size: .95rem; }
+.empty { color: var(--ink-soft); padding: 2rem 0; }
+
+/* Lesson page */
+.lesson { padding: 1.5rem 0 3rem; }
+.lesson-date {
+  display: flex; justify-content: space-between; align-items: center;
+  color: var(--ink-soft); font-size: .9rem; margin: 0 0 1.25rem;
+}
+.lesson-date .back { color: var(--ink-soft); }
+.lesson-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 2.1rem;
+  line-height: 1.15;
+  margin: 0 0 .5rem;
+}
+.lesson-subtitle { color: var(--ink-soft); font-size: 1.15rem; margin: 0 0 1.5rem; }
+
+.lesson-body { font-size: 1.075rem; }
+.lesson-body h2 { font-family: "Fraunces", Georgia, serif; font-weight: 600; font-size: 1.5rem; margin: 2rem 0 .6rem; }
+.lesson-body h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; font-size: 1.2rem; margin: 1.6rem 0 .5rem; }
+.lesson-body p { margin: 0 0 1.1rem; }
+.lesson-body ul, .lesson-body ol { margin: 0 0 1.1rem; padding-left: 1.3rem; }
+.lesson-body li { margin-bottom: .35rem; }
+.lesson-body img { max-width: 100%; height: auto; border-radius: 10px; margin: 1rem 0; }
+.lesson-body blockquote {
+  margin: 1.4rem 0;
+  padding: .4rem 0 .4rem 1.2rem;
+  border-left: 3px solid var(--accent);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.lesson-body code {
+  background: var(--accent-soft);
+  padding: .12em .4em;
+  border-radius: 5px;
+  font-size: .9em;
+}
+.lesson-body pre {
+  background: #2b261f; color: #f3ede2;
+  padding: 1rem 1.2rem; border-radius: 10px; overflow-x: auto;
+}
+.lesson-body pre code { background: none; padding: 0; }
+.lesson-body hr { border: none; border-top: 1px solid var(--line); margin: 2rem 0; }
+
+/* Pager */
+.lesson-pager {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line);
+  font-size: .95rem;
+}
+.lesson-pager .next { margin-left: auto; text-align: right; }
+
+/* Footer */
+.site-footer {
+  max-width: var(--max); margin: 2rem auto 0; padding: 1.5rem 1.25rem 2.5rem;
+  border-top: 1px solid var(--line); color: var(--ink-soft); font-size: .9rem;
+}
+
+@media (max-width: 540px) {
+  body { font-size: 17px; }
+  .hero h1 { font-size: 2rem; }
+  .lesson-item a { grid-template-columns: 1fr; }
+  .lesson-item time { padding-top: 0; }
+  .lesson-item-sub { grid-column: 1; }
+}

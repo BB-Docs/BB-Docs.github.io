@@ -1,0 +1,27 @@
+title: "Daily Lessons"
+tagline: "One lesson a day."
+description: "A daily lessons archive."
+# Set this to your final published URL once Pages is live.
+url: "https://bb-docs.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /lessons/:year/:month/:day/:title/
+
+# Show newest lessons first on the home page
+paginate: 20
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "lesson"
+
+# Lessons live in _posts as YYYY-MM-DD-title.md
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
