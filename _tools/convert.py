@@ -120,12 +120,16 @@ def derive_subtitle(meta, title, post_date):
                 s = tail.lstrip("|·- ").strip()
             else:
                 s = ""
+        s = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", s)  # [text](url) -> text
         s = post_date_re.sub("", s)               # drop the date already in the post date
         s = re.sub(r"\s*\|\s*", " · ", s)
         s = re.sub(r"\s{2,}", " ", s).strip(" ·—-")
         if s and s.lower() != title.lower() and s not in parts:
             parts.append(s)
-    return (" · ".join(parts))[:200]
+    sub = " · ".join(parts)
+    if len(sub) > 170:                            # trim to a whole word, never mid-word
+        sub = sub[:170].rsplit(" ", 1)[0].rstrip(" ·,—-") + "…"
+    return sub
 
 
 def slugify(title):
