@@ -96,10 +96,10 @@ fi
 # ---- 3. apply, commit & push ----
 for e in "${CHANGED[@]}"; do base="${e#* }"; cp "$STAGE/$base" "_posts/$base"; done
 say "Committing & pushing…"
-git pull --rebase --quiet origin main || true
 git add _posts
 git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" \
     commit -qm "Publish lessons: $nnew new, $nupd updated"
+git pull --rebase --quiet origin main || true   # replay our commit on any remote changes
 git push -q origin main
 say "Pushed."
 
