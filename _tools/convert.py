@@ -129,9 +129,11 @@ def derive_subtitle(meta, title, post_date):
 
 
 def slugify(title):
-    s = title.lower()
-    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
-    return re.sub(r"-{2,}", "-", s)[:60] or "lesson"
+    s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+    s = re.sub(r"-{2,}", "-", s)
+    if len(s) > 70:                      # trim to whole words, never mid-word
+        s = s[:70].rsplit("-", 1)[0]
+    return s or "lesson"
 
 
 def demote_headings(text):

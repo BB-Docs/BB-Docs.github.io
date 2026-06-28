@@ -90,20 +90,29 @@ if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Site rebuilds in ~1 min: $LESSON_URL"
   exit 0
 fi
-say "Waiting for GitHub Pages build…"
-for i in $(seq 1 25); do
-  st="$(gh api "repos/${REPO}/pages/builds/latest" --jq '.status' 2>/dev/null || echo '?')"
-  case "$st" in
-    built)   break ;;
-    errored) die "Pages build errored: $(gh api "repos/${REPO}/pages/builds/latest" --jq '.error.message')" ;;
-    *)       sleep 12 ;;
-  esac
+HEAD="$(git rev-parse HEAD)"
+say "Waiting for the Pages build of THIS commit…"
+for i in $(seq 1 30); do
+  info="$(gh api "repos/${REPO}/pages/builds/latest" --jq '.status+" "+(.commit // "-")' 2>/dev/null || echo '? -')"
+  st="${info%% *}"; sha="${info##* }"
+  if [ "$sha" = "$HEAD" ]; then
+    [ "$st" = "built" ]   && break
+    [ "$st" = "errored" ] && die "Pages build errored: $(gh api "repos/${REPO}/pages/builds/latest" --jq '.error.message')"
+  fi
+  sleep 12
 done
 
-code="$(curl -s -o "$TMP/live.html" -w '%{http_code}' "$LESSON_URL")"
-leftover="$(grep -c '!!!' "$TMP/live.html" || true)"
-if [ "$code" = "200" ] && [ "$leftover" = "0" ]; then
+# The page can lag a few seconds behind a "built" status (CDN) — poll for it.
+say "Checking the live page…"
+code="000"
+for i in $(seq 1 15); do
+  code="$(curl -s -o "$TMP/live.html" -w '%{http_code}' "$LESSON_URL")"
+  [ "$code" = "200" ] && break
+  sleep 8
+done
+leftover="$(grep -c '!!!' "$TMP/live.html" 2>/dev/null || true)"
+if [ "$code" = "200" ] && [ "${leftover:-0}" = "0" ]; then
   printf "\033[1;32m✓ Live:\033[0m %s\n" "$LESSON_URL"
 else
-  die "Verify failed (HTTP $code, leftover '!!!' markers: $leftover): $LESSON_URL"
+  die "Verify failed (HTTP $code, leftover '!!!' markers: ${leftover:-?}): $LESSON_URL"
 fi
