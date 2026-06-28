@@ -1,6 +1,6 @@
 ---
 title: "What Is the Difference between a Field and a Man of the Field, in the Work?"
-subtitle: "Morning Lesson · Rabash, Article No. 6 (1988) · Companion lesson by Rav Laitman, February 1, 2002 · Supplementary reading: 'The Association of the Quality of Judgment with Mercy,' Kabbalah for the Beg"
+subtitle: "Morning Lesson · Rabash, Article No. 6 (1988) · Companion lesson by Rav Laitman, February 1, 2002 · Supplementary reading: 'The Association of the Quality of Judgment…"
 date: 2026-06-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Peace in the World"
-subtitle: "Study guide · Article by Baal HaSulam · Lesson by Rav Laitman"
+subtitle: "Lesson by Rav Laitman · Article by Baal HaSulam"
 date: 2026-06-26
 ---
 
