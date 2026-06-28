@@ -19,54 +19,100 @@ MONTHS = ("January February March April May June July August September "
 MONTH_RE = "|".join(MONTHS)
 
 
+# H1 headings too generic to use as a lesson title.
+GENERIC_H1 = {
+    "kabbalah class notes", "kabbalah lesson study guide", "study guide",
+    "lesson notes", "kabbalah study notes", "class notes",
+    "kabbalah study guide", "morning lesson", "morning lessons",
+}
+
+
+def filename_topic(name):
+    """Pull a human title out of a filename like
+    'June27_2026 Afternoon Help From Above_MD.md' -> 'Help From Above'."""
+    s = os.path.splitext(name)[0]
+    s = re.sub(r"(%s)\s*\d{1,2}(-\d+)?[_ ]\d{4}" % MONTH_RE, " ", s, flags=re.I)
+    s = re.sub(r"[_]+", " ", s)
+    s = re.sub(r"\b(MD|Morning|Afternoon|Evening)\b", " ", s, flags=re.I)
+    s = re.sub(r"\s{2,}", " ", s).strip(" -_")
+    return s
+
+
 def split_header(text):
     """Return (header_block, body) split on the first horizontal-rule `---`."""
     lines = text.splitlines()
     for i, ln in enumerate(lines):
         if ln.strip() == "---":
             return "\n".join(lines[:i]), "\n".join(lines[i + 1:]).lstrip("\n")
-    # No rule: treat a leading H1 + following non-blank lines as the header.
     return "", text
 
 
-def derive_date(header, fallback_name):
-    """Find 'Month DD, YYYY' in the header; fall back to date in filename."""
-    m = re.search(r"\b(%s)\s+(\d{1,2}),?\s+(\d{4})\b" % MONTH_RE, header)
-    if m:
-        mon = MONTHS.index(m.group(1)) + 1
-        return "%s-%02d-%02d" % (m.group(3), mon, int(m.group(2)))
-    # Filename like June27_2026 or June26-2_2026
-    m = re.search(r"\b(%s)\s*(\d{1,2}).*?(\d{4})" % MONTH_RE, fallback_name)
-    if m:
-        mon = MONTHS.index(m.group(1)) + 1
-        return "%s-%02d-%02d" % (m.group(3), mon, int(m.group(2)))
-    raise SystemExit("Could not derive a date from the header or filename.")
-
-
-def derive_title(header):
-    """Prefer the first quoted article title; else the cleaned H1."""
-    q = re.search(r'"([^"]{3,})"', header)
-    if q:
-        return q.group(1).strip()
-    h1 = re.search(r"^#\s+(.+)$", header, re.MULTILINE)
-    if h1:
-        # Drop trailing " — Study Guide" style suffixes.
-        return re.sub(r"\s*[—-]\s*(study guide|.*lesson.*)$", "", h1.group(1),
-                      flags=re.IGNORECASE).strip()
-    raise SystemExit("Could not derive a title from the header.")
-
-
-def derive_subtitle(header, title):
-    """Build a clean one-line subtitle from the descriptive meta lines."""
-    date_re = re.compile(r"\s*(%s)\s+\d{1,2},?\s+\d{4}" % MONTH_RE)
-    cleaned = []
+def parse_header(header):
+    """Return (h1, meta_lines) with markdown emphasis stripped from meta."""
+    h1 = None
+    meta = []
     for raw in header.splitlines():
-        s = raw.strip().strip("*_ ")
-        if not s or s.startswith("#"):
+        t = raw.strip()
+        if t.startswith("#"):
+            if h1 is None:
+                h1 = re.sub(r"^#+\s*", "", t).strip()
             continue
-        # An 'Article: "Title" by/| ...' line -> keep only the attribution.
+        s = raw.replace("*", "").strip().strip("_ ").strip()
+        if s:
+            meta.append(s)
+    return h1, meta
+
+
+def get_label(line):
+    """Split 'Label: value' -> ('Label', 'value'); else (None, line)."""
+    m = re.match(r"([A-Za-z][A-Za-z ]{1,20}):\s*(.*)", line)
+    return (m.group(1).strip(), m.group(2).strip()) if m else (None, line)
+
+
+def derive_date(header, name):
+    """Prefer the date in the filename; else the latest date in the header."""
+    m = re.search(r"(%s)\s*(\d{1,2}).*?(\d{4})" % MONTH_RE, name)
+    if m:
+        return "%s-%02d-%02d" % (m.group(3), MONTHS.index(m.group(1)) + 1,
+                                 int(m.group(2)))
+    dates = re.findall(r"(%s)\s+(\d{1,2}),?\s+(\d{4})" % MONTH_RE, header)
+    if dates:
+        ymd = max((int(y), MONTHS.index(mn) + 1, int(d)) for mn, d, y in dates)
+        return "%04d-%02d-%02d" % ymd
+    raise SystemExit("Could not derive a date from the filename or header.")
+
+
+def derive_title(h1, meta, name):
+    """Topic: line > first quoted phrase > non-generic H1 > filename topic."""
+    for line in meta:
+        lbl, val = get_label(line)
+        if lbl and lbl.lower() == "topic" and val:
+            return val
+    for line in meta:
+        q = re.search(r'"([^"]{3,})"', line)
+        if q:
+            return q.group(1).strip()
+    if h1:
+        c = re.sub(r"\s*[—-]\s*study guide$", "", h1, flags=re.IGNORECASE).strip()
+        if c.lower() not in GENERIC_H1:
+            return c
+    ft = filename_topic(name)
+    return ft or h1 or "Lesson"
+
+
+def derive_subtitle(meta, title, post_date):
+    """One-line subtitle from meta lines, minus the title and the post date."""
+    y, mo, d = post_date.split("-")
+    post_date_re = re.compile(
+        r"%s\s+0?%d,?\s+%s" % (MONTHS[int(mo) - 1], int(d), y), re.IGNORECASE)
+    parts = []
+    for line in meta:
+        lbl, val = get_label(line)
+        if lbl and lbl.lower() == "topic":       # that's the title
+            continue
+        s = line
         m = re.match(r'article:\s*"[^"]*"\s*(.*)', s, re.IGNORECASE)
-        if m:
+        if m:                                     # 'Article: "Title" by X' -> 'Article by X'
             tail = m.group(1).strip()
             if tail.lower().startswith("by "):
                 s = "Article by " + tail[3:].strip()
@@ -74,14 +120,12 @@ def derive_subtitle(header, title):
                 s = tail.lstrip("|·- ").strip()
             else:
                 s = ""
-        # Drop any embedded date, normalise separators, tidy edges.
-        s = date_re.sub("", s)
+        s = post_date_re.sub("", s)               # drop the date already in the post date
         s = re.sub(r"\s*\|\s*", " · ", s)
-        s = s.strip(" ·—-")
-        # Skip empties, the bare title, and duplicates.
-        if s and s.lower() != title.lower() and s not in cleaned:
-            cleaned.append(s)
-    return (" · ".join(cleaned))[:160]
+        s = re.sub(r"\s{2,}", " ", s).strip(" ·—-")
+        if s and s.lower() != title.lower() and s not in parts:
+            parts.append(s)
+    return (" · ".join(parts))[:200]
 
 
 def slugify(title):
@@ -144,11 +188,12 @@ def main():
     with open(a.input, encoding="utf-8") as f:
         text = f.read()
     header, body = split_header(text)
+    h1, meta = parse_header(header)
     name = os.path.basename(a.input)
 
     date = a.date or derive_date(header, name)
-    title = a.title or derive_title(header)
-    subtitle = a.subtitle or derive_subtitle(header, title)
+    title = a.title or derive_title(h1, meta, name)
+    subtitle = a.subtitle if a.subtitle is not None else derive_subtitle(meta, title, date)
 
     # Demote only if the body still has level-1 headings (keeps a single page H1).
     if re.search(r"^#\s+", body, re.MULTILINE):

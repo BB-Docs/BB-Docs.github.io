@@ -1,7 +1,7 @@
 ---
-title: "Kabbalah Class Notes"
-subtitle: "Lesson:** (Reviewed) · Source:** Igrot HaRav (Letters of the Rav), Vol. 1, p. 193 · Topic:** Help That Comes From Above"
-date: 2002-02-17
+title: "Help That Comes From Above"
+subtitle: "Lesson: February 17, 2002 (Reviewed June 16, 2026) · Source: Igrot HaRav (Letters of the Rav), Vol. 1, p. 193"
+date: 2026-06-17
 ---
 
 ## 1. What Is Help From Above?
