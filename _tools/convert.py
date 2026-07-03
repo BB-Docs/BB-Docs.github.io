@@ -27,6 +27,16 @@ GENERIC_H1 = {
 }
 
 
+def decamel(s):
+    """Split a run-together CamelCase token into words, only if it has no
+    spaces (e.g. 'AdheringToTheFriends' -> 'Adhering To The Friends')."""
+    if " " in s or not re.search(r"[a-z][A-Z]", s):
+        return s
+    s = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", s)
+    s = re.sub(r"(?<=[A-Z])(?=[A-Z][a-z])", " ", s)
+    return s
+
+
 def filename_topic(name):
     """Pull a human title out of a filename like
     'June27_2026 Afternoon Help From Above_MD.md' -> 'Help From Above'."""
@@ -198,7 +208,7 @@ def main():
     name = os.path.basename(a.input)
 
     date = a.date or derive_date(header, name)
-    title = a.title or derive_title(h1, meta, name)
+    title = a.title or decamel(derive_title(h1, meta, name))
     subtitle = a.subtitle if a.subtitle is not None else derive_subtitle(meta, title, date)
 
     # Demote only if the body still has level-1 headings (keeps a single page H1).

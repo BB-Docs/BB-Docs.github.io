@@ -8,6 +8,9 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: /lessons/:year/:month/:day/:title/
+# Author is in IST; render lessons dated "today" even if UTC hasn't caught up.
+timezone: Asia/Kolkata
+future: true
 
 # Show newest lessons first on the home page
 paginate: 20
