@@ -1,9 +1,14 @@
 #!/usr/bin/env bash
 #
 # publish-lesson — sync lesson .md files from a Google Drive folder to the
-# Jekyll site. Converts every .md, publishes any that are NEW or CHANGED
+# Jekyll site. Converts every .md, publishes any post that is NEW or CHANGED
 # (deterministic slugs => no duplicates), pushes, and verifies the live pages.
-# Never deletes posts whose source disappears (pruning stays manual).
+#
+# If two source files resolve to the SAME slug+date (a genuine collision), the
+# "primary" file keeps the clean slug and the other(s) get a suffix derived
+# from a session marker in the filename (workshop/pm/afternoon/evening) or -2,
+# so no lesson is ever silently overwritten. Never deletes posts whose source
+# disappears (pruning stays manual).
 #
 # Usage:
 #   publish-lesson                 # sync ALL .md from the Drive folder
@@ -39,6 +44,24 @@ say()  { printf "\033[1;34m▸\033[0m %s\n" "$*"; }
 warn() { printf "\033[1;33m!\033[0m %s\n" "$*" >&2; }
 die()  { printf "\033[1;31m✗ %s\033[0m\n" "$*" >&2; exit 1; }
 
+# A filename carries a "secondary session" marker => not the primary of a clash.
+has_qual() {
+  case "$(basename "$1" | tr '[:upper:]' '[:lower:]')" in
+    *workshop*|*-pm*|*_pm*|*afternoon*|*evening*) return 0 ;;
+    *) return 1 ;;
+  esac
+}
+# Suffix to disambiguate a colliding slug, from the filename's session marker.
+qualifier() {
+  case "$(basename "$1" | tr '[:upper:]' '[:lower:]')" in
+    *workshop*)          echo "workshop" ;;
+    *-pm*|*_pm*|*\ pm*)  echo "pm" ;;
+    *afternoon*)         echo "afternoon" ;;
+    *evening*)           echo "evening" ;;
+    *)                   echo "2" ;;
+  esac
+}
+
 TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
 SRC="$TMP/src"; STAGE="$TMP/stage"; mkdir -p "$SRC" "$STAGE"
 
@@ -59,32 +82,58 @@ count="$(find "$SRC" -name '*.md' | wc -l | tr -d ' ')"
 [ "$count" -gt 0 ] || die "No .md files found."
 say "Scanning $count source file(s)…"
 
-# ---- 2. convert each and diff against _posts (no writes yet) ----
+# ---- 2. convert each into its own staging dir (unique paths) ----
 cd "$SITE_DIR"
-CHANGED=()   # entries: "N <basename>" (new) or "U <basename>" (updated)
+idx=0
 while IFS= read -r src; do
-  if ! POST="$(python3 _tools/convert.py "$src" --posts-dir "$STAGE" 2>"$TMP/err")"; then
-    warn "Skipped $(basename "$src"): $(tr '\n' ' ' < "$TMP/err")"
-    continue
+  d="$STAGE/$idx"; mkdir -p "$d"
+  if ! POST="$(python3 _tools/convert.py "$src" --posts-dir "$d" 2>"$TMP/err")"; then
+    warn "Skipped $(basename "$src"): $(tr '\n' ' ' < "$TMP/err")"; continue
   fi
-  base="$(basename "$POST")"
-  if [ ! -f "_posts/$base" ]; then
-    CHANGED+=("N $base")
-  elif ! cmp -s "$POST" "_posts/$base"; then
-    CHANGED+=("U $base")
-  fi
+  B_BASE[$idx]="$(basename "$POST")"; B_STAGE[$idx]="$POST"; B_SRC[$idx]="$src"
+  idx=$((idx + 1))
 done < <(find "$SRC" -name '*.md' | sort)
+N=$idx
+[ "$N" -gt 0 ] || die "No convertible .md files."
 
-if [ "${#CHANGED[@]}" -eq 0 ]; then
+# ---- 3. assign final slugs (primaries first so they keep the clean slug) ----
+order=""
+for ((k = 0; k < N; k++)); do has_qual "${B_SRC[$k]}" || order="$order $k"; done
+for ((k = 0; k < N; k++)); do has_qual "${B_SRC[$k]}" && order="$order $k"; done
+
+claimed=""
+CHG_TAG=(); CHG_FINAL=(); CHG_STAGE=()
+for k in $order; do
+  base="${B_BASE[$k]}"; stage="${B_STAGE[$k]}"; src="${B_SRC[$k]}"
+  final="$base"
+  if printf ' %s ' $claimed | grep -qF " $final "; then
+    sfx="$(qualifier "$src")"; final="${base%.md}-$sfx.md"; n=2
+    while printf ' %s ' $claimed | grep -qF " $final "; do
+      final="${base%.md}-$sfx-$n.md"; n=$((n + 1))
+    done
+    warn "Slug collision on ${base%.md} — publishing $(basename "$src") as ${final%.md}"
+  fi
+  claimed="$claimed $final"
+  if [ ! -f "_posts/$final" ]; then
+    CHG_TAG+=("N"); CHG_FINAL+=("$final"); CHG_STAGE+=("$stage")
+  elif ! cmp -s "$stage" "_posts/$final"; then
+    CHG_TAG+=("U"); CHG_FINAL+=("$final"); CHG_STAGE+=("$stage")
+  fi
+done
+
+M=${#CHG_FINAL[@]}
+if [ "$M" -eq 0 ]; then
   say "Everything is already up to date — nothing to publish."
   exit 0
 fi
 
 nnew=0; nupd=0
-for e in "${CHANGED[@]}"; do
-  tag="${e%% *}"; base="${e#* }"
-  if [ "$tag" = "N" ]; then nnew=$((nnew+1)); printf "  \033[1;32mnew\033[0m      %s\n" "$base"
-  else                      nupd=$((nupd+1)); printf "  \033[1;33mupdated\033[0m  %s\n" "$base"; fi
+for ((j = 0; j < M; j++)); do
+  if [ "${CHG_TAG[$j]}" = "N" ]; then
+    nnew=$((nnew + 1)); printf "  \033[1;32mnew\033[0m      %s\n" "${CHG_FINAL[$j]}"
+  else
+    nupd=$((nupd + 1)); printf "  \033[1;33mupdated\033[0m  %s\n" "${CHG_FINAL[$j]}"
+  fi
 done
 say "$nnew new, $nupd updated."
 
@@ -93,8 +142,8 @@ if [ "$DRYRUN" -eq 1 ]; then
   exit 0
 fi
 
-# ---- 3. apply, commit & push ----
-for e in "${CHANGED[@]}"; do base="${e#* }"; cp "$STAGE/$base" "_posts/$base"; done
+# ---- 4. apply, commit & push ----
+for ((j = 0; j < M; j++)); do cp "${CHG_STAGE[$j]}" "_posts/${CHG_FINAL[$j]}"; done
 say "Committing & pushing…"
 git add _posts
 git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" \
@@ -103,13 +152,13 @@ git pull --rebase --quiet origin main || true   # replay our commit on any remot
 git push -q origin main
 say "Pushed."
 
-# ---- 4. verify ----
+# ---- 5. verify ----
 url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
             "$SITE_URL" "${b:0:4}" "${b:5:2}" "${b:8:2}" "${b:11}"; }
 
 if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Rebuilds in ~1 min:"
-  for e in "${CHANGED[@]}"; do echo "   $(url_for "${e#* }")"; done
+  for ((j = 0; j < M; j++)); do echo "   $(url_for "${CHG_FINAL[$j]}")"; done
   exit 0
 fi
 
@@ -127,8 +176,8 @@ done
 
 say "Checking live pages…"
 ok=1
-for e in "${CHANGED[@]}"; do
-  u="$(url_for "${e#* }")"; code="000"
+for ((j = 0; j < M; j++)); do
+  u="$(url_for "${CHG_FINAL[$j]}")"; code="000"
   for i in $(seq 1 15); do
     code="$(curl -s -o "$TMP/live.html" -w '%{http_code}' "$u")"
     [ "$code" = "200" ] && break
