@@ -1,171 +1,116 @@
 ---
 title: "What to Demand from the Assembly of Friends"
-subtitle: "Morning Lesson · Rabash · Recorded lesson by Rav Laitman, March 28, 2003"
+subtitle: "Afternoon Lesson · Rabash · Live workshop and Q&A session with Rav Laitman and Moshe, with clips from Rav"
 date: 2026-07-01
 ---
 
 ### Opening
 
-The lesson comes in two parts. The first reads Rabash's article on the assembly of friends: why "love your friend as yourself" is the path to loving the Creator, and what a group of friends should — and should not — bring to their gathering. The second part turns to the deeper question underneath the group work: how does a person acquire genuine free choice at all, when everything about him — his nature, his desires, his reactions — is otherwise entirely run by the Creator? The lesson's answer is that this freedom cannot be found by looking inward. It can only be extracted from work with a society — specifically, from turning the very separation and hatred between people into a springboard toward connection.
+This is a second, workshop-style session on the same article studied in the morning: what to demand from the assembly of friends. Where the morning lesson read straight through Rabash's text, this session works the article through clips of Rav Laitman and live audience questions — from Ukraine, Turkey, and elsewhere — pressing on the practical edge of the teaching. The central puzzle running through the whole session: if a person's nature, thoughts, and reactions are entirely run by the Creator, where does genuine free choice come from, and how does an ordinary gathering of friends actually produce it?
 
 ---
 
-## Part 1 — Why Love of Friends Leads to Love of the Creator
+## Part 1 — Why Gather: Chavarim and Chibur
 
-### The Question
+### Connection Is the Point
 
-Our Sages said: *"Make for yourself a Rav, a teacher; buy yourself a friend; and judge every person to the side of merit."* The lesson asks: why is "buy yourself a friend" tied to judging others favorably, and why does this matter for reaching the Creator at all?
+The Hebrew word for friends, **chavarim**, comes from **chibur** — connection. The session opens by asking what a "gathering of friends" is actually supposed to build: not just company, but a correctly built connection through which the Creator can be found.
 
-### The Answer from Matan Torah
+> "Where is the creator when we make an effort to connect? This is what we're going to talk about today."
 
-Baal HaSulam's *Matan Torah* explains that the commandment to love one's friend is meant to bring a person to love of the Creator — adhesion with Him. He notes that the commandments between man and man are, in a sense, a more reliable path than the commandments between man and God:
+### Reading the Article: What the Gathering Must Produce
 
-> "The work in the commandments between man and God is fixed and specific, and none stand to demand it... and everything that is done out of habit is no longer useful. But the commandments between man and man are changing and irregular, and demands surround him wherever he turns. Hence, their cure is much more certain and their aim is closer."
+The article is read aloud in the group. Its main points, as covered in this session:
 
-Because relationships with people are unpredictable and constantly demanding, they keep a person genuinely engaged, where fixed ritual can become rote. The goal reached through this work is **equivalence of form**: a state where all of a person's thoughts and desires aim only at the benefit of the Creator, not his own benefit — a correction rooted in the original restriction placed on the will to receive.
-
-### The Creator's Own Joy
-
-The purpose of creation is for the Creator to do good to His creations — like a king with abundance but no guests to enjoy it. To avoid the "bread of shame," creatures must receive with the aim of delighting the Creator rather than simply receiving. But bestowal alone is not the full picture — the Creator Himself takes joy in bestowing, and a person's bestowal must carry that same joy:
-
-> "There was no such joy before the Creator since the day the world was created, as the joy that he is destined to rejoice with the righteous in the future."
-
-If a person bestows without joy, equivalence of form is missing — even though the action itself is correct.
+- **The goal must be clear to everyone**: the gathering exists to produce **love of friends** — each friend awakened to love the others.
+- **Two forms of love**: natural love, which only needs to not be spoiled, and love produced by actively doing good for another — "one who gives a present to another causes him to love him."
+- **High spirits are the one thing everyone needs**, even though each person's actual troubles differ. Each friend's task before coming to the gathering is to consider how he can bring the others a good mood, not to bring discouragement that will send people home feeling worse than when they arrived.
+- **Right line only in the group; left line only alone.** During the assembly, only the right line — picturing complete faith and wholeness — may be voiced. The left line, honestly assessing one's difficulties, is permitted only in private, "not more than half an hour a day." Two people together must never dwell on the left line, "for only thus can they receive assistance from the society."
+- **Judging to the side of merit** is what allows a person to still receive help from a society that looks, from the outside, like it's struggling — "at that time, he must judge everyone to the side of merit."
 
 ---
 
-## Part 2 — Coercion Is Not Enough: Why Joy Cannot Be Forced
+## Part 2 — Clip One: The Force That Makes a Person Free
 
-A person can force himself to act in bestowal even when the body objects — this is called **coercing and subduing the evil within**. But joy cannot be produced this way. Joy is the result of genuine enjoyment, and coercion, by definition, is the absence of enjoyment: "where there is pleasure, coercion is out of the picture."
+The session's first clip from Rav addresses the question directly: how does a person become an actual **Adam** rather than simply being operated by the Creator and by nature?
 
-This leaves a real problem: the work requires joy, yet a person can only reach the stage of coercive action on his own. The missing joy has to be **given from above** — described in the lesson as being "aided," through the revelation of "a holy soul." Only this help from above allows a person to genuinely enjoy his own acts of bestowal.
+> "In order to really not be operated by the Creator, but to be an Adam, you need to receive some kind of an exterior force... If I can build this kind of force, [I can] move my nature, the desire to receive which the Creator has instilled in me, and then I have vacant space, room left, in which I can decide what I really want to do."
 
-### Why This Matters More Than It Sounds
+This force cannot be found within a person — anything discovered inside is still just more of his given nature, still from the Creator. It has to come from something genuinely outside him: **the environment**. But the environment is corrupted, "just the same way I am." The resolution offered is to use the very brokenness of that environment as raw material:
 
-The lesson raises the stakes of this point. A person who sees only darkness — in his corporeal life and in his spiritual work — like a person wearing dark glasses, is in a state beyond a missing equivalence of form. He is, in that state, **faithless** — unable to say that the Creator leads the world as "the good who does good." So gladness is not a mood to indulge; its absence signals an actual break in faith. A person must believe, above reason, that everything the Creator does is done only in benevolence — even while, by his own reason, he might prefer to see this proven to him directly.
-
----
-
-## Part 3 — Right Line and Left Line: Why Both Are Needed
-
-### Two Lines, One Purpose
-
-- **Right line:** a person pictures himself as already possessing complete faith — that his organs already feel the Creator's benevolent guidance. This is faith above reason.
-- **Left line:** a person honestly assesses his actual state "within reason" — how much faith, how much genuine feeling of the Creator he actually has during prayer and study.
-
-### Why Not Just the Right Line?
-
-If a person stayed only in the right line, it would stop being "right" relative to anything and would simply become his assumed reality — a **single line**, mistaking imagined wholeness for actual attainment. The left line is what allows the right line to mean something: seeing his true state of immersion in self-love creates the room for genuine **prayer from the bottom of the heart**, and for the right line to then function as a real act of faith above reason rather than self-deception.
-
-The two lines together lead to a **middle line** — where, the lesson says, the Creator gives the person a soul, and complete faith arrives specifically through the Creator's own aid, since "by nature, man cannot achieve this by himself."
-
-**Practical rule for group settings:** the left line — voicing one's discouragement or difficulty — is reserved for private, solitary reflection, and even then for no more than about half an hour a day. Two people together must never dwell on the left line, "for only thus they can receive assistance from the society."
+> "If we use our separation as a springboard, as a means, precisely by which through our separation from there we can derive the force which is against nature, anti-nature, then we'll be able to succeed."
 
 ---
 
-## Part 4 — What the Assembly of Friends Should Actually Do
+## Part 3 — Discussing Problems Without Falling Into the Left Line
 
-### The Goal of Gathering
+A question from Ukraine asks the obvious practical tension: if the left line is forbidden in the gathering, how can the group ever discuss real problems in the "tent" (a Ten, the small study group)?
 
-When friends gather, the result they are working toward is **love of friends** — each one awakened to love the others. This has to be produced through action; natural love, where it exists, only needs to not be spoiled, but the deeper form of love comes from actively doing good for one another.
+The answer given: the group must first reach a state of true connection — "a true inner embrace" — before touching any problem. Only from that height can a problem be raised, and even then only to ask how to **rise above it together**, not to sit inside it:
 
-### Bring Life, Not Discouragement
+> "How do we really help each other in order to be above it? That's called the force of **Arvut** — that I release the friend, that he'll think only about spirituality."
 
-Because everyone needs "high spirits," but for different reasons, each person's task before the gathering is to consider how he can bring a good mood to the others — not to raise anything that would bring the group down:
-
-> "They should be careful and avoid discussing things that can bring sadness to the society, for by that one causes the others to feel bad."
-
-If someone genuinely needs help, the answer is not to raise it during the regular assembly — he should speak to a close friend, who can arrange separate, private support, or a special meeting apart from the main gathering.
-
-### Buying a Friend: Payment Through Exertion
-
-The lesson reinterprets "buy yourself a friend" — buying requires payment, and the payment here is exertion, specifically the effort of judging a friend to the side of merit, even when it is hard. It is hardest, the lesson notes, when a friend has been actually disrespectful or slanderous. Judging that friend favorably anyway is precisely the labor that earns the "payment":
-
-> Through this exertion, a person is given strength from above to love all the friends without exception — this is called a **segula** (a special remedy or power), and this is the true meaning of "buy yourself a friend."
-
-Since love of others in this context does not mean the friends must love the practitioner back — it means he must love them, regardless of what they feel toward him — the effort is not conditional on being liked in return.
-
-### Obtaining the Greatness of the Creator Through the Group
-
-Citing *Matan Torah* again, the lesson lays out two conditions for a person to obtain a real sense of the Creator's greatness through the environment:
-
-| Condition | What It Requires |
-|---|---|
-| **1. Constant appreciation** | Always listen to and assume the environment's appreciation of the goal, even to the point of exaggeration |
-| **2. A genuinely great environment** | "In the multitude of people is the King's glory" — quality of the group matters, not sheer size |
-
-To meet the first condition, each person must feel he is the smallest among the friends — since only the small can be impressed by the greatness of others; the great cannot be impressed by someone smaller. To meet the second, each person must actively extol every friend's virtues, treating each one as though he were the greatest of the generation — this is what allows the environment, collectively, to function as sufficiently great.
+If a specific problem (e.g., a friend not coming to lessons) is raised before connection is built, "nothing will happen if we only get into the negative." The instruction repeated later in the session is blunt about the time this can take — "it takes a day, so it does" — but connection must come first, because it is the Creator who gave the group its problems specifically so they would be driven to reach that level of unity.
 
 ---
 
-## Part 5 — Free Choice: The Vacant Space and the Need for an Outside Force
+## Part 4 — The Friend's Corporeality Is My Spirituality
 
-### Nothing in Me Is Truly "Mine"
+Two separate questions (one from "a friend from 1939," one from "WorldKlee") press on the same issue: should the group discuss a friend's actual life problems — health, finances, family — or only "spiritual" matters?
 
-The second half of the lesson turns to a harder question: where does free choice actually come from? Everything about a person — how he was born, his nature, his instincts, his reactions shaped by habit and environment — is, in truth, entirely run by the Creator. There is no independent "self" hiding anywhere inside a person to point to; the illusion of independence exists only because the Creator is concealed.
+The answer distinguishes what is discussed from why it is discussed:
 
-### Malchut's Restriction as the Model
+- The group does **not** turn a friend's corporeal troubles into their own workshop topic — "we're not having a conversation, how is the bank going and all that."
+- But the group **does** care about a friend's corporeal state, because it wants to see, and show, that it is invested in him — and because a friend needs the basic conditions (family, income, a roof) to be able to stay on the spiritual path at all.
+- The concrete practice offered is **prayer**: the group gathers and prays for the friend — not primarily to fix his circumstances, but so that his thoughts can be freed to focus on spiritual work. "This is what we are asking the Creator for, that He'll change it."
 
-The lesson draws a parallel to **Malchut of Ein Sof**, who restricted herself in order to act, to bestow, to make something by her own power rather than simply receive. To truly become **Adam** (man) rather than simply be operated by the Creator's governance, a person similarly needs an external force — something that can push his nature (the will to receive) out of control of him, opening a "vacant space" where he can actually determine, by his own power, what he wants to do.
-
-**Why this force cannot come from within:** if the force were discoverable inside a person, it would still just be more of his given nature — that is, still from the Creator. It has to come from something genuinely outside him.
-
-### The Society as the Only Available "Outside"
-
-The only thing outside a person that is not simply the Creator's own concealed nature is the environment — other broken souls, and the very separation and hatred between them (traced back to Adam HaRishon's shattering into 600,000 parts). The lesson's key move is to treat that separation not as a problem to avoid but as raw material:
-
-> If a person uses the natural hatred that exists between the broken souls as a springboard — extracting from that very force of separation its opposite, the force of adhesion — this is the only way to gain the force needed to act freely, to push back against his own will to receive, and to create the free space within his own desires.
-
-This is the meaning of "Adam" from the Hebrew root **Domeh** ("resembling") — to liken oneself to the Creator, specifically by exercising a freedom that could only be extracted from society, not discovered alone.
+This is offered as the meaning of "the friend's corporeality is my spirituality" — his ordinary troubles become the vessel through which the group works, and prays, spiritually.
 
 ---
 
-## Part 6 — Four Degrees of Independence: Still, Vegetative, Animate, Speaking
+## Part 5 — Clip Four: Discovering That My Nature Is Bad
 
-Drawing on the *Shamati* article "Matter of Still, Vegetative, Animate, Speaking," the lesson lays out four stages of how much independence a created being has from the will (the "host") governing it:
+A second clip from Rav is introduced to address a recurring question: what does it mean to "judge a friend to the side of merit," especially when the friend's behavior genuinely looks wrong?
 
-| Degree | Independence | Limitation |
-|---|---|---|
-| **Still (Domem)** | None — entirely under the host's authority, "like an embryo," fulfilling all its will | No independent desire at all |
-| **Vegetative (Tzomeach)** | A little — can already act somewhat against the host's view | Still fully bound to the collective laws of its own kind (plants share a season, live and die together) — no individuality even in this limited independence |
-| **Animate (Chai)** | More — has its own distinct quality and can act against its nature; not enslaved to a shared collective fate | Cannot exit itself to feel others; lives only in the present, tied to itself |
-| **Speaking (Medaber)** | Most — in addition to acting against its own nature and not being bound to the environment's fate, it can genuinely **feel others**, caring for the public's sorrow and comfort | This added merit is what allows it to acquire beyond the present moment — reaching into both past and future |
+> "I invest in the friends because I'm told invest in them. And I don't want to invest in them... How much you don't want it, how much the power of separation that exists between the broken vessels — that this is where the evil inclination is. The evil inclination is against adhesion, it's against bestowal."
 
-The key distinction at the "speaking" level is the **sense of others**: not merely perceiving other people (animals do this too) but being willing to actually come out of one's own desires and feel another's experience as one's own. This is what "caring for the other" actually means, and it is what allows a person, by using independence correctly — turning it toward bestowal — to become similar to the Creator and ascend.
+The key move in the clip: a person cannot discover that his own nature is bad by working alone — left to himself, "I'll always discover that I'm good." It is only in the concrete work of connecting with others that a person discovers how much he does not actually want connection:
+
+> "It's only in the connection between us that I reveal my true nature, and only through that I can raise a prayer."
+
+Practically, this reframes how to respond when a friend's behavior seems wrong: rather than confronting him, the instruction is to pause and ask where the irritation is really coming from — "whatever irritates me is what I need to change inside myself." This is described as work above reason, since one's own reason is clear that the friend is at fault, while "the reason of the upper is very different."
 
 ---
 
-## Part 7 — Where the Divine Presence Actually Dwells
+## Part 6 — Where the Connection Actually Lives
 
-### Study Alone Cannot Reveal the Evil Inclination
+A question from Turkey asks what kind of connection the group actually needs to build to reveal the Creator's greatness. The answer returns to the article's instruction that friends should mainly speak about **the greatness of the Creator** — and ties this to Excerpt 8, read in the session:
 
-A striking claim closes the lesson: solitary study, even for twenty years, even accompanied by teaching others and real achievement, will never reveal to a person that his own nature is bad. Working alone, everything can feel like it is falling into place — what the lesson calls, referencing Baal HaSulam's introduction to the *Tikkunei Zohar*, "the potion of death": a false sense of advancement precisely because nothing has actually tested the person's self-love.
+> "If there will be work in connection between the friends, in the point of fusion between us, there the divinity will reside. We will feel the presence of the Creator there — not in each and every one, but rather in the connection between us."
 
-The recognition of one's own evil inclination is only available through the actual, concrete labor of trying to connect with friends — because it is specifically there, in trying to bridge the separation, that a person discovers how much he does not actually want connection.
+The connection itself is described as **a screen and reflected light** — the vessel formed by what a person rejects for himself, from which revelation is then received. This is offered as the answer to a related confusion raised later in the session: Rabash says not to bring dissatisfaction to the gathering, yet Rav's advice is often "don't be afraid, open your heart." The resolution given: connection must be built first — through speaking of the greatness of the Creator and of each friend — and only afterward, from that height, can any problem be addressed at all.
 
-### The Point of Connection Is the Vessel
+---
 
-The lesson's central image: the Divine Presence (**Shechinah**) does not dwell within any individual person. It dwells **in the connection between friends** — at the "welding point" or "melting point" where people actually work to bridge their separation:
+## Part 7 — Practical Closing Questions
 
-> "The connection between us is a screen and reflected light. The screen and the reflected light is the vessel. To the extent in which I reject for myself, and then I absorb the revelation."
+Two smaller questions round out the session:
 
-This reframes the entire purpose of the assembly: the work of the friends is not preparation for some later spiritual attainment — it is itself the actual site of spiritual work, right now, in whatever concealment, reward and punishment, or love a person currently experiences in that connection.
+**Praising a friend in the gathering** (from "WomanMak97"): is it appropriate to publicly praise a friend, for instance the head of the group, for something she did? The test given is simple: "if it contributes to our connection, we go for it. If it doesn't contribute to our connection, we don't go for it."
 
-### Above Reason, Clarified
-
-In closing discussion, "above reason" is clarified as something more modest than transcending logic altogether: it means accepting the guidance of someone greater — a teacher — and adopting his reasoning as one's own, even without yet seeing why it is correct. It is not a leap outside of reason entirely, but a willingness to act on someone else's judgment before one's own experience confirms it, trusting that this trust is itself the beginning of the work.
+**What do friends actually buy from each other?** Asked directly, the answer given is: love, the importance of the goal, and strength — "that it comes out hot, like it came out of an oven." Excerpt 5 is read to reinforce the mechanism: attempting good actions toward friends, even when there is no natural desire to do them, reveals that one's nature is against it — and this very revelation is what allows a person to recognize, and eventually be freed from, what the article calls the evil inclination.
 
 ---
 
 ## Key Themes & Takeaways
 
-1. **Love of friends is the path to love of the Creator.** The unpredictable, demanding nature of relationships between people makes them a more reliable training ground for equivalence of form than fixed ritual observance.
-2. **Bestowal without joy is incomplete — and its absence is a warning sign, not just a shortfall.** A person who sees only darkness is not merely lacking equivalence of form; he risks a state the lesson calls faithlessness.
-3. **Right line and left line are both necessary.** Imagined wholeness without honest self-assessment becomes self-deception; honest self-assessment without wholeness leaves no room for real prayer or forward movement.
-4. **The assembly of friends exists to raise spirits, not to process discouragement.** Difficulties are for private reflection or one-on-one support, never for the shared gathering.
-5. **"Buy yourself a friend" means paying with exertion** — specifically, the effort of judging a friend to the side of merit, especially when that friend has been unkind.
-6. **Free choice cannot be found within a person — it has to be extracted from the society.** The very separation and hatred between broken souls, used correctly, becomes the springboard to the force of adhesion and genuine freedom.
-7. **The Divine Presence dwells in the connection between people, not within any one person** — which is why solitary study, however extensive, cannot by itself reveal a person's true nature.
+1. **Chavarim (friends) comes from chibur (connection).** The purpose of any gathering is to build real connection, not merely to meet.
+2. **Free choice cannot be found inside a person — it must be extracted from the environment.** Using the natural separation and hatred between broken souls as a springboard produces the opposite force: adhesion.
+3. **Right line belongs to the group; left line belongs to private reflection**, and even then for no more than about half an hour a day.
+4. **Connection must be built before any problem is discussed.** Raising a difficulty before the group has reached real unity only deepens the problem instead of resolving it — this is the force of Arvut in practice.
+5. **A friend's corporeal troubles are not the group's subject matter, but they are its concern** — expressed through prayer that frees the friend to focus on spiritual work, not through turning his life into group discussion.
+6. **A person cannot discover his own bad nature alone.** It is revealed only through the actual, concrete labor of trying to connect with others.
+7. **The Divine Presence dwells in the connection between friends, not in any individual** — the connection itself functions as a screen and reflected light, the vessel through which revelation is received.
 
 ---
 
@@ -173,17 +118,13 @@ In closing discussion, "above reason" is clarified as something more modest than
 
 | Term | Definition |
 |------|------------|
-| **Equivalence of Form** | The state of having all one's thoughts and desires aimed at the Creator's benefit rather than one's own; the goal of the work in bestowal. |
-| **Bread of Shame** | The shame felt in receiving without earning; the reason creation must learn to receive with the intention to bestow. |
-| **Segula** | A special remedy or power; here, the strength given from above as a result of the exertion of judging a friend to the side of merit. |
-| **Right Line / Left Line** | Right: faith above reason, picturing oneself in wholeness. Left: honest, within-reason assessment of one's actual state. Both are needed; neither alone is sufficient. |
-| **Middle Line** | The state reached through the interplay of right and left lines, where the Creator gives the person a soul and complete faith. |
-| **Malchut of Ein Sof** | The will to receive prior to restriction; her self-restriction is the model for how a person creates a "vacant space" for free action. |
-| **Vacant (Free) Space** | The space within a person's desires not under the Creator's direct rule, created by pushing back the will to receive — where genuine free choice becomes possible. |
-| **Adam / Domeh** | "Man," from the Hebrew root meaning "to resemble" — becoming like the Creator through corrected, freely chosen bestowal. |
-| **Still, Vegetative, Animate, Speaking (Domem, Tzomeach, Chai, Medaber)** | Four ascending degrees of independence from one's governing nature, from no independent will (Still) to full "sense of others" and reach into past and future (Speaking). |
-| **Sense of Others** | The capacity to come out of one's own desires and feel another's experience as one's own; distinct from merely perceiving other people. |
-| **Shechinah** | The Divine Presence; in this lesson, said to dwell specifically in the connection between friends, not within any individual. |
-| **Screen and Reflected Light** | The mechanism of the vessel formed in genuine connection between people — rejecting self-interest and thereby absorbing revelation. |
-| **The Potion of Death** | Baal HaSulam's term (from the introduction to the Tikkunei Zohar) for the false sense of advancement that comes from solitary study or achievement without the test of real connection. |
-| **Above Reason** | Accepting and internalizing the reasoning of a greater teacher before one's own experience confirms it — not a rejection of reason itself. |
+| **Chavarim / Chibur** | Friends / connection. The Hebrew root ties the word for "friends" directly to the act of connecting. |
+| **Right Line / Left Line** | Right: faith above reason, voiced in the group. Left: honest private assessment of one's actual state, permitted only alone and briefly. |
+| **Arvut** | Mutual guarantee/responsibility — here, the force by which the group releases a friend to think only of spirituality, used to rise above a shared problem together rather than dwelling in it. |
+| **Vacant (Free) Space** | The room created within a person's desires, outside the Creator's direct rule, by pushing back against the will to receive using a force drawn from outside — from the society. |
+| **Adam** | "Man" — becoming free and self-determining rather than simply operated by nature and the Creator's concealed governance. |
+| **Screen and Reflected Light** | The mechanism of the vessel created through genuine connection: rejecting self-interest and thereby receiving revelation. |
+| **Judging to the Side of Merit** | Choosing to interpret a friend's apparent fault favorably, so that one can still receive from — and give to — the society, even when its behavior looks wrong. |
+| **Evil Inclination** | The force against adhesion and bestowal, revealed specifically through the concrete effort of trying to connect with others, not through solitary work. |
+| **The Friend's Corporeality Is My Spirituality** | The idea that a friend's ordinary life troubles matter to the group not as gossip or workshop material, but as the occasion for prayer and spiritual concern. |
+| **Point of Fusion** | The place of actual connection between friends where, per Excerpt 8, the Divine Presence resides. |
