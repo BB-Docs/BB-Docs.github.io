@@ -41,8 +41,9 @@ def filename_topic(name):
     """Pull a human title out of a filename like
     'June27_2026 Afternoon Help From Above_MD.md' -> 'Help From Above'."""
     s = os.path.splitext(name)[0]
-    # date token, tolerating a day-suffix letter (July3A) or -2 style repeat marker
-    s = re.sub(r"(%s)\s*\d{1,2}[A-Za-z]?(-\d+)?[_ ]\d{4}" % MONTH_RE, " ", s, flags=re.I)
+    # date token, tolerating a day-suffix like 3A, -PM, -AM, -2 (2nd lesson markers)
+    s = re.sub(r"(%s)\s*\d{1,2}(?:[A-Za-z]|-[A-Za-z0-9]+)?[_ ]\d{4}" % MONTH_RE,
+               " ", s, flags=re.I)
     s = re.sub(r"[_]+", " ", s)
     s = re.sub(r"\b(MD|Morning|Afternoon|Evening)\b", " ", s, flags=re.I)
     s = re.sub(r"\s{2,}", " ", s).strip(" -_")
