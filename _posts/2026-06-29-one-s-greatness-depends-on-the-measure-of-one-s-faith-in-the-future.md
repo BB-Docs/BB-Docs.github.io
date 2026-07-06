@@ -1,12 +1,12 @@
 ---
 title: "One's Greatness Depends on the Measure of One's Faith in the Future"
-subtitle: "Morning Lesson · Rabash · Opens with the Zohar on 'Az Yashir Moshe' (Exodus 15:1, the Song of the Sea); recorded lesson by Rav Laitman, May 1, 2002"
+subtitle: "Morning Lesson · Baal HaSulam · Recorded lesson by Rav Laitman, May 1, 2002"
 date: 2026-06-29
 ---
 
 ### Opening
 
-The lesson opens with a grammatical puzzle from the Zohar. Exodus 15:1 reads "Az Yashir Moshe" — "Then shall Moses sing" — using future tense to describe a song that, in the story, has already been sung; the verse "should have said, Sang." The Zohar insists the future tense is deliberate: Israel are destined to sing this same song again, in the future, at the final redemption. Working outward from there — through a question about why the song is credited to "Moses and the children of Israel" when the Zohar says the song itself belongs to Malchut, the queen, praising the King — the lesson develops a central teaching for the work: a person cannot sustain himself, in any sense, from purely negative truth. Wholeness in the present has to be built on confidence in a future not yet attained.
+The lesson opens with a grammatical puzzle from the Zohar. Exodus 15:1 reads "Az Yashir Moshe" — "Then shall Moses sing" — using future tense to describe a song that, in the story, has already been sung; the verse "should have said, Sang." The Zohar insists the future tense is deliberate: Israel are destined to sing this same song again, in the future, at the final redemption. Working outward from there, the lesson develops a central teaching for the work: a person cannot sustain himself, in any sense, from purely negative truth. Wholeness in the present has to be built on confidence in a future not yet attained.
 
 ---
 
@@ -16,7 +16,7 @@ The lesson opens with a grammatical puzzle from the Zohar. Exodus 15:1 reads "Az
 
 The Zohar asks why the verse uses future tense for a song already sung, and answers that it depends on the future — on the time when Israel are destined to praise this same singing again. It adds that "this song" is in female form (grammatically), meaning the song belongs to **Malchut** — the queen praising the King.
 
-**Rabbi Yehuda's question:** If the song belongs to the queen, why does the verse credit it to "Moses and the children of Israel" rather than to Malchut herself? The Zohar's answer: *"Happy are Moses and Israel, for they know how to properly praise the king for the queen."* Moses and Israel are not claiming the song as their own — they know how to credit it correctly, to the queen, on her behalf.
+**Rabbi Yehuda's question:** if the song belongs to the queen, why does the verse credit it to "Moses and the children of Israel" rather than to Malchut herself? The Zohar's answer: *"Happy are Moses and Israel, for they know how to properly praise the king for the queen."* Moses and Israel are not claiming the song as their own — they know how to credit it correctly, to the queen, on her behalf.
 
 ### Moses, the Faithful Shepherd
 
@@ -98,9 +98,7 @@ This resolves the opening puzzle. The Zohar's "shall sing," in future tense, poi
 
 ### Why "Female Form" — Returning to the Queen
 
-The lesson then returns to the second half of the original question: why does the Zohar describe this singing as being in **female form**? Because it is Malchut — the queen — who is being praised, and Moses and Israel "know how to properly praise the king for the queen." This raises one further question, which the lesson poses but does not yet answer in this transcript: in ordinary, flesh-and-blood terms, a king needs and enjoys honor from his people — but why would the Creator need praise from creation at all?
-
-*(The transcript ends at this open question.)*
+The lesson then returns to the second half of the original question: why does the Zohar describe this singing as being in **female form**? Because it is Malchut — the queen — who is being praised, and Moses and Israel "know how to properly praise the king for the queen." This raises one further question, which the lesson poses but does not answer in the available recording: in ordinary, flesh-and-blood terms, a king needs and enjoys honor from his people — but why would the Creator need praise from creation at all? *(The available transcript ends at this open question.)*
 
 ---
 
@@ -130,5 +128,4 @@ The lesson then returns to the second half of the original question: why does th
 | **Kedushah** | Holiness; the corrected state, contrasted with self-love and exile. |
 | **General and Particular Are Equal** | The principle that what is true for the collective (belief in a future, general redemption) applies in the same way to each individual. |
 | **Hassadim / Chochmah** | Light of Mercy / Light of Wisdom. Permanent, whole faith is described as attaining the light of Hassadim within the illumination of Chochmah. |
-| **Baal HaSulam's Sulam Commentary** | The commentary on the Zohar that grounds several of the article's key interpretations (e.g., inner vs. surrounding light). |
 | **"Az Yashir Moshe"** | "Then shall Moses sing" (Exodus 15:1, the Song of the Sea) — the Zohar's opening puzzle: why future tense for a song already sung. |

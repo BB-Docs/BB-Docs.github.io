@@ -6,75 +6,93 @@ date: 2026-06-19
 
 ### Opening
 
-The lesson takes up Baal HaSulam's letter on "the slanderers" — the forces within a person that arise from the shattering of Adam HaRishon and work to obstruct correction. The central question it wrestles with: how does a person actually recognize a "slanderer" when the most dangerous ones don't look like obstacles at all — they look like good news, comfort, or even spiritual satisfaction? And once recognized, what does it actually mean to go "above reason" against them?
+The lesson works through Baal HaSulam's letter on "slanderers" — the disruptions, doubts, and interruptions that constantly arise in a person's inner work. The central question: how does a person tell the difference between a slanderer that clearly feels bad and the far more dangerous slanderer that arrives disguised as something good — and how is either one meant to be used rather than simply escaped?
 
 ---
 
-## Part 1 — Adam HaRishon and the Origin of the Slanderers
+## Part 1 — What Is a Slanderer? Adam HaRishon and the Shattering
 
-Adam HaRishon is the soul that is the root of all created beings. It underwent a spiritual crisis — a shattering — and divided into thousands of billions of sparks. Each spark clothes itself in a body in this world; the final, "beastly" clothing of that spark is our body.
+### The Corrupted Vessel Speaking
 
-Each spark is, in effect, an outcome of that shattering — a corrupted vessel carrying within it all the information and all the corrupted qualities that exist in the great vessel of Adam HaRishon. It holds what the lesson calls "a chain of records" which, one by one, must bring a person back, in corrected form, to his root.
+Adam HaRishon is the soul that is the root of all created beings. It underwent a spiritual crisis — a shattering — and divided into thousands of billions of sparks. Each spark clothes itself in a body in this world; the final, "beastly" clothing of that spark is our own body. Each spark carries within it a chain of corrupted qualities — records that must, one by one, be brought to correction.
 
-These stages are revealed to a person in the form of **slanderers** — because the vessel a person starts with is already corrupted, every correction reveals another corrupted quality demanding attention, then another, and another.
+As a person advances, each correction reveals the next corrupted quality: another slanderer, and then another. **Key move required:** work with the slanderer above reason. Its basic claim is always the same — use the will to receive for yourself, and take the fulfillment. A person must instead meet each interruption with: *"I'm happy this opportunity came to me, to work on this interruption,"* and continue toward the goal despite it.
 
----
+### Symptoms and Diagnosis
 
-## Part 2 — Diagnosis Is Most of the Cure
-
-The lesson draws a direct comparison to medicine: a great deal of the investment in healing — x-rays, examinations — goes toward correctly diagnosing the problem, not toward the medicine itself. Recognizing the true cause is, in many ways, the larger part of the work.
-
-The same is true here. The real problem is not that a slanderer appears — it's when a person **fails to recognize** it as a slanderer, because it arrives disguised as something good.
-
-This blindness has a structural cause: because a person experiences the world entirely through the will to receive, that will to receive automatically — and subconsciously — interprets events as being to its own benefit. We don't expect the world to be bad for us; we interpret good and bad very differently, always leaning toward seeing things as ultimately good. If a person were truly free and objective, the lesson argues, he would recognize that everything happening to him is actually *to the detriment* of the will to receive — because the entire process of development exists to prove to that will that it must change direction, toward bestowal.
-
-The lesson illustrates this with a contemporary example: a mood of relief and optimism following recent events ("we already solved the issue... everything will work out fine") is treated as a textbook case of this blindness — people interpreting a quiet, comfortable moment as resolution, without considering its deeper source, and losing the urgency to change. **A quiet time, the lesson suggests, can be more dangerous than an openly difficult one, because the concealment runs deeper.**
+Rav Laitman compares this to illness: symptoms are opposite to good health, and once a person can identify something as a symptom, that itself is a large part of the healing — even before any cure is found. Correctly diagnosing the cause is described as often the harder and more important part of the work; a great deal of investment goes into correct diagnosis rather than treatment itself.
 
 ---
 
-## Part 3 — Two Kinds of Slanderers
+## Part 2 — Two Kinds of Slanderers
 
-The lesson distinguishes two types:
+### The Obvious Slanderer
 
-**The unpleasant slanderer.** Thoughts or temptations that are obviously negative. These are, in a sense, the easier case — a person recognizes them as foreign to his path and can work to overcome them.
+Some disruptions are unmistakably unpleasant — anxiety, fear, an obvious bad feeling. These are, paradoxically, the easier case, because a person recognizes them as foreign to his path and knows to resist or rise above them.
 
-**The "good" slanderer.** Far more dangerous, because it doesn't feel like an obstacle at all — it feels like comfort, success, or even spiritual progress ("it was a good lesson, I'm pleased with that"). The lesson uses the image of a cunning spy from a book about espionage: the most dangerous spies were the ones who dressed attractively and approached with warmth and charm, so that their true intent could never be connected to the person standing in front of you.
+### The "Good" Slanderer — Far More Dangerous
 
-> "What could be worse than that?"
+The truly dangerous slanderer arrives dressed as good news: calm, relief, the sense that "everything worked out fine." Rav Laitman gives a real-world example discussed live in the lesson: a mood of relief after recent events, where people feel a crisis has passed and lose the urgency to keep striving or to seek connection with the Creator. This concealment is described as *more* damaging than open crisis, precisely because there is no longer a visible reason to keep working.
 
-The practical test the lesson offers is not "is this good or bad," but whether something relates to *Kedusha* (holiness) or not — a distinction that, it acknowledges, is genuinely easy to get wrong.
+The lesson illustrates this with the image of a cunning spy: the most dangerous spies dress attractively and approach with warmth, so their true intent can never be connected to the person in front of you.
+
+> *"The dressing itself doesn't give you pleasure, but the source — that spark that you aim for — is the light, not the dressing."*
+
+**Working principle:** everything that arrives — pleasant or unpleasant — should be treated as a slanderer unless and until it is consciously connected to the Creator as its source. The goal is not to categorize experience as good or bad, but to relate every experience, regardless of its apparent quality, to the Creator.
+
+---
+
+## Part 3 — Above Reason: The Only Way Through
+
+### Why the Body Cannot Judge Correctly
+
+Because the will to receive automatically interprets events as being to one's own benefit, a person is never a neutral judge of his own experience. If a person could be truly objective, he would recognize that everything happening to him is designed to work against the will to receive itself — pushing it to develop toward bestowal. Because we are naturally drawn toward interpreting things as good, this objectivity is described as nearly impossible to reach unaided.
+
+### Do Not Try to Interpret Each Disturbance
+
+A direct correction is made to an idea raised earlier in the discussion: interpreting each disturbance correctly is *not* the path forward. Trying to explain why any specific disturbance happened leads to false calculations and can pull a person off the path entirely.
+
+> *"We cannot interpret at all whether something is right or not... I have to connect to the Creator above them... the disturbance for me becomes just a springboard."*
+
+The instruction is to connect to the Creator above the disturbance, rather than analyzing the disturbance itself. Confirmation that the connection is real comes only from the result: does the disturbance settle, and does a feeling of connection to the Creator remain.
 
 ---
 
 ## Part 4 — Justifying the Creator
 
-"Justifying the Creator" (the standing of a *tzaddik*, a righteous one) only applies to suffering — to a moment when something feels like a blow, and a person, despite that feeling, comes to see its purpose and is genuinely grateful for it, treating it as healing rather than punishment.
+### Why You Cannot Fake Gratitude for a Blow
 
-The lesson is emphatic that this cannot be performed as a verbal gesture: saying "thank you for that blow" while still feeling it only as a blow is **flattery, a lie to oneself** — because the heart's feeling goes directly to the Creator; a person cannot wrap it in something else first. Justification requires an actual change in what the heart feels, not a statement layered over an unchanged feeling.
+A student's question raises the difficulty directly: if a blow genuinely feels like a blow, how can a person honestly thank the Creator for it? Rav Laitman is explicit that this cannot be faked — *"that would be a lie, that would be flattery."* A person cannot lie to the Creator, only to himself, because the heart's feeling goes directly to the Creator without anything standing in between.
 
-This capacity belongs to someone who has crossed the *machsom* (the barrier) and can perceive the whole system. Before that point, a person exists in either complete (double) concealment or single concealment, as an "ordinary wicked" person — not yet able to genuinely transform a blow into a blessing, only to recognize, intellectually, that this is the work required.
+### Changing the Feeling, Not the Words
+
+The only real solution is to change what the heart actually feels — not to dress up a feeling of pain in grateful language. This becomes possible only by connecting the blow to the goal: understanding that through the blow, something is being attained. Until a person crosses the machsom (the barrier) and can perceive the whole system, this justification is described as impossible to reach genuinely.
+
+| State | Description |
+|---|---|
+| **Complete wicked (double concealment)** | Cannot see the system at all; no ability yet to justify the Creator. |
+| **Ordinary wicked (single concealment)** | Some awareness, still cannot fully justify suffering. |
+| **Righteous (past the machsom)** | Begins to see and feel the system; becomes able to genuinely justify the Creator. |
 
 ---
 
-## Part 5 — The Practical Instruction: A Springboard, Not a Puzzle
+## Part 5 — Group Slanders
 
-The lesson gives a clear, repeated instruction: do not try to interpret *why* a particular disturbance arose. Trying to calculate "this happened because of this, that happened because of that" leads only into false, endless calculation and pulls a person away from the Creator rather than toward Him.
+### The Same Pattern at the Group Level
 
-Instead: treat every disturbance — pleasant or unpleasant — simply as an occasion to connect to the Creator **above it**, regardless of its specific content. The disturbance becomes a springboard, not a problem to be solved on its own terms. The evidence that the connection has actually been made is the result: the disturbance dissipates, and calm and a sense of connection take its place.
-
-The same principle extends to the group: a **group slanderer** is a deceptive calm, or a confusion, that settles over the group as a whole. The remedy is the same kind of constant forward motion — not comparing oneself to how "uplifted" others seem, but maintaining one's own continuous, increasing yearning toward the goal.
+The lesson extends the concept of slanderer to the level of the group: a "group slander" is described as a deceiving calm that settles over a group — a shared complacency, or a confusing shared idea, that pulls the collective effort away from the goal. The remedy is the same principle applied collectively: constant acceleration of yearning and importance toward the goal, measured only by whether the group's spirit is rising toward the purpose of creation — not by comparison to other people or groups.
 
 ---
 
 ## Key Themes & Takeaways
 
-1. **Every disturbance traces back to the shattering of Adam HaRishon** — the corrupted vessel reveals its qualities to a person one piece at a time, each appearing as a "slanderer" to be worked on.
-2. **The most dangerous slanderer is the one that looks good**, not the one that looks bad — it disarms a person precisely by feeling like comfort or success rather than an obstacle.
-3. **Correct diagnosis is most of the work.** Once a disturbance is recognized as a slanderer, the task is to go above reason — not to analyze or explain why it occurred.
-4. **Justifying the Creator requires a real change in the heart's feeling**, not words layered over an unchanged feeling. Saying "thank you for this" without that inner change is self-deception.
-5. **The will to receive cannot be objective about good and bad** — it automatically interprets events as serving its own benefit, which is exactly what obscures their deeper purpose.
-6. **The goal is connection above the disturbance, not resolution of the disturbance itself.** Trying to interpret why something happened leads to false calculation and disconnection from the Creator.
-7. **The same dynamic operates at the group level** — a "group slanderer" (false calm or confusion) calls for the same response: sustained, increasing yearning rather than comparison to others.
+1. **A slanderer is a corrupted quality surfacing for correction** — an outcome of the original shattering, appearing in sequence as a person advances.
+2. **The most dangerous slanderer is the "good" one** — the disruption that arrives disguised as relief, calm, or good news, precisely because it removes the visible motivation to keep working.
+3. **Diagnosis (recognizing something as a slanderer) is itself a major part of the cure**, even before any remedy is found.
+4. **The correct response is to go above reason** — connect to the Creator above the disturbance rather than trying to interpret or analyze why it happened.
+5. **Genuine gratitude for suffering cannot be faked.** It requires an actual change in what the heart feels, made possible only by connecting the blow to the goal.
+6. **Before crossing the machsom, true justification of the Creator is not yet possible** — a person remains in some degree of concealment until the system becomes visible.
+7. **The same dynamic operates at the group level** — a "group slander" is a shared complacency that requires the same above-reason correction, applied collectively.
 
 ---
 
@@ -82,13 +100,12 @@ The same principle extends to the group: a **group slanderer** is a deceptive ca
 
 | Term | Definition |
 |------|------------|
-| **Slanderer (the article's central term)** | A disturbance — thought, feeling, or circumstance — that arises from the corrupted vessel and works against a person's correction, often by disguising itself as something good. |
+| **Slanderer** | A disruption, doubt, or interruption arising from a corrupted quality of the will to receive; can appear as clearly bad or, more dangerously, disguised as good. |
 | **Adam HaRishon** | The single soul that is the root of all created beings; underwent the shattering into countless sparks, one of which clothes each person in this world. |
-| **The Shattering** | The spiritual crisis in which Adam HaRishon's vessel broke into innumerable corrupted sparks, each carrying the full record of corrupted qualities to be corrected. |
-| **Above Reason** | Acting and connecting to the Creator despite — not by explaining away — a disturbance; the opposite of trying to interpret why something happened. |
-| **Justifying the Creator (Tzaddik)** | Genuinely transforming the heart's feeling of a blow into gratitude by discovering its purpose; possible only after crossing the machsom. |
-| **Machsom (the Barrier)** | The threshold a person crosses to begin perceiving the spiritual system directly; before crossing it, one cannot truly justify suffering, only work toward it. |
-| **Double / Single Concealment** | Two states prior to crossing the machsom — "complete wicked" (double concealment) and "ordinary wicked" (single concealment) — in which justification of the Creator is not yet possible. |
-| **Klipa (Shell)** | The corrupted clothing through which a person's vessel currently receives pleasure or fulfillment, as opposed to receiving directly from the source. |
-| **Good Slanderer** | A disturbance disguised as comfort, success, or spiritual satisfaction — considered the most dangerous kind because it doesn't register as an obstacle at all. |
-| **Group Slanderer** | A deceptive calm or confusion affecting an entire group, countered by sustained collective yearning rather than complacency. |
+| **The Shattering (Shevirah)** | The spiritual crisis in which Adam HaRishon's vessel broke into innumerable corrupted sparks, each carrying a full record of corrupted qualities to be corrected. |
+| **Above Reason** | Continuing to connect to the Creator and move toward the goal despite what the mind or body currently feels or understands. |
+| **Machsom (Barrier)** | The threshold past which a person begins to see and feel the spiritual system directly; before crossing it, true justification of suffering is not possible. |
+| **Justifying the Creator** | Genuinely feeling gratitude for a blow by connecting it to the goal — not verbally thanking while still feeling pain, which is impossible and self-deceptive. |
+| **Double / Single Concealment** | Degrees of hiddenness of the spiritual system before the machsom; double concealment is the more complete form. |
+| **Surrounding Light (Ohr Makif)** | The illumination drawn by advancing in the corrected form despite not seeing results, which strengthens and corrects a person over time. |
+| **Group Slander** | A shared complacency or confusing idea that settles over a group, functioning the same way an individual slanderer does but collectively. |

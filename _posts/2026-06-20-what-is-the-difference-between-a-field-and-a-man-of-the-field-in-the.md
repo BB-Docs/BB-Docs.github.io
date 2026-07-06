@@ -1,97 +1,89 @@
 ---
 title: "What Is the Difference between a Field and a Man of the Field, in the Work?"
-subtitle: "Morning Lesson · Rabash, Article No. 6 (1988) · Companion lesson by Rav Laitman, February 1, 2002 · Supplementary reading: 'The Association of the Quality of Judgment…"
+subtitle: "Morning Lesson · Rabash, Article No. 6 (1988), Writings of Rabash Vol. 1, p. 605 · Lesson by Rav Laitman, February 1, 2002"
 date: 2026-06-20
 ---
 
 ### Opening
 
-The article opens with a question from the Zohar: the word "field" describes three very different figures in Genesis. Esav is "a man of the field" — interpreted by the Zohar as one who robs and kills people. Isaac "went out to wander in the field" — a holy act, the source of the afternoon prayer. Jacob's blessing carries "the scent of a field that the Lord has blessed." How can the same word cover both robbery and holiness? Once that is answered, the lesson moves to a second, related question: once a person actually begins "the work of the field," how does he rise from one spiritual degree to the next?
+Man is called "the tree of the field" — the field is the place of the work, and man is a result of that work. The lesson takes this as a launching point for a much larger question: what does it actually mean to rise from one spiritual degree to the next, and how does a person tell the difference between genuine faith above reason and simply following someone else's authority "with eyes shut"?
 
 ---
 
-## Part 1 — The Field Is Malchut
+## Part 1 — Two Parts of the Torah: Practical Mitzvot and the Reforming Light
 
-Malchut, with respect to the direct light a person receives, has no changes in it — the will to receive simply receives, and this state is called *Ein Sof*, since Malchut never says "no more, I won't receive for myself."
+Rav Laitman opens by distinguishing two parts of the method Kabbalists call Torah:
 
-Afterward, Malchut desires equivalence of form — to receive not for herself but in order to bestow. In this respect she is called a **"field,"** because a field must be plowed: inverting what is on top (the will to receive, of "superior importance") and what is below (the will to bestow, of "inferior importance"). Specifically through this inversion can a field yield crops fit to eat — otherwise there is no food of Kedusha (holiness) at all.
+- **Practical Mitzvot** — actions performed in this world, which guard a person as "sacred still" but produce no spiritual outcome in themselves; they are a corporeal copy of spirituality.
+- **Study for the reforming light** — the primary part. Because the holy books were written by people at spiritual degrees above this world, reading them from the right place draws light from that degree, which reforms and corrects the reader, gradually attracting him back toward the source.
 
-The lesson connects this to "much crop comes by the strength of the ox" (Proverbs 14:4) and to the rabbinic teaching that the kingdom of heaven must be accepted "as an ox to the burden" — meaning the burden of faith is placed on a person the way a yoke is placed on an ox, without consulting its will.
+**Why books of Kabbalah specifically?** All sacred texts (including the Gemara) were written by the same Kabbalists, but the language of Kabbalah's books keeps the purpose of creation constantly in view — the light, the vessels, the shift from receiving to bestowing. Texts written in the language of daily law and practice (an ox goring a cow, holding a Tallit) let a person forget the purpose of study and lose the deficiency that draws the reforming light.
 
----
-
-## Part 2 — Esav, Isaac, and Jacob: Three Relationships to the Field
-
-**Esav — "a man of the field."** Because his actions looked complete and righteous on the outside, Esav believed there was no more work of the field left to do. But "his mouth and heart were not the same" — externally observant, internally working entirely for his own benefit. The Zohar's reading of "to rob people and kill them" is read in the article as: working only for oneself robs a person of the aspect of "man" within himself, and even kills it — because, as the lesson puts it, transgression leads to further transgression.
-
-**Isaac — "went out to wander in the field."** This wandering is identified as prayer; the sages say Isaac established the afternoon prayer through this verse, raising the Shechina from the dust — directing the will to bestow, in mind and heart, toward the kingdom of heaven.
-
-**Jacob — "the scent of a field that the Lord has blessed."** Jacob established the evening prayer and represents the middle line, where wholeness appears. When Malchut receives the correction of the middle line, she becomes "a field the Lord has blessed" — the state in which the delight and pleasure the Creator intended for the creatures actually appears.
+> *"The light that reforms... influences me and corrects me, and gradually attracts me to that place, to the place from which the book is written."*
 
 ---
 
-## Part 3 — Two Parts of Torah, and Why Kabbalah Specifically
+## Part 2 — Faith Above Reason: What It Actually Means
 
-Rav Laitman's companion lesson (from a recording dated February 1, 2002) identifies two parts within the Torah:
+### Four Positions, Not One
 
-- **Practical mitzvot** — actions performed in this world. These have no direct spiritual outcome by themselves; their value is that they "guard" a person as a kind of copy of spirituality into the corporeal.
-- **Study that draws the reforming light** — because the holy books were written by people at real spiritual degrees, reading them draws light from that degree to the reader, gradually pulling the reader toward that same source. The intensity of that light is proportional to how much a person brings a genuine lack, a deficiency, into the study.
+A student asks what faith above reason actually means, since "reason" is well understood but "faith" is harder to define. Rav Laitman lays out a spectrum:
 
-This is offered as the reason Kabbalists recommend studying the books of Kabbalah specifically (rather than spending most of one's study time in, say, the Gemara): the same authors wrote both, but Kabbalah's language keeps the purpose of creation and the work on one's own vessels explicitly in view, while the Gemara's language of oxen, damages, and ritual objects — though connected to daily life — can let a person forget the purpose of the study and lose the deficiency that draws the reforming light.
-
----
-
-## Part 4 — Faith Above Reason, and How a Person Actually Ascends
-
-A participant's question — what does "faith above reason" actually mean, concretely? — leads to one of the lesson's central explanations.
-
-| Level of Faith | Description |
+| Position | Description |
 |---|---|
-| **Below reason** | Accepting something as fact without any investigation. The lesson calls this "fanaticism" — common, but not whole or genuine. |
-| **Within reason** | Investigating with one's intellect until reason and the claim agree, then accepting it. |
-| **Above reason** | Investigating fully, finding that one's own reason disagrees with what a higher source says — and choosing to take the higher one's reason anyway, in order to rise to that degree. |
+| **Faith below reason** | Accepting a claim with no examination at all — fanaticism, "silly faith," common among the masses. |
+| **Faith within reason** | Examining a claim with the intellect, and accepting it only where reason and the claim agree. |
+| **Faith above reason** | Examining the claim, finding by one's own reason that it appears wrong — and still choosing to act according to the higher source rather than one's own conclusion. |
 
-The mechanism offered for *why* this is the only way to ascend: each spiritual degree is its own complete Partzuf, with its own reason — there is no way to rise from one degree using only the resources already available within it. What makes ascent possible is that, through the second restriction, a portion of the upper degree (its **AHP**) already lies hidden within the lower degree's own perception — appearing there as a demand that seems to contradict the lower one's own sense of balance ("you need to give more than you think you should").
+### Why Take the Upper One's Reason at All?
 
-Taking that demand seriously — adopting the upper one's reason over one's own, despite having checked and found it disagrees — is what actually raises a person to the next degree; the lesson compares this AHP to an elevator. The process then repeats at the new degree.
+Rav Laitman explains this through the structure of AHP: by the second restriction, part of the upper Partzuf (its AHP) falls into the lower one's Galgalta ve-Eynaim, giving the lower one a small illumination called "the reason of the upper one." Checked against one's own reason, this always looks wrong — because the upper one's screen and understanding are greater and genuinely different, often demanding more bestowal than a person's own sense of "balance" would ask.
 
-Asked how a person can do this when "all I have is my own reason," the lesson's answer is direct: it cannot be produced by reason alone. It happens either through blows that leave no other option, or by asking the light to give the strength to agree to go above reason.
+**The mechanism of ascent:** if the lower one is willing to set aside his own reason and take the upper one's instead, the upper one begins to raise him — not as movement in space, but as the Galgalta ve-Eynaim of the lower one beginning to shine with what was hidden. The lower one then sees, from his new vantage point, the merit of the state he could not previously perceive.
 
----
-
-## Part 5 — Choice and Concealment: Why Spirituality Doesn't "Feel" Important
-
-The lesson turns to a second text, "The Association of the Quality of Judgment with Mercy" (*Kabbalah for the Beginner*, p. 106), to address where choice actually exists.
-
-The starting premise: a person's only real choice is "you have chosen life" — that this life will be adhesion for the Creator's sake (Lishma). Everything else a person experiences or does is given from above; in that sense, a person is otherwise "like a puppet." Choice exists only where there is concealment — where there is open, direct perception, there is no room left for choice.
-
-The concealment itself is described as deliberate: the upper one raises Malchut, the quality of judgment, in a way that hides the upper one's own greatness from the lower one — so spirituality does not feel important or vital, "as if there's no taste in Torah and Mitzvot." This is not because spirituality genuinely lacks substance; it is a self-restriction by the upper one, made specifically so that the lower one has room to choose freely rather than being overwhelmed into compliance.
-
-The error to avoid is **slandering this state** — resenting or despairing over the lack of felt vitality, rather than recognizing it as the deliberate condition that makes real choice possible. When a person instead annuls himself toward the upper one despite this lack of feeling, the upper one progressively reveals more of itself, and the person grows — first in *Katnut* (smallness), then, in stages, toward *Gadlut* (greatness).
+> *"The work is always above our intellect... because I always check my intellect, and even though the upper one is against it, I take His mind... I don't cancel my mind."*
 
 ---
 
-## Part 6 — How Do You Know It's the Right Book?
+## Part 3 — Concealment Exists to Preserve Choice
 
-A recurring question across the discussion: how does a person know which book, or which teacher, is actually correct for him? The lesson rules out two common answers — blind trust in an external authority ("there are others greater than me, so trust them instead") and reliance on one's own mind, which changes from day to day.
+Reading further from *Kabbalah for the Beginner*, the group takes up why concealment exists at all. The key discernment: a person's only real choice is to choose "life" — adhesion for the sake of Lishma; everything else is effectively given, not chosen. Choice can only exist during concealment; open providence leaves no room for it.
 
-The answer given is to **follow the heart**: "a person learns only in a place where his heart desires." The test is whether a given book actually answers the real question underneath the study — what is the purpose of my life — and if, after some time, it stops shining with that answer, to move on to another.
+The upper one deliberately raised Malchut (the quality of judgment) to conceal itself, so that the lower one feels no vitality or greatness in spirituality — not because spirituality is genuinely lacking, but specifically so the lower one has room to choose it anyway. A person who cannot yet feel the "taste" of Torah and Mitzvot is told this reflects the state of his own vessels, not the absence of anything on the other side.
 
-Rav recounts asking Rabash directly how he could know that what he was being taught was actually right for him. Rabash's answer: "Go check somewhere else, and come back if it is." There is no shortcut past this personal verification.
+---
 
-This is reconciled with "faith above reason" through a final clarification: the instruction to go above reason does not mean abandoning the heart's ongoing scrutiny. It means that the friction between mind and heart — between what feels bitter and what is recognized as true — is itself the real site of choice, and the work is to choose the true direction even when it feels bitter to one's current vessels.
+## Part 4 — Q&A: How Do I Know Which Book, Which Path?
+
+### "A Person Studies Only Where His Heart Desires"
+
+Asked how to know if a given book or teaching is the right one, Rav Laitman is direct: not by trusting an authority, and not by one's own shifting mind ("yesterday I thought this way, today I think this way") — only by the heart. If a book genuinely answers the question of what life is for, stay with it; if it stops shining after months, move on. The same book can also become new again as the heart itself changes.
+
+He recounts asking Rabash the same question directly early in his own path — "how do I know that what I'm studying is what I need?" — and receiving the answer: *"Go check somewhere else and come back if it is."* Any answer that simply dictates what to do, he notes, erases free choice.
+
+### Is This Just Trusting a Different Authority?
+
+A student pushes further: at some point, deferring to "the reason of the upper one" starts to feel artificial. Rav Laitman reframes the tension: the deeper a person advances, the *more* he disagrees with the upper one within his will to receive — while simultaneously, in the point in the heart, beginning to understand that the upper one's position is more correct. This friction between mind and heart, between what feels bitter and what is recognized as true, is described as the real site of choice.
+
+> *"Above reason means to go according to the truth, even though it feels bitter in my vessels... You see what you didn't understand yesterday, you understand it today. It's not because you became wiser — the heart became more refined."*
+
+---
+
+## Part 5 — The Soul as a Field
+
+Rav Laitman closes with an image: strip away the body, and what remains is a field (like a magnetic or electrical field) and a soul — a "charge" searching, according to the law of equivalence of form, for the place in that field where it belongs. All of a person's actions in this world are the outward motion produced by that search. Reaching the place of full equivalence with the field means reaching one's root in Adam HaRishon, since the entire field is, in essence, the soul of Adam HaRishon.
 
 ---
 
 ## Key Themes & Takeaways
 
-1. **"Field" is Malchut — the will to receive — and how a person relates to it determines whether the same word describes holiness or destruction.** Esav treats the field as already complete; Isaac and Jacob work to correct it.
-2. **Esav's flaw was in intention, not action.** "His mouth and heart were not the same" — appearing righteous while serving only himself, which the article equates with robbing, and even killing, the aspect of "man" within himself.
-3. **Torah has two parts** — practical mitzvot, with no spiritual outcome by themselves, and study that draws the reforming light, whose intensity depends on the deficiency a person brings to it.
-4. **Faith above reason means checking fully with one's own intellect, finding disagreement with a higher source, and still choosing that higher reason** — ascent is structurally impossible using only the current degree's own resources.
-5. **Ascent between degrees happens through "AHP of the upper one"** — a portion of the higher degree already present within the lower one's perception, felt as an unreasonable demand to bestow more; accepting it functions like an elevator to the next degree.
-6. **Choice exists only because of deliberate concealment.** If spirituality's importance were obvious, there would be nothing left to choose; recognizing the concealment as purposeful — not as evidence spirituality lacks substance — is itself part of the work.
-7. **The only reliable test for whether a teaching is right for you is whether it answers your heart's real question about the purpose of life** — not external authority, and not your own constantly shifting mind.
+1. **Study has two parts** — practical Mitzvot (no spiritual outcome by themselves) and study for the reforming light, which is the primary engine of a person's correction.
+2. **Faith above reason is not blind obedience.** It requires full examination first; the "above reason" step is choosing the higher reason after checking, not instead of checking.
+3. **Ascent between spiritual degrees happens by taking the upper one's reason (AHP)** in place of one's own, which functions as an elevator to the next degree.
+4. **Concealment exists specifically to preserve free choice** — if spiritual greatness were obvious, there would be nothing left to choose.
+5. **The right book or teacher is verified only by the heart**, not by external authority or one's own shifting intellect — and the same source can shine differently as the heart changes.
+6. **The felt "artificiality" of faith above reason is actually the site of real choice** — the friction between an increasingly refined heart and a mind that still disagrees.
+7. **The soul is pictured as a charge within a field (Adam HaRishon), searching for its point of equivalence** — the ultimate frame for all the smaller choices described above.
 
 ---
 
@@ -99,14 +91,13 @@ This is reconciled with "faith above reason" through a final clarification: the 
 
 | Term | Definition |
 |------|------------|
-| **Field (Sadeh)** | Malchut, the will to receive, once she desires equivalence of form; corrected through "plowing" — inverting the relative importance of reception and bestowal. |
-| **Malchut** | The vessel of reception; called "the field" in this article with respect to her desire for equivalence of form. |
-| **Esav (in the Work)** | One whose actions appear righteous while his heart serves only himself; regards himself as complete, with no further correction needed. |
-| **Faith Below / Within / Above Reason** | Three tiers: blind acceptance; acceptance once reason and claim agree; and accepting a higher reason even after one's own reason disagrees, in order to ascend. |
-| **AHP of the Upper One** | The portion of a higher spiritual degree already present within a lower degree's perception, felt as a demand exceeding the lower one's own sense of balance; accepting it raises the lower one to that degree. |
-| **Galgalta ve Eynaim (GE)** | The part of a Partzuf corresponding to a person's own reason and perception at his current degree, as distinct from the concealed AHP. |
-| **The Reforming Light** | Light drawn from the spiritual degree of a book's author through study; its intensity depends on the deficiency the student brings to the study. |
-| **Choice (Bechira)** | The one freedom genuinely available to a person — choosing life, i.e., adhesion for the Creator's sake — made possible only by concealment. |
-| **Concealment (Hester)** | The Creator's deliberate self-restriction, hiding His own greatness so spirituality does not feel obviously important, in order to leave room for real choice. |
-| **Katnut / Gadlut** | Smallness/infancy and greatness — successive stages of growth once a person begins annulling himself toward the upper one. |
-| **Lishma** | For the Creator's sake; the stated goal of "choosing life" — adhesion that is Lishma. |
+| **Field (Sadeh)** | Malchut; also used at the close of the lesson as an image for the soul's total environment — a field the soul's "charge" must find equivalence with. |
+| **Faith Above Reason** | Examining a claim fully, finding it contradicts one's own reason, and still choosing to act on the higher source — distinct from blind faith below reason. |
+| **AHP of the Upper One** | The concealed part of a higher spiritual degree that shines a limited illumination into the lower degree, functioning as the means of ascent. |
+| **Galgalta ve-Eynaim / AHP** | The two-part structure of any spiritual degree (Partzuf); a lower degree's ascent depends on relating to the upper one's AHP. |
+| **Reforming Light (Ohr Makif)** | The light drawn through correctly-motivated study that corrects a person's vessels; must precede any light of "filling." |
+| **Lishma** | For the sake of the Creator; the choice of "life" as adhesion for Lishma is described as the one true choice available to a person. |
+| **Concealment** | The deliberate hiding of spiritual greatness, which exists specifically to leave room for free choice. |
+| **Point in the Heart** | The inner deficiency drawing a person toward the purpose of creation; the only reliable guide to the right book or teacher. |
+| **Equivalence of Form** | The law by which the soul, as a "charge," seeks the place in the field where it matches the qualities of the upper one. |
+| **Adam HaRishon** | The single soul-root of which the entire "field" is composed; the ultimate destination of the soul's search for equivalence. |

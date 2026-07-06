@@ -1,138 +1,98 @@
 ---
 title: "There Is None as Holy as the Lord, for There Is None Besides You"
-subtitle: "Morning Lesson · Rabash, Article No. 26, 1990 (Shlavei HaSulam) · Lesson by Rav Laitman, based on a recorded talk from June 11, 2002, continuing into a live workshop…"
+subtitle: "Morning Lesson · Rabash, Article No. 26 (1990) · Recorded lesson by Rav Laitman, June 11, 2002 · Note: per this guide's scope, only Rav Laitman's separate recorded…"
 date: 2026-07-03
 ---
 
 ### Opening
 
-The lesson has two movements. The first reads Rabash's article on a puzzling verse from the Zohar — "there is none as holy as the Lord, for there is none besides You" — and asks what it means, in the Work, that the Creator's holiness excludes any other holy one, even though angels and Israel are also called holy. The second movement turns to a 2002 recorded lesson on the same article and opens into a live workshop: students press on the deepest version of the question underneath it all — if the Creator truly does everything, what is actually left for a person to do, and how is that "doing" not just an illusion?
+Rav Laitman opens the recorded portion by naming the puzzle directly: if the Creator does everything — plans, performs, and completes every action — what, if anything, is actually left for a person to do? The lecture and the long Q&A that follows work out an answer centered on one idea: the person's real work is not to act, but to become a sensing, scrutinizing element — sharpening awareness of what is happening to him, who is doing it, and why.
 
 ---
 
-## Part 1 — The Zohar's Question: Is There Another Holy One?
+## Part 1 — If the Creator Does Everything, What's Left for Me?
 
-### The Puzzle
+### All States Already Exist
 
-The verse seems to imply, by saying "there is none as holy," that some other holy one exists — just slightly less holy than the Creator. The Zohar answers: there are indeed holy ones above (angels) and Israel is also called holy. But **none are as holy as the Creator**, "for there is none besides You" — the Creator's holiness does not depend on theirs, since He does not need their holiness. They, however, are not holy without Him.
+Rav Laitman states that every state a person will ever pass through — from the present through the end of correction and beyond — already exists. Advancement means passing from one existing state to the next, powered entirely by the light, which corrects and fills a person without his intervention. Even the request for the light to come and correct him is itself something a person could never have originated on his own, since he doesn't know what the light is or what to yearn for.
 
-### The Order of the Work
+### The Person's Real Job: Becoming Sensitive
 
-To achieve **dvikut** (adhesion) with the Creator, a person must become holy and separated from reception, "as I am holy, so you shall be holy" — since the Creator only bestows and does not receive. The difficulty: a person is born with a nature of self-reception, the **will to receive for oneself**, called the evil inclination. The stated resolution is engaging in Torah and Mitzvot in order to achieve **Lishmah** (for Her sake) — "the light in the Torah will reform him," moving him from the rule of evil toward acts of bestowal.
-
-### Who Gives Holiness First?
-
-The article raises — and holds onto — a real tension: how can holiness be said to depend on Israel giving holiness to the Creator "from below," when the Creator needs nothing? The answer given is that **the Creator cannot give holiness from above until the creature first gives holiness from below** — meaning a person must first develop a genuine desire for holiness, an act described as "coming to purify." Only then is he "aided" from above.
+If the Creator performs every action, a person's actual task is to **become sensitive to contact with the Creator** — noticing what is happening to him and what is being asked of him in the moment. The instant a person senses and absorbs a state, that state changes, and the process of sharpening begins again with the next one. This is why "against the holiness that comes from above, a person must prepare his own holiness from below" — the preparation is entirely about readiness to perceive, not about performing the underlying action.
 
 ---
 
-## Part 2 — Reward Is the Work Itself
+## Part 2 — Why the Work Itself Is the Reward
 
-### "According to the Sorrow, So Is the Reward"
+### A Student's Concern: Wouldn't Knowing This Paralyze a Person?
 
-Ben He's teaching is reread carefully: it is not that greater labor earns a proportionally greater reward, the way work is paid in the corporeal world. Instead, **the sorrow and labor a person feels from being far from the Creator is itself the reward** — because that felt distance only exists because the Creator has already illuminated the importance of spirituality for that person. Most people, going along with "the general public," never feel this lack at all.
+A student asks: if a person knows the Creator is doing everything, doesn't that undercut motivation entirely? Rav Laitman's answer: someone who has attained perception of the Creator understands that **the process itself — the connection, the increasing illumination — is the reward**, with nothing greater to seek beyond it. The next moment's task is simply to sharpen the connection further.
 
-> The labor and sorrow that they feel is that actual reward that the Creator gives them... this is a reward that the Creator calls them to the work of the Creator, whereas others he does not call.
+### Reframing Punishment
 
-### "Do Not Add, and Do Not Take Away"
+If everything, including yearning, comes from the Creator, what could "punishment" even mean? Rav Laitman's answer: punishment is not being given this treatment at all — being left without the sense of contact, feeling delayed or abandoned ("My God, why have you forsaken me?"). Disconnection itself still ultimately comes from the Creator (nothing is outside His action), but the real issue is not the concealment itself — it's how a person relates to it. Anything short of the end of correction is, in this sense, still a form of punishment, though the person should "bless the good just as he blesses the bad."
 
-Applied to Shabbat: "his reward is great according to his work" is not the ordinary rule that more labor earns more pay. Rather, **the work itself is the reward** — so there is no reward "beyond" the work to be added to or subtracted from. A person who wants a bigger reward than his work is, by definition, wanting something *added onto* the work — which the article identifies as working **Lo Lishmah** (not for Her sake), since work and reward, done properly, are "as two drops of water."
+### The Person as the Sensing Element
 
----
+Pressed further on how punishment can be meaningful if everything comes from the Creator, Rav Laitman clarifies: **the fact that everything comes from the Creator does not erase the person.** A person is the sensing element — the vessel is the desire to enjoy the Creator's presence, and the degree of concealment or revelation determines how full or empty that vessel feels. The actual work is entirely in scrutiny: discerning what is happening, who is doing it, and for what purpose. Each act of scrutiny changes the state, and a new one begins.
 
-## Part 3 — "He Who Comes to Purify Is Aided" — Whose Action Is It?
-
-The Talmudic teaching that "he who comes to purify is aided" seems to say a person acts on his own initiative and is then helped. Rabash resolves the apparent contradiction with "if I am not for me, who is for me?" (which implies the opposite — that everything depends on a person's own action):
-
-- The *coming* to purify already comes from an awakening given from above — a desire and yearning implanted in the person beforehand.
-- Once that desire is given, the person's purifying looks, and in a real sense functions, as his own act.
-- Both must be believed at once: everything comes from the Creator, **and** a person must act as though everything depends on him.
-
-The same structure is applied to Moses' prayer for Israel after the sin of the Calf ("and now, leave Me alone") — read as the Creator notifying Moses that the matter was "up to him," giving him the very strength and desire to pray.
+> *"Our only actions lie in our inner effort — in striving to find myself, Him, and the method as one."*
 
 ---
 
-## Part 4 — Forms a Form Within a Form: Ubar and the Three States
+## Part 3 — Preparing the Senses, Not Correcting the World
 
-### The Embryo Within the Mother
+Rav Laitman insists that because we already exist, in truth, at the end of correction, **the only correction needed is of the dullness of our own senses** — nothing external actually needs fixing. He compares this to ordinary sensory preparation: getting a hearing aid, glasses, or a cup of coffee to become more alert. Everything depends on a person's preparation of feeling; the same words can leave one person unmoved and bring another to tears, purely based on readiness to receive them.
 
-"There is no rock like our God" is read as the Creator **"forming a form within a form"** — the form of the **Ubar** (embryo) within the form of its mother. In the Work: the previous state — the vessels of reception a person is born with — is called "the mother." When the Creator implants a new intention to bestow within that existing vessel, this new, still-forming state is called **Ubar**, from the word *Over* (passing) — the passage from using vessels of reception into the first degree of holiness.
+### The Recognition of Evil as Necessary Preparation
 
-### Three Discernments
-
-The growth of this new form proceeds through three named stages:
-
-| Stage | Hebrew Term | Meaning |
-|---|---|---|
-| 1 | **Ibur** (conception) | The first entry of the aim to bestow within the existing vessel |
-| 2 | **Yanika** (nursing) | Continued growth of the new state |
-| 3 | **Mochin** (adulthood/mind) | Full growth — "Gadol," corrected and complete |
-
-This is called being "a wonder... a true miracle, since it is against nature" — because only the Creator can change nature, implanting a desire to bestow inside a vessel that, by nature, only knows how to receive.
-
-### The Sowing Analogy
-
-The article closes its first half with an agricultural image: sowing a "female" (the will to receive) in the ground to decay yields a "male" (vessels of bestowal) — meaning a person who lets his self-directed will decay through the work eventually produces bestowal. Conversely, sowing the "male" first — engaging in Torah and Mitzvot with the aim of bestowal — is described as, in turn, yielding a "female," meaning self-benefit growing out of that same engagement.
+Asked what "preparation" for this sensitivity actually requires, Rav Laitman answers that it begins with **necessity** — a real recognition of what one lacks (recognition of evil). He tells the parable of a wealthy man's son kept in a basement, given only minimal food, who curses his "cruel" father without understanding — until he is shown the world outside and can finally grasp the scale of what he has. Twenty years of sorrow in the basement were necessary specifically so the eventual revelation could be properly absorbed: **"the vessel needs to be compatible with the revelation."**
 
 ---
 
-## Part 5 — The 2002 Workshop: All States Already Exist
+## Part 4 — Every Plea Is Directed at the Creator, at Different Depths
 
-Turning to the recorded 2002 lesson on this same article, Rav Laitman reframes the whole picture: all the states a person will ever pass through — birth, conception, nursing, adulthood, and everything from the present moment to the end of correction and beyond — **already exist**. A person does not create these states; he passes from one to the next through the force of the light.
+Rav Laitman widens the lens to include every form of longing in the world — from a Christian devotee kissing a statue on a San Francisco street, to a secular kibbutznik in the Negev praying wordlessly for rain, to someone as small as a suffering woodlouse — arguing that all of these are, at root, pleas directed at the one source, whether or not the one pleading knows it. What actually differs between them is depth and direction:
 
-### The Entire Work Is Scrutiny
+| Type of Plea | Character |
+|---|---|
+| A creature's raw suffering (even a woodlouse) | An unconscious plea to the source, without any awareness of whom it's directed to |
+| Ordinary requests for personal benefit ("have it good in this world and the next") | Still entirely within the framework of self-interest — lo lishma |
+| A plea concerning the Creator Himself, detached from personal benefit | The beginning of a goal-oriented, lishma-inflected plea — described as extremely difficult to even put into words |
 
-> All of our work, all the efforts we need to make, are only to feel what's truly happening to us.
-
-The person's task is reduced to becoming sensitive to what is happening within him, who is doing it, and why — described as a continual scrutiny: *what am I feeling, who is doing this to me, what purpose is it for.* The moment a state is scrutinized, it changes, and the person moves to the next.
-
-### Reward and Punishment, Reconsidered
-
-If the work itself is the reward, what is punishment? Rav Laitman's answer: the only real punishment is **disconnection** — being left without this process of increasing illumination and progress ("My God, why have you forsaken me"). Both good and evil come from the Creator; the difference is only in how a person relates to what is concealed from him ("His posterior") versus what is revealed ("His face"). Concealment can be corrected through the quality of **Chassadim** (mercy) — detaching from personal sensation and desiring only to give.
-
-### Who Are "the Jews"?
-
-The discussion connects this to the meaning of the name "Jews": **Yehudim**, from *Yichud* (unity) — those who seek unity with the Creator — and **Ivrim**, Hebrews, from *Ever* — those who "cross over the barrier," the **Machsom**. On this reading, the nation is not defined by biological descent but by a group of Kabbalists — beginning with Abraham — who differentiated themselves by seeking to know and unite with the Creator.
+The actual work, in this frame, is the ongoing scrutiny of one's own attitude: is my appeal genuinely directed toward Him, or still, underneath, directed toward my own benefit?
 
 ---
 
-## Part 6 — Preparing the Vessel
+## Part 5 — Why Aren't Women Studying the Morning Lesson Instead of Men?
 
-### The Basement Parable
+### The Question
 
-Rav Laitman uses a parable to explain why sorrow must precede revelation: a wealthy man's son is placed in a basement and given only a little food, and curses his father as cruel — not understanding that this deprivation is preparation. Only after many years of sorrow, given a small amount of light, does he realize the meaning of what was done for him. **The vessel must be made compatible with the revelation before the revelation can be appreciated** — without the years of felt lack, he could not "digest" the wealth now available to him.
+A student raises a pointed challenge: since the "female" aspect in spiritual teaching represents the desire to receive — the very thing needing correction — shouldn't women, not men, be the ones filling the morning lesson?
 
-### Preparation Means Sensitizing the Senses
+### Rav Laitman's Answer: Nature, Not Metaphor Literalism
 
-Preparation for spiritual work is compared to ordinary sensory preparation — putting on glasses, using a hearing aid, having coffee to become more alert, listening to music to become more receptive. **A person prepares his own vessel; the Creator performs the actual state.** This is the meaning of "corresponding to the holiness that comes from above, a person must prepare his own holiness from below."
+Rav Laitman answers that the correspondence is not one-to-one with biological gender. A woman is described as more tightly bound to natural, practical reality by nature, which is why she functions more stably within it; a man is described as more detached from that reality, which is also why he makes more mistakes — and why the specific obligation to pursue this particular corrective work has, historically, fallen mostly to men (tracing this to Abraham's descendants). Women are not obligated to this specific practice, though a woman who genuinely feels the yearning is, in that measure, also obligated to the correction.
 
-### Every Level of Creation Pleads
+### The Test Differs by Gender
 
-Rav Laitman traces a single structure of "plea" running through every level of existence — from a woodlouse's basic distress at having nothing to eat, through people bowing to statues, to Kibbutzniks praying for rain, to a person genuinely pleading to unite with the Creator. What differs across these levels is not the existence of a plea but **what is being asked for, and for whose sake** — culminating in a plea that is "completely detached" from personal benefit, aimed only at the Creator.
+Rav Laitman describes different practical tests for authenticity of spiritual yearning: a woman is examined by whether, once given what she needs by nature (home, husband, children), she still yearns for the Creator despite already having what would ordinarily fulfill her. A man is tested differently — through marriage, family, and work — since he does not have the same natural desires for home and children "to the same extent." He recalls a story about Baal HaSulam's own daughter, deeply devoted to study, whose spiritual yearning "completely vanished" once she became pregnant — offered as an illustration of how thoroughly nature can reassert itself, and why this particular examination exists.
 
----
+### A Different Method, Not a Closed Door
 
-## Part 7 — A Practical Question: Who Studies, and Why
-
-A student asks: if the will to receive requiring correction is described as the "female" aspect, why are men, not women, gathered in the morning lesson? Rav Laitman's response, as given in the transcript, distinguishes the *vessel* under discussion (a person's felt lack for the Creator, called **nekevah**, female, in this technical sense) from literal gender, while also describing women as, in his account, more bound to the natural, stable roles of home and family — and therefore not obligated to this specific practice, though anyone, regardless of gender, who develops a genuine "point in the heart" can be included. He notes examples of women in the study group today who are drawn to this work despite already having what "nature" would otherwise have them seek, calling it a real, if newer, phenomenon — and recalls, as illustration, Baal HaSulam's daughter, who studied before her marriage but whose yearning receded once she became a mother.
-
----
-
-## Part 8 — Closing: What Students Took From the Lesson
-
-In the closing round, students named: the need to correct "the dullness of the senses" as the whole of the work; the idea that felt distance from the Creator is itself the reward being given; the instruction to notice the small nudges from the Creator rather than treat them, in the student's words, "like a fly" to be waved off; and that all preparation happens through connection with the group — that scrutinizing "what's happening to me, who's doing it, why" cannot be done alone.
+Rav Laitman notes that women in their own group do show this yearning, sometimes cultivated through the environment itself rather than emerging purely independently — but even when a woman genuinely has the desire, **the method used is different from the men's method**, not identical.
 
 ---
 
 ## Key Themes & Takeaways
 
-1. **The Creator's holiness does not depend on anyone else's — but He still requires an awakening "from below" first.** A person must generate a genuine desire for holiness before holiness can be given from above.
-2. **The work itself is the reward, not a payment that follows it.** "Do not add and do not take away" — wanting more than the work itself is, by definition, working Lo Lishmah.
-3. **Coming to purify is simultaneously a person's own action and a gift from above.** The desire to purify is itself implanted beforehand; a person still must act as though it depends entirely on him.
-4. **"Forming a form within a form" describes a new vessel of bestowal (Ubar) implanted within the existing vessel of reception (the "mother"),** growing through Ibur, Yanika, and Mochin.
-5. **All future states already exist; a person's task is only to become sensitive to what is happening now**, scrutinizing what he feels, who is doing it, and why — the Creator performs the actual change of state.
-6. **The only true punishment is disconnection from progress**, not the difficulty of any particular state; concealment itself can be corrected through the quality of Chassadim.
-7. **Preparation means sensitizing one's own vessel — not manufacturing the light.** The basement parable shows why felt lack must precede an appreciation of what is eventually revealed.
+1. **If the Creator performs every action, a person's real work is becoming a sensing element** — scrutinizing what is happening, who is doing it, and why, rather than performing the underlying spiritual action himself.
+2. **The process of connection is itself the reward** — there is nothing beyond it to seek; each moment's task is simply to sharpen the connection further.
+3. **Punishment is not concealment itself, but a lack of contact or attention** — and the real issue is how a person relates to concealment, not the concealment's mere existence.
+4. **We already exist at the end of correction; only the dullness of our senses needs correcting** — nothing external actually requires fixing.
+5. **All forms of longing, from the most primitive to the most refined, are ultimately directed at the same source** — what differs is depth of awareness and whether the plea is for personal benefit or genuinely directed toward the Creator.
+6. **The parable of the wealthy man's son shows why prior sorrow is necessary** — a vessel must be prepared to be compatible with the revelation it will eventually receive.
+7. **Gendered roles in the practice reflect a claimed difference in natural relationship to reality, not a literal reading of "female" as will-to-receive** — with different practical tests of authentic yearning for each.
 
 ---
 
@@ -140,16 +100,11 @@ In the closing round, students named: the need to correct "the dullness of the s
 
 | Term | Definition |
 |------|------------|
-| **Khtusha / Kdusha (Holiness)** | Separation from self-reception; achieved only once a person first generates a desire for it "from below." |
-| **Dvikut** | Adhesion with the Creator; the stated goal of the Work, requiring a person to become "holy" as the Creator is holy. |
-| **Lishmah / Lo Lishmah** | For Her (the Creator's) sake / not for Her sake. The article treats "wanting reward beyond the work" as a mark of Lo Lishmah. |
-| **Ubar (Embryo)** | From *Over*, "passing." The first, still-forming state in which a vessel of bestowal is implanted within the prior vessel of reception. |
-| **Ibur / Yanika / Mochin** | Conception, nursing, and adulthood — the three stages by which the new vessel of bestowal grows to maturity. |
-| **Katnut / Gadlut** | Smallness and greatness — the states of spiritual infancy and full growth corresponding to Ibur/Yanika and Mochin. |
-| **The Mother (in the Work)** | The prior state — the existing vessels of reception — within which the new form (Ubar) is implanted. |
-| **He Who Comes to Purify Is Aided** | The teaching that Divine assistance follows a person's own initiative to purify — even though that initiative is itself first given from above. |
-| **Chassadim** | The quality of mercy; correcting concealment by detaching from personal sensation and desiring only to give. |
-| **Yehudim / Ivrim (Hebrews)** | "Those who seek unity" (from *Yichud*) and "those who cross the barrier" (from *Ever*) — the Work's reading of the name "Jews," not a biological category. |
-| **Machsom** | The barrier a person "crosses over" in moving toward unity with the Creator. |
-| **Nekevah (Female, in the Work)** | The aspect of lack — a person's felt deficiency for the Creator — used technically, distinct from literal gender. |
-| **Point in the Heart** | The seed of genuine yearning for the Creator, described as capable of developing in anyone who is drawn toward this work. |
+| **Scrutiny (Kabbalistic "Birur")** | The ongoing work of discerning what is happening to oneself, who is causing it, and why — described as the person's actual and only real action. |
+| **The Vessel** | The desire to enjoy the Creator's presence; its fullness or emptiness is determined by the degree of concealment or revelation, not by external circumstance. |
+| **Reward as Process** | The idea that connection and increasing illumination are themselves the reward — not something separate given in exchange for effort. |
+| **Punishment (Reframed)** | Being left without contact or attention from above — a lack of the sensed relationship, rather than difficulty or concealment as such. |
+| **Recognition of Evil** | The necessary awareness of one's own lack, illustrated by the parable of the wealthy man's son kept ignorant in a basement until shown the outside world. |
+| **Lo Lishma / Lishma** | Requests aimed at personal benefit versus a plea genuinely directed at the Creator Himself, detached from self-interest — described as very difficult to fully articulate. |
+| **Dullness of the Senses** | The only thing actually needing correction, according to this lesson, since all spiritual states already exist and are already attained in principle. |
+| **Gendered Tests of Yearning** | Different practical criteria described for authenticating a woman's versus a man's spiritual yearning, tied to claimed differences in natural relationship to worldly life. |
