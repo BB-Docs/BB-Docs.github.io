@@ -1,5 +1,5 @@
 ---
-title: "July3-PM 2026 SurroundingLightAndTheThinLine"
+title: "Surrounding Light And The Thin Line"
 subtitle: "Morning Lesson (Afternoon Class) · Series: The Structure of the Upper Worlds · Source texts: Baal HaSulam, Preface to the Wisdom of Kabbalah (item 32) and Talmud Eser…"
 date: 2026-07-03
 ---
