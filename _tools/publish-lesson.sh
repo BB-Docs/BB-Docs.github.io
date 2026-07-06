@@ -30,11 +30,12 @@ GIT_EMAIL="pradeepcb@gmail.com"
 # shellcheck disable=SC1091
 [ -f "$SITE_DIR/_tools/lesson.env" ] && source "$SITE_DIR/_tools/lesson.env"
 
-VERIFY=1; DRYRUN=0; LOCAL_FILE=""
+VERIFY=1; DRYRUN=0; REBUILD=0; LOCAL_FILE=""
 for arg in "$@"; do
   case "$arg" in
     --no-verify) VERIFY=0 ;;
     --dry-run)   DRYRUN=1 ;;
+    --rebuild)   REBUILD=1 ;;
     *.md)        LOCAL_FILE="$arg" ;;
     *) echo "Unknown argument: $arg" >&2; exit 2 ;;
   esac
@@ -84,6 +85,10 @@ say "Scanning $count source file(s)…"
 
 # ---- 2. convert each into its own staging dir (unique paths) ----
 cd "$SITE_DIR"
+if [ "$REBUILD" -eq 1 ] && [ -z "$LOCAL_FILE" ]; then
+  say "Rebuild: clearing all existing posts (recreated from Drive below)…"
+  find _posts -maxdepth 1 -name '*.md' -delete
+fi
 idx=0
 while IFS= read -r src; do
   d="$STAGE/$idx"; mkdir -p "$d"
@@ -145,9 +150,14 @@ fi
 # ---- 4. apply, commit & push ----
 for ((j = 0; j < M; j++)); do cp "${CHG_STAGE[$j]}" "_posts/${CHG_FINAL[$j]}"; done
 say "Committing & pushing…"
-git add _posts
-git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" \
-    commit -qm "Publish lessons: $nnew new, $nupd updated"
+git add -A _posts
+if git diff --cached --quiet -- _posts; then
+  say "No net changes — the site already matches Drive exactly."
+  exit 0
+fi
+msg="Publish lessons: $nnew new, $nupd updated"
+[ "$REBUILD" -eq 1 ] && msg="Rebuild all lessons from Drive ($M posts)"
+git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" commit -qm "$msg"
 git pull --rebase --quiet origin main || true   # replay our commit on any remote changes
 git push -q origin main
 say "Pushed."
