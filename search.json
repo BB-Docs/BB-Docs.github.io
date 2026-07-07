@@ -1,0 +1,15 @@
+---
+# Generated search index: one entry per lesson, with full plain-text body.
+layout: null
+---
+[
+{% for post in site.posts %}
+  {
+    "title": {{ post.title | jsonify }},
+    "subtitle": {{ post.subtitle | default: "" | jsonify }},
+    "date": {{ post.date | date: "%-d %b %Y" | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "content": {{ post.content | strip_html | strip_newlines | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

@@ -6,7 +6,15 @@ layout: default
   <p class="hero-tagline">{{ site.tagline }}</p>
 </section>
 
-<ul class="lesson-list">
+<div class="search">
+  <input id="q" type="search" placeholder="Search lessons…  (press /)" autocomplete="off"
+         spellcheck="false" data-index="{{ '/search.json' | relative_url }}">
+  <p id="search-meta" class="search-meta" hidden></p>
+</div>
+
+<ul class="lesson-list" id="search-results" hidden></ul>
+
+<ul class="lesson-list" id="lesson-list">
   {% for post in site.posts %}
   <li class="lesson-item">
     <a href="{{ post.url | relative_url }}">
@@ -21,3 +29,5 @@ layout: default
 {% if site.posts.size == 0 %}
 <p class="empty">No lessons yet. Add your first one in <code>_posts/</code>.</p>
 {% endif %}
+
+<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
