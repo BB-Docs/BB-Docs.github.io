@@ -91,6 +91,11 @@ if [ "$REBUILD" -eq 1 ] && [ -z "$LOCAL_FILE" ]; then
 fi
 idx=0
 while IFS= read -r src; do
+  # Companion vocabulary/glossary files are reference material, not lessons.
+  case "$(basename "$src" | tr '[:upper:]' '[:lower:]')" in
+    *vocabulary*|*glossary*)
+      say "Skipping companion (not a lesson): $(basename "$src")"; continue ;;
+  esac
   d="$STAGE/$idx"; mkdir -p "$d"
   if ! POST="$(python3 _tools/convert.py "$src" --posts-dir "$d" 2>"$TMP/err")"; then
     warn "Skipped $(basename "$src"): $(tr '\n' ' ' < "$TMP/err")"; continue
