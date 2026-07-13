@@ -96,7 +96,7 @@ Rav Laitman returns to why the environment is indispensable rather than optional
 
 > "In me, myself, there's nothing to begin with that I can even rise one step, one degree. There isn't. I need to receive the necessity for that degree from the environment."
 
-He extends this to the vessel itself: if a person already possessed the completed vessel (Klee), he would need neither friends nor the Creator to reveal it. Instead, the deficiency itself — "which is not mine" — is received through the society, and only by turning to the Creator by way of that borrowed deficiency does a person become worthy of receiving the force to bestow.
+He extends this to the vessel itself: if a person already possessed the completed vessel (Kli), he would need neither friends nor the Creator to reveal it. Instead, the deficiency itself — "which is not mine" — is received through the society, and only by turning to the Creator by way of that borrowed deficiency does a person become worthy of receiving the force to bestow.
 
 ### Two Different Kinds of Ego
 
@@ -157,6 +157,6 @@ The final point of the exchange is that self-examination belongs in the good sta
 | **Machsom (Barrier)** | The point of reaching a permanent, constant preference for spiritual pleasure; after this, entry into spirituality is given through the screen rather than self-produced. |
 | **Screen (Masach)** | The acquired capacity to receive in order to bestow; what a person is given only after reaching the machsom. |
 | **Surrounding Light (Ohr Makif)** | The light invited by connecting with friends with the intention of reaching the Creator; reveals a person's real (spiritual) ego rather than an ordinary social one. |
-| **Klee (Vessel)** | The capacity to receive that a person does not yet fully possess; the deficiency for it must be received from the environment rather than generated independently. |
+| **Kli (Vessel)** | The capacity to receive that a person does not yet fully possess; the deficiency for it must be received from the environment rather than generated independently. |
 | **Shechina** | Divine Presence — described as dwelling in the point of connection between two people (or between the created being and the Creator), not within either one separately. |
 | **Machsom-Level Ego vs. Beastly Ego** | The distinction between the real, spiritual ego revealed by surrounding light aimed at the Creator, and the ordinary self-interest exposed by group pressure alone (as in psychology or military training). |
