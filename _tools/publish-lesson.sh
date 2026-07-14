@@ -23,6 +23,7 @@ SITE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 # ---- config (defaults; override in _tools/lesson.env) ----
 RCLONE_REMOTE="gdrive"
 DRIVE_FOLDER_ID=""
+DRIVE_SUBDIR="MkDocs"          # subfolder (within the shared folder) holding lesson .md files; "" = root
 REPO="BB-Docs/BB-Docs.github.io"
 SITE_URL="https://bb-docs.github.io"
 GIT_NAME="pradeepcb"
@@ -74,9 +75,9 @@ if [ -n "$LOCAL_FILE" ]; then
 else
   command -v rclone >/dev/null || die "rclone not installed (brew install rclone)"
   [ -n "$DRIVE_FOLDER_ID" ] || die "DRIVE_FOLDER_ID not set — see _tools/lesson.env.example"
-  say "Syncing .md files from the Drive folder…"
-  rclone copy "${RCLONE_REMOTE}:" --drive-root-folder-id "$DRIVE_FOLDER_ID" \
-      --include "*.md" "$SRC" || die "rclone copy failed"
+  say "Syncing .md files from the Drive folder (${DRIVE_SUBDIR:-root})…"
+  rclone copy "${RCLONE_REMOTE}:${DRIVE_SUBDIR}" --drive-root-folder-id "$DRIVE_FOLDER_ID" \
+      --max-depth 1 --include "*.md" "$SRC" || die "rclone copy failed"
 fi
 
 count="$(find "$SRC" -name '*.md' | wc -l | tr -d ' ')"
