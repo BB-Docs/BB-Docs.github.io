@@ -1,0 +1,42 @@
+---
+layout: default
+title: Subscribe
+permalink: /subscribe/
+description: Get each daily lesson by email, WhatsApp, or RSS.
+---
+<article class="lesson">
+  <p class="lesson-date"><a class="back" href="{{ '/' | relative_url }}">← All lessons</a></p>
+  <h1 class="lesson-title">Subscribe</h1>
+  <p class="lesson-subtitle">Get a link to each new lesson, the day it goes up.</p>
+
+  <div class="sub-grid">
+
+    <section class="sub-card">
+      <h2>📧 Email</h2>
+      {% if site.newsletter_action != "" %}
+      <p>One short email per lesson. Unsubscribe any time.</p>
+      <form class="sub-form" action="{{ site.newsletter_action }}" method="post" target="_blank">
+        <input type="email" name="email" placeholder="you@example.com" required aria-label="Email address">
+        <button type="submit">Subscribe</button>
+      </form>
+      {% else %}
+      <p class="sub-soon">Email updates are being set up — check back shortly.</p>
+      {% endif %}
+    </section>
+
+    {% if site.whatsapp_channel_url != "" %}
+    <section class="sub-card">
+      <h2>💬 WhatsApp</h2>
+      <p>Follow the channel to get each lesson link. It's one-way — no group chatter.</p>
+      <p><a class="sub-btn" href="{{ site.whatsapp_channel_url }}" target="_blank" rel="noopener">Follow on WhatsApp</a></p>
+    </section>
+    {% endif %}
+
+    <section class="sub-card">
+      <h2>🔗 RSS</h2>
+      <p>Prefer your own reader? Point it at the feed:</p>
+      <p><a class="sub-btn sub-btn-quiet" href="{{ '/feed.xml' | relative_url }}">{{ '/feed.xml' | absolute_url }}</a></p>
+    </section>
+
+  </div>
+</article>

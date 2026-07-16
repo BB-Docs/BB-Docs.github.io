@@ -10,6 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
+  {%- feed_meta -%}
 </head>
 <body>
   <header class="site-header">
@@ -19,6 +20,7 @@
     </a>
     <nav class="site-nav">
       <a href="{{ '/' | relative_url }}">All lessons</a>
+      <a href="{{ '/subscribe/' | relative_url }}">Subscribe</a>
     </nav>
   </header>
 

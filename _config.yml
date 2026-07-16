@@ -8,6 +8,18 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: /lessons/:year/:month/:day/:title/
+
+# RSS feed at /feed.xml (jekyll-feed is supported natively by GitHub Pages)
+plugins:
+  - jekyll-feed
+
+# --- Subscribe page settings -------------------------------------------
+# Paste your WhatsApp Channel invite link here (Channel > ⋮ > Channel info > Copy link).
+# Leave "" and the WhatsApp section is hidden.
+whatsapp_channel_url: ""
+# Your newsletter provider's form POST url (e.g. Buttondown embed action).
+# Leave "" and the email section shows a "coming soon" note instead of a form.
+newsletter_action: ""
 # Author is in IST; render lessons dated "today" even if UTC hasn't caught up.
 timezone: Asia/Kolkata
 future: true
