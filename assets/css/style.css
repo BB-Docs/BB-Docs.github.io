@@ -35,9 +35,9 @@ a:hover { text-decoration: underline; }
   margin: 0 auto;
   padding: 1.25rem 1.25rem 0;
 }
-.brand { display: flex; align-items: center; gap: .5rem; color: var(--ink); }
+.brand { display: flex; align-items: center; gap: .55rem; color: var(--ink); }
 .brand:hover { text-decoration: none; }
-.brand-mark { font-size: 1.4rem; }
+.brand-logo { height: 32px; width: auto; display: block; }
 .brand-name {
   font-family: "Fraunces", Georgia, serif;
   font-weight: 600;
