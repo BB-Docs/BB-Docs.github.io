@@ -89,6 +89,7 @@ say "Scanning $count source file(s)…"
 
 # ---- 2. convert each into its own staging dir (unique paths) ----
 cd "$SITE_DIR"
+mkdir -p _posts   # may not exist (e.g. after every post was git rm'd)
 if [ "$REBUILD" -eq 1 ] && [ -z "$LOCAL_FILE" ]; then
   say "Rebuild: clearing all existing posts (recreated from Drive below)…"
   find _posts -maxdepth 1 -name '*.md' -delete
