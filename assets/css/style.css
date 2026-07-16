@@ -43,7 +43,8 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
   font-size: 1.15rem;
 }
-.site-nav a { color: var(--ink-soft); font-size: .95rem; }
+.site-nav { display: flex; gap: 1.1rem; }
+.site-nav a { color: var(--ink-soft); font-size: .95rem; white-space: nowrap; }
 
 /* Layout */
 .container { max-width: var(--max); margin: 0 auto; padding: 0 1.25rem; }
