@@ -35,14 +35,10 @@ a:hover { text-decoration: underline; }
   margin: 0 auto;
   padding: 1.25rem 1.25rem 0;
 }
-.brand { display: flex; align-items: center; gap: .55rem; color: var(--ink); }
+.brand { display: flex; align-items: center; color: var(--ink); }
 .brand:hover { text-decoration: none; }
-.brand-logo { height: 40px; width: auto; display: block; }
-.brand-name {
-  font-family: "Fraunces", Georgia, serif;
-  font-weight: 600;
-  font-size: 1.15rem;
-}
+/* Combined mark + "Daily Lesson Notes" wordmark (text is outlined — no font needed) */
+.brand-lockup { height: 40px; width: auto; display: block; }
 .site-nav { display: flex; gap: 1.1rem; }
 .site-nav a { color: var(--ink-soft); font-size: .95rem; white-space: nowrap; }
 
@@ -274,6 +270,10 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
 
 @media (max-width: 540px) {
   body { font-size: 17px; }
+  /* lockup is ~4.9:1 — shrink it so it doesn't crowd the nav on phones */
+  .brand-lockup { height: 30px; }
+  .site-nav { gap: .8rem; }
+  .site-header { padding-left: 1rem; padding-right: 1rem; }
   .hero h1 { font-size: 2rem; }
   .lesson-item a { grid-template-columns: 1fr; }
   .lesson-item time { padding-top: 0; }
