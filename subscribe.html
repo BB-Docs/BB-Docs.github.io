@@ -24,6 +24,14 @@ description: Get each daily lesson by email, WhatsApp, or RSS.
       {% endif %}
     </section>
 
+    {% if site.telegram_channel_url != "" %}
+    <section class="sub-card">
+      <h2>✈️ Telegram</h2>
+      <p>Each lesson posts here automatically, the moment it goes up. Read-only — no group chatter.</p>
+      <p><a class="sub-btn" href="{{ site.telegram_channel_url }}" target="_blank" rel="noopener">Join on Telegram</a></p>
+    </section>
+    {% endif %}
+
     {% if site.whatsapp_channel_url != "" %}
     <section class="sub-card">
       <h2>💬 WhatsApp</h2>

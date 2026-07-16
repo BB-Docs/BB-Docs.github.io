@@ -17,6 +17,8 @@ plugins:
 # Paste your WhatsApp Channel invite link here (Channel > ⋮ > Channel info > Copy link).
 # Leave "" and the WhatsApp section is hidden.
 whatsapp_channel_url: ""
+# Public Telegram channel. Leave "" to hide the Telegram section.
+telegram_channel_url: "https://t.me/bb_daily_notes"
 # Your newsletter provider's form POST url (e.g. Buttondown embed action).
 # Leave "" and the email section shows a "coming soon" note instead of a form.
 newsletter_action: ""
