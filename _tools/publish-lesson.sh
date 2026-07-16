@@ -28,6 +28,9 @@ REPO="BB-Docs/BB-Docs.github.io"
 SITE_URL="https://bb-docs.github.io"
 GIT_NAME="pradeepcb"
 GIT_EMAIL="pradeepcb@gmail.com"
+# Telegram auto-post (optional). Set both in _tools/lesson.env to enable.
+TELEGRAM_BOT_TOKEN=""          # from @BotFather
+TELEGRAM_CHAT_ID=""            # e.g. @your_channel  (bot must be a channel admin)
 # shellcheck disable=SC1091
 [ -f "$SITE_DIR/_tools/lesson.env" ] && source "$SITE_DIR/_tools/lesson.env"
 
@@ -172,7 +175,22 @@ say "Pushed."
 url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
             "$SITE_URL" "${b:0:4}" "${b:5:2}" "${b:8:2}" "${b:11}"; }
 
-# Print (and copy) a paste-ready share message for the newest published lesson.
+# Post the message to a Telegram channel (no-op unless token + chat id are set).
+telegram_notify() {
+  [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || return 0
+  local code
+  code="$(curl -s -o "$TMP/tg.json" -w '%{http_code}' \
+      -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+      --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+      --data-urlencode "text=$1" || echo 000)"
+  if [ "$code" = "200" ]; then
+    printf "\033[1;32m   ✓ posted to Telegram\033[0m\n"
+  else
+    warn "Telegram post failed (HTTP $code): $(tr -d '\n' < "$TMP/tg.json" | cut -c1-200)"
+  fi
+}
+
+# Print + copy a paste-ready share message, and auto-post it to Telegram.
 share_message() {
   local newest="" f title url msg
   for ((f = 0; f < M; f++)); do
@@ -188,6 +206,7 @@ ${url}"
     printf '%s' "$msg" | pbcopy
     printf "\033[0;36m   ✓ copied to clipboard — paste into your WhatsApp Channel\033[0m\n"
   fi
+  telegram_notify "$msg"
 }
 
 if [ "$VERIFY" -eq 0 ]; then
