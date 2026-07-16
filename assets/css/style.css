@@ -37,7 +37,7 @@ a:hover { text-decoration: underline; }
 }
 .brand { display: flex; align-items: center; gap: .55rem; color: var(--ink); }
 .brand:hover { text-decoration: none; }
-.brand-logo { height: 32px; width: auto; display: block; }
+.brand-logo { height: 40px; width: auto; display: block; }
 .brand-name {
   font-family: "Fraunces", Georgia, serif;
   font-weight: 600;
@@ -267,6 +267,10 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
   max-width: var(--max); margin: 2rem auto 0; padding: 1.5rem 1.25rem 2.5rem;
   border-top: 1px solid var(--line); color: var(--ink-soft); font-size: .9rem;
 }
+.site-footer p { margin: 0; }
+.site-footer-credit { margin-top: .35rem !important; font-size: .85rem; }
+.site-footer-credit a { color: var(--ink-soft); text-decoration: underline; text-underline-offset: 2px; }
+.site-footer-credit a:hover { color: var(--accent); }
 
 @media (max-width: 540px) {
   body { font-size: 17px; }

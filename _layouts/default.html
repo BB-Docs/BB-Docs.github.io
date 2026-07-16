@@ -15,7 +15,7 @@
 <body>
   <header class="site-header">
     <a class="brand" href="{{ '/' | relative_url }}">
-      <img class="brand-logo" src="{{ '/assets/img/logo.svg' | relative_url }}" alt="" width="18" height="32">
+      <img class="brand-logo" src="{{ '/assets/img/logo.svg' | relative_url }}" alt="" width="22" height="40">
       <span class="brand-name">{{ site.title }}</span>
     </a>
     <nav class="site-nav">
@@ -30,6 +30,11 @@
 
   <footer class="site-footer">
     <p>{{ site.title }} · {{ site.tagline }}</p>
+    <p class="site-footer-credit">
+      Lessons from <a href="https://kabbalahmedia.info/" target="_blank" rel="noopener">kabbalahmedia.info</a>
+      · <a href="{{ '/subscribe/' | relative_url }}">Subscribe</a>
+      · <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </p>
   </footer>
 </body>
 </html>
