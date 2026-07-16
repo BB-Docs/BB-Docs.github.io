@@ -7,6 +7,10 @@
   {%- comment %} Per-page share text: a lesson's subtitle is its curated one-liner. {% endcomment -%}
   {%- assign share_title = page.title | default: site.title -%}
   {%- assign share_desc = page.description | default: page.subtitle | default: site.tagline -%}
+  {%- comment %} Lessons lead their share text with the lesson date. {% endcomment -%}
+  {%- if page.date -%}
+    {%- assign share_desc = page.date | date: "%-d %b %Y" | append: " · " | append: share_desc -%}
+  {%- endif -%}
   {%- assign share_img = '/assets/img/og-image.png' | absolute_url -%}
   <meta name="description" content="{{ share_desc | strip_html | escape }}">
 
