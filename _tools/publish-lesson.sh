@@ -191,29 +191,42 @@ telegram_notify() {
   fi
 }
 
-# Print + copy a paste-ready share message, and auto-post it to Telegram.
-share_message() {
-  local newest="" f title url msg
-  for ((f = 0; f < M; f++)); do
-    if [ -z "$newest" ] || [[ "${CHG_FINAL[$f]}" > "$newest" ]]; then newest="${CHG_FINAL[$f]}"; fi
-  done
-  [ -n "$newest" ] || return 0
-  title="$(grep -m1 '^title:' "_posts/$newest" | sed -e 's/^title:[[:space:]]*//' -e 's/^"//' -e 's/"$//')"
-  url="$(url_for "$newest")"
-  msg="📘 ${title}
-${url}"
-  printf "\n\033[1;36m📣 Share message (newest lesson):\033[0m\n%s\n" "$msg"
-  if command -v pbcopy >/dev/null 2>&1; then
-    printf '%s' "$msg" | pbcopy
-    printf "\033[0;36m   ✓ copied to clipboard — paste into your WhatsApp Channel\033[0m\n"
+# Announce EVERY newly published lesson, oldest first, and copy them for WhatsApp.
+# Updates are deliberately not re-announced (a re-sync must not re-spam a channel).
+# Announcing only the newest silently dropped a lesson on any two-a-day date.
+announce_new() {
+  local i base title url msg all="" n=0 sorted
+  sorted="$(for ((i = 0; i < M; i++)); do
+              [ "${CHG_TAG[$i]}" = "N" ] && echo "${CHG_FINAL[$i]}"
+            done | sort)"
+  if [ -z "$sorted" ]; then
+    say "Updates only — nothing new to announce."
+    return 0
   fi
-  telegram_notify "$msg"
+  while IFS= read -r base; do
+    [ -n "$base" ] || continue
+    title="$(grep -m1 '^title:' "_posts/$base" | sed -e 's/^title:[[:space:]]*//' -e 's/^"//' -e 's/"$//')"
+    url="$(url_for "$base")"
+    msg="📘 ${title}
+${url}"
+    n=$((n + 1))
+    [ "$n" -gt 1 ] && sleep 4          # stay under Telegram's ~20 msg/min per-chat cap
+    printf "\n\033[1;36m📣 %s\033[0m\n%s\n" "${base%.md}" "$msg"
+    telegram_notify "$msg"
+    all="${all}${msg}
+
+"
+  done <<<"$sorted"
+  if command -v pbcopy >/dev/null 2>&1; then
+    printf '%s' "$all" | pbcopy
+    printf "\033[0;36m   ✓ %d message(s) copied to clipboard — paste into your WhatsApp Channel\033[0m\n" "$n"
+  fi
 }
 
 if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Rebuilds in ~1 min:"
   for ((j = 0; j < M; j++)); do echo "   $(url_for "${CHG_FINAL[$j]}")"; done
-  share_message
+  announce_new
   exit 0
 fi
 
@@ -247,4 +260,4 @@ for ((j = 0; j < M; j++)); do
 done
 [ "$ok" -eq 1 ] && printf "\033[1;32m✓ All published lessons are live.\033[0m\n" \
                 || die "Some lessons failed verification."
-share_message
+announce_new
