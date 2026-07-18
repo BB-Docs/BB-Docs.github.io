@@ -24,7 +24,7 @@ Rav unpacks this with the image of a person going to work: he goes out and works
 
 > "It's not I who sweated and earned the payment, rather it's the Creator who gave me both the work and the payment, and really my work is not in performing the work itself, my work is in forming my attitude toward it."
 
-Morning and evening are not literally two separate times of day — they describe two states. Morning is described as acting "without Hochma" (without illumination, in mercy/Chesed); evening is when Hochma illuminates what was done, even though it looks like there's no light left. The light earned through the day's work becomes "on your account" rather than only on the Creator's.
+Morning and evening are not literally two separate times of day — they describe two states. Morning is described as acting "without Hochma" (without illumination, in mercy/Hesed); evening is when Hochma illuminates what was done, even though it looks like there's no light left. The light earned through the day's work becomes "on your account" rather than only on the Creator's.
 
 ---
 
@@ -126,5 +126,5 @@ Students close the lesson noting the practical takeaway: tie every action, howev
 | **Recognition of Evil** | The stage of questioning why one's own desires are "bad," passed through gradually on the way to the barrier (Machsom). |
 | **Lo Lishma / Lishma** | Wanting to feel good for oneself (lo lishma) versus wanting the Creator's giving to be well-received because it matters to Him (lishma). |
 | **Prayer (redefined)** | Not a request or expression of gratitude in words, but the deepest, settled feeling reached after complete self-examination of one's actual state. |
-| **Chesed / Hochma (morning / evening)** | Morning work is described as acting without Hochma's illumination (in mercy); evening is when Hochma illuminates what was done during the day. |
+| **Hesed / Hochma (morning / evening)** | Morning work is described as acting without Hochma's illumination (in mercy); evening is when Hochma illuminates what was done during the day. |
 | **Bread of Shame** | The unpleasantness a created being would feel receiving unearned pleasure; the reason for concealment, discussed in the article portion of the lesson. |
