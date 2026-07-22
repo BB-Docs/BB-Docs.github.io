@@ -27,14 +27,21 @@ GENERIC_H1 = {
 }
 
 
+TITLE_MINOR = {"and", "or", "of", "the", "in", "on", "to", "a", "an", "for",
+               "with", "at", "by", "as", "but", "from", "nor", "per", "vs"}
+
+
 def decamel(s):
     """Split a run-together CamelCase token into words, only if it has no
-    spaces (e.g. 'AdheringToTheFriends' -> 'Adhering To The Friends')."""
+    spaces (e.g. 'AdheringToTheFriends' -> 'Adhering to the Friends').
+    Minor words are lowercased (title case), except the first."""
     if " " in s or not re.search(r"[a-z][A-Z]", s):
         return s
     s = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", s)
     s = re.sub(r"(?<=[A-Z])(?=[A-Z][a-z])", " ", s)
-    return s
+    words = s.split()
+    return " ".join(w.lower() if i and w.lower() in TITLE_MINOR else w
+                    for i, w in enumerate(words))
 
 
 def filename_topic(name):
