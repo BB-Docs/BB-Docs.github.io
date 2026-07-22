@@ -1,5 +1,5 @@
 ---
-title: "Surrounding Light And The Thin Line"
+title: "Surrounding Light and the Thin Line"
 subtitle: "Morning Lesson (Afternoon Class) · Series: The Structure of the Upper Worlds · Source texts: Baal HaSulam, Preface to the Wisdom of Kabbalah (item 32) and Talmud Eser…"
 date: 2026-07-03
 ---

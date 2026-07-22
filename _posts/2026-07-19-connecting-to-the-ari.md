@@ -1,5 +1,5 @@
 ---
-title: "Connecting To The Ari"
+title: "Connecting to the Ari"
 subtitle: "Excerpts From the Sources for the Memorial Day (Yahrzeit) of the Ari — archival recording of a lesson originally given July 14, 2021, drawing on the Ari's Tree of Life…"
 date: 2026-07-19
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Created Being And Free Choice"
+title: "Created Being and Free Choice"
 subtitle: "Source article not confidently identified — the recording begins mid-lecture, after the opening article reading. The material draws on Baal HaSulam/Rabash teaching on…"
 date: 2026-07-22
 ---

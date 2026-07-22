@@ -1,5 +1,5 @@
 ---
-title: "Adhering To The Friends"
+title: "Adhering to the Friends"
 subtitle: "Morning Lesson · Opening remarks and preparation talk by Rav Laitman, ahead of a silent workshop · No formal article read; themes drawn from Rabash's teachings on unity…"
 date: 2026-07-03
 ---
