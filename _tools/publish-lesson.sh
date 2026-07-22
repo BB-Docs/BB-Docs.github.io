@@ -34,13 +34,14 @@ TELEGRAM_CHAT_ID=""            # e.g. @your_channel  (bot must be a channel admi
 # shellcheck disable=SC1091
 [ -f "$SITE_DIR/_tools/lesson.env" ] && source "$SITE_DIR/_tools/lesson.env"
 
-VERIFY=1; DRYRUN=0; REBUILD=0; LOCAL_FILE=""
+VERIFY=1; DRYRUN=0; REBUILD=0; NOTELEGRAM=0; LOCAL_FILE=""
 for arg in "$@"; do
   case "$arg" in
-    --no-verify) VERIFY=0 ;;
-    --dry-run)   DRYRUN=1 ;;
-    --rebuild)   REBUILD=1 ;;
-    *.md)        LOCAL_FILE="$arg" ;;
+    --no-verify)   VERIFY=0 ;;
+    --dry-run)     DRYRUN=1 ;;
+    --rebuild)     REBUILD=1 ;;
+    --no-telegram) NOTELEGRAM=1 ;;
+    *.md)          LOCAL_FILE="$arg" ;;
     *) echo "Unknown argument: $arg" >&2; exit 2 ;;
   esac
 done
@@ -178,6 +179,7 @@ url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
 
 # Post the message to a Telegram channel (no-op unless token + chat id are set).
 telegram_notify() {
+  [ "$NOTELEGRAM" -eq 1 ] && return 0
   [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || return 0
   local code
   code="$(curl -s -o "$TMP/tg.json" -w '%{http_code}' \
