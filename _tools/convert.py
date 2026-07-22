@@ -101,7 +101,9 @@ def derive_title(h1, meta, name):
         if lbl and lbl.lower() == "topic" and val:
             return val
     for line in meta:
-        q = re.search(r'"([^"]{3,})"', line)
+        # A real article title is capitalised; skip incidental lowercase quotes
+        # (e.g. a term like "created being" mentioned inside a prose note).
+        q = re.search(r'"([A-Z][^"]{3,})"', line)
         if q:
             return q.group(1).strip()
     if h1:
