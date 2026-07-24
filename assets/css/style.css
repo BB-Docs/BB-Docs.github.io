@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   --bg: #faf8f4;
   --surface: #ffffff;
   --ink: #1f1b16;
@@ -6,7 +7,39 @@
   --line: #e7e1d6;
   --accent: #9a5b2c;
   --accent-soft: #f2e7da;
+  --on-accent: #ffffff;
+  --mark-bg: #fbe6c8;
+  --code-bg: #2b261f;
+  --code-ink: #f3ede2;
+  /* callouts: border/label colour + tinted background */
+  --quote-line: #b08b5c;    --quote-bg: #fbf6ef;
+  --question-line: #2c6e8f; --question-bg: #eef5f8;
+  --note-line: #5a6b3f;     --note-bg: #f1f4ea;
+  --tip-line: #2f7d5b;      --tip-bg: #ecf5f0;
+  --warning-line: #b4632a;  --warning-bg: #fbf0e6;
   --max: 720px;
+}
+
+/* Dark theme. The <head> script sets data-theme before paint (no flash),
+   defaulting to the OS preference when nothing is stored. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #16130f;
+  --surface: #1e1a15;
+  --ink: #ece5d8;
+  --ink-soft: #a99e8d;
+  --line: #332d25;
+  --accent: #d99a5f;
+  --accent-soft: #33281d;
+  --on-accent: #1b1611;
+  --mark-bg: #6b5220;
+  --code-bg: #0f0d0a;
+  --code-ink: #e8e0d2;
+  --quote-line: #c39b66;    --quote-bg: #241f18;
+  --question-line: #6aa8c9; --question-bg: #16212a;
+  --note-line: #94a86a;     --note-bg: #1b2016;
+  --tip-line: #61b98d;      --tip-bg: #12211a;
+  --warning-line: #d98a4e;  --warning-bg: #251a12;
 }
 
 * { box-sizing: border-box; }
@@ -86,7 +119,7 @@ a:hover { text-decoration: underline; }
   font: inherit; font-weight: 600; font-size: .95rem;
   padding: .6rem 1.1rem;
   border: none; border-radius: 8px;
-  background: var(--accent); color: #fff;
+  background: var(--accent); color: var(--on-accent);
   cursor: pointer;
 }
 .sub-form button:hover { filter: brightness(1.08); }
@@ -94,7 +127,7 @@ a:hover { text-decoration: underline; }
   display: inline-block;
   padding: .55rem 1rem;
   border-radius: 8px;
-  background: var(--accent); color: #fff;
+  background: var(--accent); color: var(--on-accent);
   font-size: .95rem; font-weight: 600;
 }
 .sub-btn:hover { filter: brightness(1.08); text-decoration: none; }
@@ -131,7 +164,7 @@ a:hover { text-decoration: underline; }
   line-height: 1.5;
   margin-top: .15rem;
 }
-mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em; }
+mark { background: var(--mark-bg); color: inherit; border-radius: 3px; padding: 0 .1em; }
 
 /* Lesson list */
 .lesson-list { list-style: none; margin: 0; padding: 0; }
@@ -188,7 +221,7 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
   font-size: .9em;
 }
 .lesson-body pre {
-  background: #2b261f; color: #f3ede2;
+  background: var(--code-bg); color: var(--code-ink);
   padding: 1rem 1.2rem; border-radius: 10px; overflow-x: auto;
 }
 .lesson-body pre code { background: none; padding: 0; }
@@ -220,7 +253,7 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
   padding: 1rem 1.2rem;
   border-left: 4px solid var(--accent);
   border-radius: 0 10px 10px 0;
-  background: #fff;
+  background: var(--surface);
   color: var(--ink);
   font-style: normal;
 }
@@ -234,21 +267,21 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
   margin-bottom: .5rem;
 }
 .lesson-body .callout-quote {
-  border-left-color: #b08b5c;
-  background: #fbf6ef;
+  border-left-color: var(--quote-line);
+  background: var(--quote-bg);
   font-style: italic;
   font-family: "Fraunces", Georgia, serif;
   font-size: 1.12rem;
   line-height: 1.5;
 }
-.lesson-body .callout-question { border-left-color: #2c6e8f; background: #eef5f8; }
-.lesson-body .callout-question strong:first-child { color: #2c6e8f; }
-.lesson-body .callout-note { border-left-color: #5a6b3f; background: #f1f4ea; }
-.lesson-body .callout-note strong:first-child { color: #5a6b3f; }
-.lesson-body .callout-tip { border-left-color: #2f7d5b; background: #ecf5f0; }
-.lesson-body .callout-tip strong:first-child { color: #2f7d5b; }
-.lesson-body .callout-warning { border-left-color: #b4632a; background: #fbf0e6; }
-.lesson-body .callout-warning strong:first-child { color: #b4632a; }
+.lesson-body .callout-question { border-left-color: var(--question-line); background: var(--question-bg); }
+.lesson-body .callout-question strong:first-child { color: var(--question-line); }
+.lesson-body .callout-note { border-left-color: var(--note-line); background: var(--note-bg); }
+.lesson-body .callout-note strong:first-child { color: var(--note-line); }
+.lesson-body .callout-tip { border-left-color: var(--tip-line); background: var(--tip-bg); }
+.lesson-body .callout-tip strong:first-child { color: var(--tip-line); }
+.lesson-body .callout-warning { border-left-color: var(--warning-line); background: var(--warning-bg); }
+.lesson-body .callout-warning strong:first-child { color: var(--warning-line); }
 
 /* Pager */
 .lesson-pager {
@@ -279,3 +312,23 @@ mark { background: #fbe6c8; color: inherit; border-radius: 3px; padding: 0 .1em;
   .lesson-item time { padding-top: 0; }
   .lesson-item-sub, .lesson-item-snippet { grid-column: 1; }
 }
+
+/* Theme toggle */
+.theme-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; padding: 0;
+  border: 1px solid var(--line); border-radius: 8px;
+  background: var(--surface); color: var(--ink-soft);
+  cursor: pointer; line-height: 0;
+}
+.theme-toggle:hover { color: var(--accent); border-color: var(--accent); }
+.theme-toggle:focus-visible { outline: none; box-shadow: 0 0 0 3px var(--accent-soft); }
+/* show the icon for the theme you'd switch TO */
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: inline; }
+
+/* Swap the header lockup for the reversed one in dark mode */
+.brand-lockup-dark { display: none; }
+:root[data-theme="dark"] .brand-lockup-light { display: none; }
+:root[data-theme="dark"] .brand-lockup-dark { display: block; }
