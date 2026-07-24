@@ -1,12 +1,12 @@
 ---
 title: "What Is, 'Anyone Who Mourns for Jerusalem Is Rewarded with Seeing Its Joy,' in the Work?"
-subtitle: "Rabash, Article No. 39, 1990 (Shlavei HaSulam, Vol. 5), quoting the Babylonian Talmud (Taanit 30b). Recorded lesson by Rav Laitman, July 8, 2003, with live Q&A. (A prior…"
+subtitle: "Rabash, Article No. 39, 1990 (Shlavei HaSulam, Vol. 5), quoting the Babylonian Talmud (Taanit 30b). Recorded lesson by Rav Laitman, July 8, 2003, with live Q&A."
 date: 2026-07-23
 ---
 
 ### Opening
 
-After a brief personal reflection carried over from the prior session, the group reads and works through Rabash's article on mourning for Jerusalem — tracing how the will to receive develops in coarseness across "roots" one through four, and how a screen, correction, and the middle line get built on top of it (the article-reading portion, not summarized here, per scope). The Q&A that follows takes up one connected question from several angles: is the desire to bestow that a person acquires genuinely something new, created by the person himself — or is it borrowed, already the Creator's? And since the Creator's actual qualities are hidden from us, how does a person even come to recognize them and start working with them at all? The session closes with the group sharing impressions and naming what they're taking into their Ten.
+After a brief personal reflection carried over from the prior session, the group reads and works through Rabash's article on mourning for Jerusalem — tracing how the will to receive develops in coarseness across "roots" one through four, and how a screen, correction, and the middle line get built on top of it (the article-reading portion, not summarized here, per scope). The Q&A that follows takes up one connected question from several angles: is the desire to bestow that a person acquires genuinely something new, created by the person himself — or is it borrowed, already the Creator's? And since the Creator's actual qualities are hidden from us, how does a person even come to recognize them and start working with them at all?
 
 ## Part 1 — Two Kinds of "Existence from Absence"
 
@@ -91,16 +91,6 @@ Asked how, then, a person could ever come to know someone else's intention at al
 He extended this to explain why the Creator's actions can feel painful while His intention is still trusted as good — using a vivid personal story:
 
 > "In the Creator, there are no intentions and actions separately — but toward us, His action can seem bad, and we realize that His intentions are revealed to us as good because we attain them through our vessels. The act can be reception, but the intention is bestowal... It's like a doctor. I had an operation — I remember, before it, he sat on my chest, a big, strong man, and said, 'Now I'll give you a bad feeling.' He drilled a hole in me without any anesthesia, because I was in a state where I couldn't wait. I lost consciousness and regained it, but I remember I had no hatred toward him. He hurts you, he gives you pain that makes you want to die just to get away from it — but you don't feel hatred toward it. To me, this is a very good discernment: the intention completely controls the action."
-
-## Part 7 — Closing: Sharing Impressions and Carrying the Lesson Into the Ten
-
-Once the Q&A closed, Rav Laitman opened the floor for the group to share impressions and name what they were taking into their Ten. Several friends spoke to the same throughline — the transition from will to receive to will to bestow, and the reforming light that makes it possible:
-
-> "Especially, you know, Rav was talking about how the transition from will to receive to will to bestow happens — that was pretty amazing, the level of detail he went into... To draw the reforming light together — that is the work. That was a common thread."
-
-One participant, joining from Egypt near dawn, tied the lesson back to its own theme of pleasure found specifically in bestowal:
-
-> "One of the things I admire a lot is Rav talks about how there is a pleasure in the giving. Giving is a quality of the Creator, and if we are to achieve equivalence of form, we are trying to become like the Creator — we have to mimic his good qualities, so that quality of restoring for sure absolutely brings pleasure. He also talked about the importance of intention — that you have to have the right intention, and pray for doing things with the right intention... I'm happy every time I join you."
 
 ## Key Themes & Takeaways
 
