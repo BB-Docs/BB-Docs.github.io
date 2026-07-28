@@ -12,7 +12,7 @@ The session opens mid-thought, picking up the previous day's discussion of sland
 
 Rav Laitman opens with the underlying structure of the soul, dividing it into two parts:
 
-> "The soul is comprised of two parts: Achap, vessels of bestowal, called Israel; vessels of reception, called nations of the world."
+> "The soul is comprised of two parts: AHAP, vessels of bestowal, called Israel; vessels of reception, called nations of the world."
 
 He states the general rule for correction plainly: the vessels of reception, on their own, can never be used — not until the end of correction — and can only take part in the work by incorporating themselves into the vessels of bestowal:
 
@@ -22,7 +22,7 @@ He states the general rule for correction plainly: the vessels of reception, on 
 
 This split explains, in his account, the two different kinds of commandments Israel receives. Because the vessels of bestowal (Galgalta veEinayim) *can* reach adhesion with the Creator, they're given a positive commandment — "love thy friend as thyself," since "thy friend" here ultimately means the Creator. The vessels of reception, which cannot be corrected until the end of days, are instead given a restriction: "what is not good for you, don't do to others" — Hillel's formulation, as opposed to Rabbi Akiva's. Rav Laitman ties this directly to a distinction in language:
 
-> "The tongue of holiness... is the tongue spoken in vessels of bestowal, ivrit, Hebrew — the face. And what is translation, which is still not the tongue of holiness, but the tongue with which Achap prepares themselves to later reach the correction to be like Galgalta veEinayim... therefore the Zohar was also written in translation, which indicates that it's a book that talks about the corrections."
+> "The tongue of holiness... is the tongue spoken in vessels of bestowal, ivrit, Hebrew — the face. And what is translation, which is still not the tongue of holiness, but the tongue with which AHAP prepares themselves to later reach the correction to be like Galgalta veEinayim... therefore the Zohar was also written in translation, which indicates that it's a book that talks about the corrections."
 
 ## Part 2 — Necessity, Redundant Desire, and the "Religion of the Last Generation"
 
@@ -64,9 +64,9 @@ A student asks Rav Laitman to explain the relationship between faith and knowled
 
 > "We can't go on the path of knowledge, because the way of knowledge means receiving some kind of reward in corrected vessels already... So to reach that in spirituality, we can only [go] through faith, meaning through the correction of Chafetz Chesed, desiring mercy."
 
-He identifies faith with the light of Chassadim (attained through the screen, working on coarseness roots one through four), and distinguishes it sharply from the popular misunderstanding of the word:
+He identifies faith with the light of Hassadim (attained through the screen, working on coarseness roots one through four), and distinguishes it sharply from the popular misunderstanding of the word:
 
-> "Don't think, like the general folk in our world think, that faith is called that I close my eyes, I become a fanatic person, whatever I'm told I do without activating my mind. That's called faith [to them]. In spiritual vessels it is certainly not that way — we need the head in order to work with the light of Chassadim. There is also a lot of sophistication and a lot of exertion. It's not erasing the desires, it's knowing them, and upon them building a relationship in which I go above them. That's called faith above reason."
+> "Don't think, like the general folk in our world think, that faith is called that I close my eyes, I become a fanatic person, whatever I'm told I do without activating my mind. That's called faith [to them]. In spiritual vessels it is certainly not that way — we need the head in order to work with the light of Hassadim. There is also a lot of sophistication and a lot of exertion. It's not erasing the desires, it's knowing them, and upon them building a relationship in which I go above them. That's called faith above reason."
 
 Because everything a person does still rides on his own desire to receive — even work done at the level of pure bestowal is still built on top of some coarseness — Rav Laitman describes each degree of growth as having its own "embryo" (Ibur) stage, a fresh stage of self-nullification required at every level:
 
@@ -94,7 +94,7 @@ The lesson's own summary, read out before the closing song, restates the whole a
 
 ## Key Themes & Takeaways
 
-1. The soul's two components — vessels of bestowal (Achap/Israel) and vessels of reception (the "nations of the world") — receive two different kinds of commandments precisely because only one of them can be corrected before the end of days; the other can only participate by incorporating itself into the first.
+1. The soul's two components — vessels of bestowal (AHAP/Israel) and vessels of reception (the "nations of the world") — receive two different kinds of commandments precisely because only one of them can be corrected before the end of days; the other can only participate by incorporating itself into the first.
 2. A need stops being genuine necessity the moment it's measured against what others have rather than what the body actually requires — Baal HaSulam's proposed "religion of the last generation" is simply not to take more from society than the last straggler.
 3. Since spiritual attainment can never be measured directly or anticipated in advance, a real, felt shift in one's attitude toward the friends is the one honest gauge that progress is happening.
 4. Love of the Creator is described as the *last* degree of desire's development, not the first — which is why the entire work happens through the friends and the group, the place where that long development is actually burdened and pressed forward.
@@ -105,7 +105,7 @@ The lesson's own summary, read out before the closing song, restates the whole a
 
 | Term | Definition |
 |---|---|
-| Achap | Vessels of bestowal that make up part of the soul's structure (Israel); paired here with the vessels of reception ("nations of the world") that cannot be corrected until the end of days except by incorporating into Achap. |
+| AHAP | Vessels of bestowal that make up part of the soul's structure (Israel); paired here with the vessels of reception ("nations of the world") that cannot be corrected until the end of days except by incorporating into AHAP. |
 | Galgalta veEinayim (GE) | "Skull and Eyes" — the vessels of bestowal capable of reaching adhesion with the Creator; given the positive commandment "love thy friend as thyself." |
 | Lashon HaRa | "Evil tongue"/slander — in this lesson, ultimately only a disturbance in a person's relationship to the Creator, never truly a matter between one person and another. |
 | Chafetz Chesed | "Desirer of kindness" — the corrected form of Bina; identified here with the path of faith, as opposed to the path of knowledge. |
