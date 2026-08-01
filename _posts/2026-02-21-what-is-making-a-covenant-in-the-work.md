@@ -6,7 +6,7 @@ date: 2026-02-21
 
 ### Opening
 
-The convention's closing lesson takes up Rabash's article on why love between friends isn't enough on its own — a covenant is needed because love can cool, and the covenant is what a person holds onto once it does. Rav Laitman's lecture and the extended Q&A that follow press this into something more demanding: if the Creator controls everything, what does it even mean for a person to "commit"? And practically, inside a group, what actually is the covenant being asked of everyone? The lecture moves through what it means to "build" the Creator through connection, why the covenant is specifically a clash between two opposing forces rather than an agreement between friendly ones, how mutual guarantee (Arvut) inside a Ten cancels a person's private fears, and — through two open Q&A sessions — what it looks like in practice to bestow contentment on the Creator and to hold the whole of the group, not just one's own Ten, in mind at once.
+The convention's closing lesson takes up Rabash's article on why love between friends isn't enough on its own — a covenant is needed because love can cool, and the covenant is what a person holds onto once it does. Rav Laitman's lecture and the extended Q&A that follow press this into something more demanding: if the Creator controls everything, what does it even mean for a person to "commit"? And practically, inside a group, what actually is the covenant being asked of everyone? The lecture moves through what it means to "build" the Creator through connection, why the covenant is specifically a clash between two opposing forces rather than an agreement between friendly ones, how mutual guarantee (Arvut) inside a Ten cancels a person's private fears, a live ceremony in which each person "puts his heart on the table" before the friends, and — through two open Q&A sessions — what it looks like in practice to bestow contentment on the Creator and to hold the whole of the group, not just one's own Ten, in mind at once.
 
 ---
 
@@ -42,15 +42,15 @@ He's explicit that this isn't a one-time condition; love left unattended "chills
 
 > "As love chills down until he comes to the form of forgetfulness. Therefore, he must invent a way every day, a trick to make it new every day... every day, I need to renew the connection between us in our mutual support."
 
-That renewal, sustained through the friction of daily disturbances, is itself what he says keeps building the Kli: "If two people understand that it's worthwhile to love one another, because then they reach the revelation of the Creator."
+That renewal, sustained through the friction of daily disturbances, is itself what he says keeps building the Kli: "If two people understand that it's worthwhile to love one another, because then they reach the revelation of the Creator." He adds a note on scale before sending the group to workshop: whatever intensity of connection a Ten reaches, "this power, this intensity needs to be even more and even more... to grow this way a hundred and twenty-five times" — the same compression repeating at every one of the 125 degrees.
 
 ---
 
 ## Part 4 — Q&A: The Paradox of Commitment
 
-A student from the Petah Tikva center pressed the obvious problem underneath all of this: how does "commitment" even mean anything if the Creator already controls everything? Rav Laitman doesn't resolve the paradox — he names it directly and sends it to the group as a workshop question.
+A student from the Petah Tikva center pressed the obvious problem underneath all of this: how does "commitment" even mean anything if the Creator already controls everything? Rav Laitman doesn't resolve the paradox — he names it as something close to a trick played on the person asking it, and sends it to the group as a workshop question.
 
-> "How do I dare to commit to the next moment if everything is in His hands? You understand the paradox? How could there be a mutual covenant that someone on His part says, okay, I sign for it, no problem, but it needs to be mutual, it needs to be a mutual commitment. It's not even like betrayal, it's like disregarding the fact that He controls and governs everything."
+> "A commitment is actually — the commitment is actually a very deceitful, cunning action. Well, it sort of betrays you, because what does it mean that I commit to the Creator if He controls everything? How do I dare to commit to the next moment if everything is in His hands? You understand the paradox? How could there be a mutual covenant that someone on His part says, okay, I sign for it, no problem, but it needs to be mutual, it needs to be a mutual commitment. It's not even like betrayal, it's like disregarding the fact that He controls and governs everything."
 
 ---
 
@@ -66,9 +66,13 @@ He illustrates this with Abraham, ninety years old and still being asked to take
 
 ---
 
-## Part 6 — Seeing It All as One
+## Part 6 — Putting the Heart on the Table, and Seeing It All as One
 
-After the group hears the covenant text of Ramchal read aloud, Rav Laitman turns to a question every person in a group eventually runs into: how to relate to the friends at all — as more important than oneself, as lesser, as simply human beings, or as a reflection of one's own inner qualities.
+Before the group hears the covenant text of Ramchal read aloud, they're led through a live ceremony: one friend compares the climb through the congress to mountaineers driving in a spike at each stage of ascent, and each person in the Ten is asked, in turn, to voice a request on behalf of the others.
+
+> "Every Ten here is like climbing a mountain on the way to the King... We stick a spike, a stick in there, and again, and again... We need to put our heart now on the table in front of the friends... I turn to the Creator through the friends, and I tell them what I am asking for them — what do I ask of You for them, through them?"
+
+Only after that ceremony, and a melody meant to carry the group's requests, does Rav Laitman turn to a question every person in a group eventually runs into: how to relate to the friends at all — as more important than oneself, as lesser, as simply human beings, or as a reflection of one's own inner qualities.
 
 > "...how should I relate to them? If it is so, they're more important than me, they're lesser than me... or they are just my inner qualities that are presented before me in such a way, in such images, and so on. It's a problem."
 
@@ -80,15 +84,19 @@ His answer is to stop treating it as a problem to be settled and instead keep co
 
 ## Part 7 — Q&A: Bestowing Contentment, Falling, and the Peak of the Congress
 
-In a recorded morning conversation, a student from Petah Tikva asks what it actually means to be a good participant in the congress. Rav Laitman keeps the answer plain: it means wanting to do the Creator's will, not analyzing it.
+In a recorded morning conversation, a student from Petah Tikva asks what it actually means to be a good participant in the congress. Rav Laitman ties the answer to a source-text excerpt read just before the question — that a person must constantly examine whether his actions bring the Creator contentment, seeking equivalence of form rather than personal reward:
 
-> "Take 'There Is None Else Besides Him' and read it." ... "What does it mean to bestow to the Creator? To do what He wants."
+> "A person must always examine himself, the purpose of his work — that is, in all the deeds he does, if the Creator will receive contentment from that, because he wants to reach equivalence of form with the Creator. This is called, all your actions will be for the sake of heaven."
 
-Asked how to stay alert to the covenant and avoid falling into self-love, he doesn't offer a technique — he reframes the falling itself as useful:
+Pressed on what that means in practice — "I still don't understand what it means to bestow, really I want to, but I don't know how to bestow upon the Creator" — he keeps the answer plain rather than technical, and points back to study as the only way to find out what's actually being asked:
 
-> "I think that the fact that you feel that you are falling, this fall in itself gives you an awakening."
+> "What does it mean to bestow to the Creator? To do what He wants." ... "I don't know what He wants." ... "For that, we need to read."
 
-On whether the Ten owes a person real protection, he confirms it plainly ("Your friends, that's the Ten, yes, so ask") and extends the same logic outward, past one's own Ten, to the whole of the movement: "We need to be closer to the entire public of Bnei Baruch. We must, each one of us, must be responsible for the entire Bnei Baruch, and we need to hold each other" — not by holding every person in mind individually, but, as he puts it, "in that each one thinks about everyone, that they depend on him." Asked when the congress reaches its peak, he ties it to the same condition: "When everybody wants it... that they will have something from the topic of the congress" — a state he says can be said of oneself, but never declared for the room as a whole.
+Asked how to stay alert to the covenant and avoid falling into self-love, he doesn't offer a technique — he reframes the falling itself as useful, and confirms that the Ten owes a person real help for the asking:
+
+> "I think that the fact that you feel that you are falling, this fall in itself gives you an awakening." ... "Your friends, that's the Ten, yes, so ask. What is it that you feel that you will lack?"
+
+He extends the same logic outward, past one's own Ten, to the whole of the movement: "We need to be closer to the entire public of Bnei Baruch. We must, each one of us, must be responsible for the entire Bnei Baruch, and we need to hold each other" — not by holding every person in mind individually, but, as he puts it, "in that each one thinks about everyone, that they depend on him." Asked when the congress reaches its peak, he ties it to the same condition: "When everybody wants it... that they will have something from the topic of the congress" — a state he says can be said of oneself, but never declared for the room as a whole.
 
 ---
 
@@ -96,12 +104,13 @@ On whether the Ten owes a person real protection, he confirms it plainly ("Your 
 
 1. **A covenant is not an agreement between people — it's the construction of a vessel ("Kli") for the Creator's revelation.** "We build Him" by building the network of connection between friends.
 2. **The covenant is specifically a clash, not a truce, between two opposite forces** — the root from the Creator and the evil inclination — held together in the same place until "darkness shall shine as light."
-3. **Mutual guarantee (Arvut) inside a Ten cancels private fear** — when friends visibly care for one another, a person is freed from self-concern "even if he doesn't want" to be.
+3. **Mutual guarantee (Arvut) inside a Ten cancels private fear** — when friends visibly care for one another, a person is freed from self-concern "even if he doesn't want" to be — and the same intensity of connection is meant to multiply "a hundred and twenty-five times" across the degrees.
 4. **Love left unattended chills; the covenant has to be renewed daily**, "a trick to make it new every day," rather than assumed to hold on its own.
-5. **Commitment to the Creator is a genuine paradox** — if He controls everything, what does a person's "commitment" add? — one Rav Laitman poses directly rather than resolving.
+5. **Commitment to the Creator is a genuine paradox, even "a deceitful, cunning action"** — if He controls everything, what does a person's "commitment" add? — one Rav Laitman poses directly rather than resolving.
 6. **The same Ten Sefirot are built at every degree of ascent**; only the intensity changes, which is why the covenant (like Abraham's, at ninety) has to be remade at each new stage rather than treated as finished.
 7. **Correct perception, not analysis, resolves how to relate to the friends** — seeing the friends, the light, and the Creator as one rather than working out their relative importance.
-8. **Responsibility extends past one's own Ten to the whole group** — kept not by tracking every individual but by each person thinking of everyone else as depending on him.
+8. **Bestowing contentment on the Creator means seeking equivalence of form, not personal reward** — and when a person doesn't know what that requires in practice, the answer is simply to keep reading and studying, not to guess.
+9. **Responsibility extends past one's own Ten to the whole group** — kept not by tracking every individual but by each person thinking of everyone else as depending on him.
 
 ---
 
@@ -112,10 +121,11 @@ On whether the Ten owes a person real protection, he confirms it plainly ("Your 
 | **Covenant (Brit)** | Not a one-time agreement but a standing commitment, renewed daily, to keep behaving toward the Creator and the group a certain way regardless of whether love or desire is currently felt. |
 | **Kli** | Vessel — here, the network of connection between friends that the Creator fills with revelation once it is built and made similar to the light. |
 | **Arvut** | Mutual guarantee — the condition in a Ten where each person's visible care for the others cancels the others' private fear and self-concern. |
-| **Ten Sefirot** | The same basic structure built at every degree of spiritual ascent; degrees differ only in intensity, not in kind. |
+| **Ten Sefirot** | The same basic structure built at every degree of spiritual ascent; degrees differ only in intensity, not in kind, compounding roughly 125-fold across the full ladder of degrees. |
 | **Reshimot** | Records — the spiritual recollections carried forward from the shattering, forming the necessary preparation for the current building of connection. |
 | **Kedusha** | Holiness — named here as the bestowal and love the group is meant to build between them, the "holiness" the covenant is meant to establish. |
 | **Klipot** | Shells — the state of self-love a person can fall into, named as the opposite of keeping the covenant. |
+| **Equivalence of Form** | The condition of aligning one's giving with the Creator's; invoked here as the true meaning of "bestowing contentment" upon Him, as opposed to seeking personal reward. |
 | **Shechina** | The Creator's dwelling presence, said to be established specifically in the point of connection between friends, not within any one of them alone. |
 | **Ramchal** | Rabbi Moshe Chaim Luzzatto (1707–1746), Kabbalist whose covenant text was read aloud during the lesson as a model for the group's own commitment. |
 | **Rabash** | Rabbi Baruch Shalom Ashlag; author of "What Is Making a Covenant in the Work?" (Article No. 31, 1987), the article read at the start of the lesson. |
