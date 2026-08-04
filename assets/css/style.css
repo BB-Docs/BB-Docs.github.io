@@ -332,3 +332,18 @@ mark { background: var(--mark-bg); color: inherit; border-radius: 3px; padding: 
 .brand-lockup-dark { display: none; }
 :root[data-theme="dark"] .brand-lockup-light { display: none; }
 :root[data-theme="dark"] .brand-lockup-dark { display: block; }
+
+/* Lesson audio player */
+.lesson-audio {
+  margin: 0 0 1.75rem;
+  padding: .9rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+}
+.lesson-audio-label {
+  font-size: .9rem; font-weight: 600; color: var(--ink);
+  margin-bottom: .55rem;
+}
+.lesson-audio-label span { font-weight: 400; color: var(--ink-soft); }
+.lesson-audio audio { width: 100%; height: 40px; display: block; }

@@ -9,6 +9,14 @@ layout: default
   <h1 class="lesson-title">{{ page.title }}</h1>
   {% if page.subtitle %}<p class="lesson-subtitle">{{ page.subtitle }}</p>{% endif %}
 
+  {% if page.audio %}
+  {%- assign audio_file = page.date | date: "%Y-%m-%d" | append: "-" | append: page.slug -%}
+  <div class="lesson-audio">
+    <div class="lesson-audio-label">🔊 Listen <span>· narrated by a synthetic voice</span></div>
+    <audio controls preload="none" src="{{ site.audio_base }}/{{ audio_file }}.mp3"></audio>
+  </div>
+  {% endif %}
+
   <div class="lesson-body">
     {{ content }}
   </div>
