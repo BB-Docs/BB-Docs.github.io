@@ -2,6 +2,7 @@
 title: "The Klipa [Shell/Peel] that Precedes the Fruit"
 subtitle: "Rabash, Article No. 30, 1986, on the Zohar's discussion (portion Balak, Item 15) of Esau and Jacob's birthright. Lesson and Q&A led by Rav Laitman."
 date: 2026-08-04
+audio: true
 ---
 
 ### Opening
