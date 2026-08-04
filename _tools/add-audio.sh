@@ -19,20 +19,30 @@ GIT_NAME="pradeepcb"; GIT_EMAIL="pradeepcb@gmail.com"
 say()  { printf "\033[1;34m▸\033[0m %s\n" "$*"; }
 warn() { printf "\033[1;33m!\033[0m %s\n" "$*" >&2; }
 
-FORCE=0; ARGS=()
-for a in "$@"; do
-  case "$a" in --force) FORCE=1 ;; *.md) ARGS+=("$a") ;; *) echo "bad arg: $a" >&2; exit 2 ;; esac
+FORCE=0; SINCE=""; ARGS=()
+while [ "$#" -gt 0 ]; do
+  case "$1" in
+    --force)  FORCE=1 ;;
+    --since)  SINCE="$2"; shift ;;
+    *.md)     ARGS+=("$1") ;;
+    *) echo "bad arg: $1" >&2; exit 2 ;;
+  esac
+  shift
 done
 
 # Build the work list.
+consider() {  # add $1 to targets unless it already has audio (respecting --force)
+  [ -f "$1" ] || { warn "not found: $1"; return; }
+  { [ "$FORCE" -eq 0 ] && grep -q '^audio:' "$1"; } || targets+=("$1")
+}
 targets=()
 if [ "${#ARGS[@]}" -gt 0 ]; then
-  for p in "${ARGS[@]}"; do
-    [ -f "$p" ] || { warn "not found: $p"; continue; }
-    if [ "$FORCE" -eq 0 ] && grep -q '^audio:' "$p"; then continue; fi
-    targets+=("$p")
+  for p in "${ARGS[@]}"; do consider "$p"; done
+elif [ -n "$SINCE" ]; then                       # all posts dated >= SINCE
+  for p in _posts/*.md; do
+    [[ "$(basename "$p" | cut -c1-10)" > "$SINCE" || "$(basename "$p" | cut -c1-10)" == "$SINCE" ]] && consider "$p"
   done
-else
+else                                             # backfill everything missing
   for p in _posts/*.md; do
     grep -q '^audio:' "$p" || targets+=("$p")
   done
