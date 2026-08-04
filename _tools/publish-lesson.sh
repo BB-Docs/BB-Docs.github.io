@@ -34,13 +34,14 @@ TELEGRAM_CHAT_ID=""            # e.g. @your_channel  (bot must be a channel admi
 # shellcheck disable=SC1091
 [ -f "$SITE_DIR/_tools/lesson.env" ] && source "$SITE_DIR/_tools/lesson.env"
 
-VERIFY=1; DRYRUN=0; REBUILD=0; NOTELEGRAM=0; LOCAL_FILE=""
+VERIFY=1; DRYRUN=0; REBUILD=0; NOTELEGRAM=0; NOAUDIO=0; LOCAL_FILE=""
 for arg in "$@"; do
   case "$arg" in
     --no-verify)   VERIFY=0 ;;
     --dry-run)     DRYRUN=1 ;;
     --rebuild)     REBUILD=1 ;;
     --no-telegram) NOTELEGRAM=1 ;;
+    --no-audio)    NOAUDIO=1 ;;
     *.md)          LOCAL_FILE="$arg" ;;
     *) echo "Unknown argument: $arg" >&2; exit 2 ;;
   esac
@@ -225,10 +226,21 @@ ${url}"
   fi
 }
 
+# Generate narration for the new/updated lessons (own commit; --force re-narrates edits).
+audio_stage() {
+  [ "$NOAUDIO" -eq 1 ] && return 0
+  python3 -c 'import edge_tts' >/dev/null 2>&1 || { warn "edge-tts not installed — skipping audio"; return 0; }
+  local files=()
+  for ((j = 0; j < M; j++)); do files+=("_posts/${CHG_FINAL[$j]}"); done
+  say "Generating narration audio (a few minutes)…"
+  bash _tools/add-audio.sh --force "${files[@]}"
+}
+
 if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Rebuilds in ~1 min:"
   for ((j = 0; j < M; j++)); do echo "   $(url_for "${CHG_FINAL[$j]}")"; done
   announce_new
+  audio_stage
   exit 0
 fi
 
@@ -263,3 +275,4 @@ done
 [ "$ok" -eq 1 ] && printf "\033[1;32m✓ All published lessons are live.\033[0m\n" \
                 || die "Some lessons failed verification."
 announce_new
+audio_stage
