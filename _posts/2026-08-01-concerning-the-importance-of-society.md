@@ -2,6 +2,7 @@
 title: "Concerning the Importance of Society"
 subtitle: "(PM) · Rabash, Article No. 12, 1984 (Writings of Rabash, Volume 1), quoting the Zohar (Pinhas, p. 31, Item 91) and the Talmud (Sanhedrin 38a). Recorded lesson by Rav…"
 date: 2026-08-01
+audio: true
 ---
 
 ### Opening
