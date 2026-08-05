@@ -19,6 +19,15 @@ GIT_NAME="pradeepcb"; GIT_EMAIL="pradeepcb@gmail.com"
 say()  { printf "\033[1;34m▸\033[0m %s\n" "$*"; }
 warn() { printf "\033[1;33m!\033[0m %s\n" "$*" >&2; }
 
+# Single-run lock (mkdir is atomic) — publish-lesson detaches this, so two
+# overlapping runs could otherwise collide on the git push.
+LOCK="$SITE_DIR/_tools/.audio.lock"
+if ! mkdir "$LOCK" 2>/dev/null; then
+  warn "another add-audio run is already in progress — exiting."; exit 0
+fi
+cleanup() { rmdir "$LOCK" 2>/dev/null; [ -n "${TMP:-}" ] && rm -rf "$TMP"; }
+trap cleanup EXIT
+
 FORCE=0; SINCE=""; ARGS=()
 while [ "$#" -gt 0 ]; do
   case "$1" in
@@ -51,7 +60,7 @@ fi
 [ "${#targets[@]}" -gt 0 ] || { say "Nothing to do — every requested post already has audio."; exit 0; }
 say "Generating audio for ${#targets[@]} lesson(s)…"
 
-TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
+TMP="$(mktemp -d)"     # cleaned by the EXIT trap (with the lock)
 done=0
 for post in "${targets[@]}"; do
   base="$(basename "$post" .md)"
