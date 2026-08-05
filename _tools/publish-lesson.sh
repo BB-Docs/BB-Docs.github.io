@@ -230,10 +230,15 @@ ${url}"
 audio_stage() {
   [ "$NOAUDIO" -eq 1 ] && return 0
   python3 -c 'import edge_tts' >/dev/null 2>&1 || { warn "edge-tts not installed — skipping audio"; return 0; }
-  local files=()
+  local files=() log="$SITE_DIR/_tools/audio.log"
   for ((j = 0; j < M; j++)); do files+=("_posts/${CHG_FINAL[$j]}"); done
-  say "Generating narration audio (a few minutes)…"
-  bash _tools/add-audio.sh --force "${files[@]}"
+  # Detach: narration is slow (~4 min/lesson). Run it in the background so it
+  # keeps going even if this window is closed; it commits+pushes when done.
+  : > "$log"
+  nohup bash _tools/add-audio.sh --force "${files[@]}" >"$log" 2>&1 &
+  disown 2>/dev/null || true
+  say "🎧 Narration generating in the background (~4 min/lesson) — safe to close this window."
+  say "   Progress:  audio-status        Live log:  tail -f _tools/audio.log"
 }
 
 if [ "$VERIFY" -eq 0 ]; then

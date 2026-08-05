@@ -7,3 +7,7 @@ vendor/
 
 # local publish config
 _tools/lesson.env
+
+# audio generation runtime files
+_tools/audio.log
+_tools/.audio.lock
