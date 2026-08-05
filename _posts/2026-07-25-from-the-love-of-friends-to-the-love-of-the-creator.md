@@ -2,7 +2,6 @@
 title: "From the Love of Friends to the Love of the Creator"
 subtitle: "Archival lesson by Rav Laitman, Krasnoyarsk Congress, Lesson 5, June 14, 2013 — 'From the Love of Friends to the Love of the Creator' — with live Q&A. No separate source…"
 date: 2026-07-25
-audio: true
 ---
 
 ### Opening

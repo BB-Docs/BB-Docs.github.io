@@ -2,7 +2,6 @@
 title: "The Importance of Faith That Is Always Present"
 subtitle: "Morning Lesson · Zohar (Vayetze) with commentary by Rabash, Rungs of the Ladder · Recorded lesson by Rav Laitman, February 11, 2002, with live Q&A · Note: per this…"
 date: 2026-07-08
-audio: true
 ---
 
 ### Opening
