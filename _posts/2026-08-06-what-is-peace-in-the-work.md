@@ -2,6 +2,7 @@
 title: "What Is Peace in the Work?"
 subtitle: "Rabash, Article No. 34, 1989 (Shlavei HaSulam Vol. 3), portion Pinchas, opening on the verse 'Behold, I give him My covenant of peace' (Numbers 25:12-13). Archival…"
 date: 2026-08-06
+audio: true
 ---
 
 ### Opening
