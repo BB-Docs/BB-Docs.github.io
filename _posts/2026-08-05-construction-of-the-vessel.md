@@ -2,7 +2,6 @@
 title: "Construction of the Vessel"
 subtitle: "Archival recorded lesson by Rav Laitman, August 2, 2002, with live Q&A. The recording opens directly into Rabash's teaching on the construction of the Kli (vessel) — no…"
 date: 2026-08-05
-audio: true
 ---
 
 ### Opening
@@ -99,7 +98,7 @@ Words, in this account, exist only because of unresolved separation between peop
 | Machsom | "Barrier" — in this lesson, the boundary a person crosses only by acting without full understanding, "like a baby," through a period of concealment described as darkness with no visible road. |
 | Yehudi | "Jewish," from the word *Yehud* (unification) — per this lesson, one who yearns to unite with the Creator, as distinguished from Israel (Yashar-El), who has already attained that unity. |
 | Yashar-El | Wordplay tracing "Israel" to "straight to the Creator" — per this lesson, Zeir Anpin in the state of Gadlut (greatness/attainment), contrasted with the same soul-state in Katnut, called Yaakov. |
-| Four Phases (Daled Bechinot) | The four stages of the will to receive; in this lesson, mapped onto the four hundred years decreed for Egypt as the "complete degree" a vessel must reach before it can be corrected. |
+| Four Phases (Dalet Bechinot) | The four stages of the will to receive; in this lesson, mapped onto the four hundred years decreed for Egypt as the "complete degree" a vessel must reach before it can be corrected. |
 | Surrounding Light (Ohr Makif) | Light from a person's own soul already at the end of correction, shining on his current state; in this lesson, the mechanism by which a growing ego is felt as a widening — not narrowing — gap from spirituality. |
 | EINSOF (Ein Sof) | "Infinity" — in this lesson, discussed through Malchut of Ein Sof's descent into this world to acquire independence, a necessary step before she can build the intention to bestow and rise back "as independent." |
 | Kelim / Kli | Vessel(s) — the desires through which delight is received; the central subject of this lesson, whose defining problem is how to make it grow without limit rather than settle and stall. |

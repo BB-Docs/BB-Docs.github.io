@@ -2,7 +2,6 @@
 title: "What Is the Meaning of the Purification of a Cow's Ashes, in the Work?"
 subtitle: "Rabash, Shlavei HaSulam Vol. 3, 1991, portion Bamidbar Chukat. Archival recorded lesson by Rav Laitman, July 2002 (exact day not stated in this recording), with live Q&A."
 date: 2026-08-03
-audio: true
 ---
 
 ### Opening

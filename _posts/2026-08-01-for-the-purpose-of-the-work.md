@@ -2,7 +2,6 @@
 title: "For the Purpose of the Work,"
 subtitle: "Recorded lesson by Rav Laitman, November 30, 2016, on the subject of Achanah (Preparation), drawing on a Rabash source (introduced in the lecture only as 'second…"
 date: 2026-08-01
-audio: true
 ---
 
 ### Opening

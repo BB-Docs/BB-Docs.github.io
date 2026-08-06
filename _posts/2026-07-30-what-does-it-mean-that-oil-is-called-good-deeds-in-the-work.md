@@ -2,7 +2,6 @@
 title: "What Does It Mean that Oil Is Called 'Good Deeds' in the Work?"
 subtitle: "Rabash, Article No. 32, 1989 (Shlavei HaSulam Vol. 3, portion Balak), quoting the Zohar (Balak, Items 43 and 71) and the Talmud (Sukkah 52). Recorded lesson by Rav…"
 date: 2026-07-30
-audio: true
 ---
 
 ### Opening

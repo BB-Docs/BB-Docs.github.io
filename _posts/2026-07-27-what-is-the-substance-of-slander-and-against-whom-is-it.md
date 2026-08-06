@@ -2,7 +2,6 @@
 title: "What Is the Substance of Slander and Against Whom Is It?"
 subtitle: "Rabash, Article No. 10, 1987, quoting the Zohar (Metzora, Item 4). Recorded lesson by Rav Laitman, June 13, 2002, continuing directly from the June 12, 2002 session…"
 date: 2026-07-27
-audio: true
 ---
 
 ### Opening

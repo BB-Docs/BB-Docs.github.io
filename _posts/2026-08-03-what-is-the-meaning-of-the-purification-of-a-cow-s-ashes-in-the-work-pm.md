@@ -2,7 +2,6 @@
 title: "What Is the Meaning of the Purification of a Cow's Ashes, in the Work?"
 subtitle: "(PM) · Rabash, Shlavei HaSulam Vol. 3, 1991, portion Bamidbar Chukat (the same article opened in that morning's lesson). Afternoon session: a live host reads and…"
 date: 2026-08-03
-audio: true
 ---
 
 ### Opening

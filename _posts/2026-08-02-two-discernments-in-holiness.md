@@ -2,7 +2,6 @@
 title: "Two Discernments in Holiness"
 subtitle: "Rabash, Article No. 15, 1987. Recorded lesson by Rav Laitman, June 16, 2002, with live Q&A."
 date: 2026-08-02
-audio: true
 ---
 
 ### Opening
