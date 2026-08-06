@@ -159,6 +159,22 @@ if [ "$DRYRUN" -eq 1 ]; then
   exit 0
 fi
 
+# Narration for new/updated lessons, DETACHED (~4 min/lesson) so it survives
+# closing the window. Launched right after the push below — NOT at the end —
+# so it's already running before the slow verify/announce steps (otherwise
+# closing the window when the text goes live kills the run before audio starts).
+audio_stage() {
+  [ "$NOAUDIO" -eq 1 ] && return 0
+  python3 -c 'import edge_tts' >/dev/null 2>&1 || { warn "edge-tts not installed — skipping audio"; return 0; }
+  local files=() log="$SITE_DIR/_tools/audio.log"
+  for ((j = 0; j < M; j++)); do files+=("_posts/${CHG_FINAL[$j]}"); done
+  : > "$log"
+  nohup bash _tools/add-audio.sh --force "${files[@]}" >"$log" 2>&1 &
+  disown 2>/dev/null || true
+  say "🎧 Narration generating in the background (~4 min/lesson) — safe to close this window."
+  say "   Progress:  audio-status        Live log:  tail -f _tools/audio.log"
+}
+
 # ---- 4. apply, commit & push ----
 for ((j = 0; j < M; j++)); do cp "${CHG_STAGE[$j]}" "_posts/${CHG_FINAL[$j]}"; done
 say "Committing & pushing…"
@@ -173,6 +189,7 @@ git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" commit -qm "$msg"
 git pull --rebase --quiet origin main || true   # replay our commit on any remote changes
 git push -q origin main
 say "Pushed."
+audio_stage   # launch narration NOW (detached) — before the slow verify/announce below
 
 # ---- 5. verify ----
 url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
@@ -226,26 +243,10 @@ ${url}"
   fi
 }
 
-# Generate narration for the new/updated lessons (own commit; --force re-narrates edits).
-audio_stage() {
-  [ "$NOAUDIO" -eq 1 ] && return 0
-  python3 -c 'import edge_tts' >/dev/null 2>&1 || { warn "edge-tts not installed — skipping audio"; return 0; }
-  local files=() log="$SITE_DIR/_tools/audio.log"
-  for ((j = 0; j < M; j++)); do files+=("_posts/${CHG_FINAL[$j]}"); done
-  # Detach: narration is slow (~4 min/lesson). Run it in the background so it
-  # keeps going even if this window is closed; it commits+pushes when done.
-  : > "$log"
-  nohup bash _tools/add-audio.sh --force "${files[@]}" >"$log" 2>&1 &
-  disown 2>/dev/null || true
-  say "🎧 Narration generating in the background (~4 min/lesson) — safe to close this window."
-  say "   Progress:  audio-status        Live log:  tail -f _tools/audio.log"
-}
-
 if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Rebuilds in ~1 min:"
   for ((j = 0; j < M; j++)); do echo "   $(url_for "${CHG_FINAL[$j]}")"; done
   announce_new
-  audio_stage
   exit 0
 fi
 
@@ -280,4 +281,3 @@ done
 [ "$ok" -eq 1 ] && printf "\033[1;32m✓ All published lessons are live.\033[0m\n" \
                 || die "Some lessons failed verification."
 announce_new
-audio_stage

@@ -22,13 +22,14 @@ PRONUNCIATION = {
     "Kelim": "Keleem", "Kli": "Klee", "Klipot": "Kleepote", "Klipa": "Kleepah",
     "Klipah": "Kleepah", "Kedusha": "Kedoosha", "Masach": "Masakh",
     "Dvekut": "Dvekoot", "Aravut": "Aravoot", "Arvut": "Arvoot",
-    "Lishma": "Leeshma", "Zohar": "Zohar", "Rabash": "Rah-bash",
-    "Baal HaSulam": "Bal Hasulam", "Chesed": "Hesed", "Hesed": "Hesed",
+    "Lishma": "Leeshma", "Zohar": "Zohar", "Rabash": "Rabaash",
+    "Laitman": "Laetman", "Adam": "Ah dahm",
+    "Baal HaSulam": "Baal Ha Sulaam", "Chesed": "Hesed", "Hesed": "Hesed",
     "Tzimtzum": "Tzimtzoom", "Partzuf": "Partzoof", "Sefirot": "Sefeerote",
     "Malchut": "Malhoot", "Chochma": "Hohma", "Bina": "Beena",
     "Gmar Tikkun": "Gmar Tikoon", "Tikkun": "Tikoon", "Shechina": "Shehina",
     "Nukva": "Nookva", "Yetzer HaRa": "Yetzer Hara", "Kabbalah": "Kabala",
-    "Baal HaSulam's": "Bal Hasulam's",
+    "Baal HaSulam's": "Baal Ha Sulam's",
 }
 
 
