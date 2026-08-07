@@ -178,41 +178,10 @@ audio_stage() {
   say "   Progress:  audio-status        Live log:  tail -f _tools/audio.log"
 }
 
-# ---- 4. apply, commit & push ----
-for ((j = 0; j < M; j++)); do
-  dest="_posts/${CHG_FINAL[$j]}"
-  # A re-converted post gets fresh front matter WITHOUT the audio flag. If this
-  # lesson was already narrated, re-add the flag so its player doesn't vanish on
-  # an edit (audio_stage will refresh the MP3 for the new text separately).
-  had_audio=0; { [ -f "$dest" ] && grep -q '^audio:' "$dest"; } && had_audio=1
-  cp "${CHG_STAGE[$j]}" "$dest"
-  if [ "$had_audio" -eq 1 ] && ! grep -q '^audio:' "$dest"; then
-    python3 - "$dest" <<'PY'
-import sys
-p = sys.argv[1]; s = open(p, encoding="utf-8").read()
-open(p, "w", encoding="utf-8").write(s.replace("\n---\n", "\naudio: true\n---\n", 1))
-PY
-  fi
-done
-say "Committing & pushing…"
-git add -A _posts
-if git diff --cached --quiet -- _posts; then
-  say "No net changes — the site already matches Drive exactly."
-  exit 0
-fi
-msg="Publish lessons: $nnew new, $nupd updated"
-[ "$REBUILD" -eq 1 ] && msg="Rebuild all lessons from Drive ($M posts)"
-git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" commit -qm "$msg"
-git pull --rebase --quiet origin main || true   # replay our commit on any remote changes
-git push -q origin main
-say "Pushed."
-audio_stage   # launch narration NOW (detached) — before the slow verify/announce below
-
-# ---- 5. verify ----
 url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
             "$SITE_URL" "${b:0:4}" "${b:5:2}" "${b:8:2}" "${b:11}"; }
 
-# Post the message to a Telegram channel (no-op unless token + chat id are set).
+# Post a message to the Telegram channel (no-op unless token + chat id are set).
 telegram_notify() {
   [ "$NOTELEGRAM" -eq 1 ] && return 0
   [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || return 0
@@ -228,9 +197,9 @@ telegram_notify() {
   fi
 }
 
-# Announce EVERY newly published lesson, oldest first, and copy them for WhatsApp.
-# Updates are deliberately not re-announced (a re-sync must not re-spam a channel).
-# Announcing only the newest silently dropped a lesson on any two-a-day date.
+# Announce EVERY newly published lesson (oldest first) and copy them for WhatsApp.
+# Runs right after the push — NOT after verify — so a flaky Pages build can't
+# block the Telegram post. Updates are not re-announced (a re-sync must not re-spam).
 announce_new() {
   local i base title url msg all="" n=0 sorted
   sorted="$(for ((i = 0; i < M; i++)); do
@@ -260,10 +229,41 @@ ${url}"
   fi
 }
 
+# ---- 4. apply, commit & push ----
+for ((j = 0; j < M; j++)); do
+  dest="_posts/${CHG_FINAL[$j]}"
+  # A re-converted post gets fresh front matter WITHOUT the audio flag. If this
+  # lesson was already narrated, re-add the flag so its player doesn't vanish on
+  # an edit (audio_stage will refresh the MP3 for the new text separately).
+  had_audio=0; { [ -f "$dest" ] && grep -q '^audio:' "$dest"; } && had_audio=1
+  cp "${CHG_STAGE[$j]}" "$dest"
+  if [ "$had_audio" -eq 1 ] && ! grep -q '^audio:' "$dest"; then
+    python3 - "$dest" <<'PY'
+import sys
+p = sys.argv[1]; s = open(p, encoding="utf-8").read()
+open(p, "w", encoding="utf-8").write(s.replace("\n---\n", "\naudio: true\n---\n", 1))
+PY
+  fi
+done
+say "Committing & pushing…"
+git add -A _posts
+if git diff --cached --quiet -- _posts; then
+  say "No net changes — the site already matches Drive exactly."
+  exit 0
+fi
+msg="Publish lessons: $nnew new, $nupd updated"
+[ "$REBUILD" -eq 1 ] && msg="Rebuild all lessons from Drive ($M posts)"
+git -c user.name="$GIT_NAME" -c user.email="$GIT_EMAIL" commit -qm "$msg"
+git pull --rebase --quiet origin main || true   # replay our commit on any remote changes
+git push -q origin main
+say "Pushed."
+announce_new   # Telegram + WhatsApp clipboard NOW — before the (sometimes flaky) build verify below
+audio_stage    # launch narration (detached)
+
+# ---- 5. verify ----
 if [ "$VERIFY" -eq 0 ]; then
   say "Skipping verify. Rebuilds in ~1 min:"
   for ((j = 0; j < M; j++)); do echo "   $(url_for "${CHG_FINAL[$j]}")"; done
-  announce_new
   exit 0
 fi
 
@@ -274,7 +274,7 @@ for i in $(seq 1 30); do
   st="${info%% *}"; sha="${info##* }"
   if [ "$sha" = "$HEAD" ]; then
     [ "$st" = "built" ]   && break
-    [ "$st" = "errored" ] && die "Pages build errored: $(gh api "repos/${REPO}/pages/builds/latest" --jq '.error.message')"
+    [ "$st" = "errored" ] && { warn "Pages build errored (content is pushed; deploy will retry)."; break; }
   fi
   sleep 12
 done
@@ -296,5 +296,4 @@ for ((j = 0; j < M; j++)); do
   fi
 done
 [ "$ok" -eq 1 ] && printf "\033[1;32m✓ All published lessons are live.\033[0m\n" \
-                || die "Some lessons failed verification."
-announce_new
+                || warn "Some pages not confirmed live yet (deploy may be lagging) — content is pushed."
