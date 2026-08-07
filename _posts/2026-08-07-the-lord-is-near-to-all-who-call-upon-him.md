@@ -2,6 +2,7 @@
 title: "The Lord Is Near to All Who Call Upon Him"
 subtitle: "Rabash, Article No. 29, 1985, opening on the Zohar's discussion (portion Chukat, Item 78) of the verse 'The Lord is near to all who call upon Him... to all who call upon…"
 date: 2026-08-07
+audio: true
 ---
 
 ### Opening
