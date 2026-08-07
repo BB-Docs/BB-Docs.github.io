@@ -133,7 +133,10 @@ for k in $order; do
   claimed="$claimed $final"
   if [ ! -f "_posts/$final" ]; then
     CHG_TAG+=("N"); CHG_FINAL+=("$final"); CHG_STAGE+=("$stage")
-  elif ! cmp -s "$stage" "_posts/$final"; then
+  elif ! diff -q <(grep -v '^audio:' "$stage") <(grep -v '^audio:' "_posts/$final") >/dev/null 2>&1; then
+    # Compare ignoring the audio flag — the committed post carries `audio: true`
+    # but a fresh conversion doesn't, so a plain cmp would flag EVERY narrated
+    # lesson as "updated" and re-narrate the whole archive on every publish.
     CHG_TAG+=("U"); CHG_FINAL+=("$final"); CHG_STAGE+=("$stage")
   fi
 done
