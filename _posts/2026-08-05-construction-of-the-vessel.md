@@ -2,6 +2,7 @@
 title: "Construction of the Vessel"
 subtitle: "Archival recorded lesson by Rav Laitman, August 2, 2002, with live Q&A. The recording opens directly into Rabash's teaching on the construction of the Kli (vessel) — no…"
 date: 2026-08-05
+audio: true
 ---
 
 ### Opening

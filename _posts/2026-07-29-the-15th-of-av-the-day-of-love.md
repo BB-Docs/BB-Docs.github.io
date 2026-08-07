@@ -2,6 +2,7 @@
 title: "The 15th of Av: The Day of Love"
 subtitle: "Tu B'Av (The 15th of Av) · 'The 15th of Av: The Day of Love' — selected excerpts (Likutim) from the Gemara (Ta'anit), Likutei Halachot, Tifferet Shlomo, Baal HaSulam…"
 date: 2026-07-29
+audio: true
 ---
 
 ### Opening

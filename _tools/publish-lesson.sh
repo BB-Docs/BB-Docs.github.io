@@ -176,7 +176,21 @@ audio_stage() {
 }
 
 # ---- 4. apply, commit & push ----
-for ((j = 0; j < M; j++)); do cp "${CHG_STAGE[$j]}" "_posts/${CHG_FINAL[$j]}"; done
+for ((j = 0; j < M; j++)); do
+  dest="_posts/${CHG_FINAL[$j]}"
+  # A re-converted post gets fresh front matter WITHOUT the audio flag. If this
+  # lesson was already narrated, re-add the flag so its player doesn't vanish on
+  # an edit (audio_stage will refresh the MP3 for the new text separately).
+  had_audio=0; { [ -f "$dest" ] && grep -q '^audio:' "$dest"; } && had_audio=1
+  cp "${CHG_STAGE[$j]}" "$dest"
+  if [ "$had_audio" -eq 1 ] && ! grep -q '^audio:' "$dest"; then
+    python3 - "$dest" <<'PY'
+import sys
+p = sys.argv[1]; s = open(p, encoding="utf-8").read()
+open(p, "w", encoding="utf-8").write(s.replace("\n---\n", "\naudio: true\n---\n", 1))
+PY
+  fi
+done
 say "Committing & pushing…"
 git add -A _posts
 if git diff --cached --quiet -- _posts; then

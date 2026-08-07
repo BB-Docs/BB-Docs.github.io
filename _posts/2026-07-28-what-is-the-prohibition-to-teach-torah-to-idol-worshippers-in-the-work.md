@@ -2,6 +2,7 @@
 title: "What Is the Prohibition to Teach Torah to Idol-Worshippers in the Work?"
 subtitle: "Rabash, Article No. 31, 1989, quoting the Zohar (Hukat, Item 2), RASHI, and the Talmud (Avoda Zarah 3; Hulim 89). Recorded lesson by Rav Laitman, July 25, 2002, with…"
 date: 2026-07-28
+audio: true
 ---
 
 ### Opening
