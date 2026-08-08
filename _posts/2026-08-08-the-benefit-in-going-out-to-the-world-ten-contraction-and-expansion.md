@@ -2,6 +2,7 @@
 title: "The Benefit in Going Out to the World Ten: Contraction and Expansion"
 subtitle: "Archival lesson by Rav Laitman, Lesson 4 from the Global Kabbalah Convention, Bulgaria, November 2019 — 'The Benefit in Going Out to the World Ten: Contraction and…"
 date: 2026-08-08
+audio: true
 ---
 
 ### Opening
