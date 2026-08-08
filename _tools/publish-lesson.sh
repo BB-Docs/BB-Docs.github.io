@@ -181,27 +181,12 @@ audio_stage() {
 url_for() { local b="${1%.md}"; printf "%s/lessons/%s/%s/%s/%s/" \
             "$SITE_URL" "${b:0:4}" "${b:5:2}" "${b:8:2}" "${b:11}"; }
 
-# Post a message to the Telegram channel (no-op unless token + chat id are set).
-telegram_notify() {
-  [ "$NOTELEGRAM" -eq 1 ] && return 0
-  [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || return 0
-  local code
-  code="$(curl -s -o "$TMP/tg.json" -w '%{http_code}' \
-      -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-      --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
-      --data-urlencode "text=$1" || echo 000)"
-  if [ "$code" = "200" ]; then
-    printf "\033[1;32m   ✓ posted to Telegram\033[0m\n"
-  else
-    warn "Telegram post failed (HTTP $code): $(tr -d '\n' < "$TMP/tg.json" | cut -c1-200)"
-  fi
-}
-
-# Announce EVERY newly published lesson (oldest first) and copy them for WhatsApp.
-# Runs right after the push — NOT after verify — so a flaky Pages build can't
-# block the Telegram post. Updates are not re-announced (a re-sync must not re-spam).
+# Announce EVERY newly published lesson (oldest first). WhatsApp text is copied
+# to the clipboard immediately; Telegram is handed to a DETACHED job that waits
+# for each page to be live before posting (so the channel gets a preview card)
+# and survives closing the window / a flaky deploy. Updates aren't re-announced.
 announce_new() {
-  local i base title url msg all="" n=0 sorted
+  local i base title all="" n=0 sorted bases=()
   sorted="$(for ((i = 0; i < M; i++)); do
               [ "${CHG_TAG[$i]}" = "N" ] && echo "${CHG_FINAL[$i]}"
             done | sort)"
@@ -211,21 +196,25 @@ announce_new() {
   fi
   while IFS= read -r base; do
     [ -n "$base" ] || continue
+    bases+=("${base%.md}")
     title="$(grep -m1 '^title:' "_posts/$base" | sed -e 's/^title:[[:space:]]*//' -e 's/^"//' -e 's/"$//')"
-    url="$(url_for "$base")"
-    msg="📘 ${title}
-${url}"
-    n=$((n + 1))
-    [ "$n" -gt 1 ] && sleep 4          # stay under Telegram's ~20 msg/min per-chat cap
-    printf "\n\033[1;36m📣 %s\033[0m\n%s\n" "${base%.md}" "$msg"
-    telegram_notify "$msg"
-    all="${all}${msg}
+    all="${all}📘 ${title}
+$(url_for "$base")
 
 "
+    n=$((n + 1))
+    printf "\n\033[1;36m📣 %s\033[0m\n📘 %s\n%s\n" "${base%.md}" "$title" "$(url_for "$base")"
   done <<<"$sorted"
+  # WhatsApp: immediate clipboard copy
   if command -v pbcopy >/dev/null 2>&1; then
     printf '%s' "$all" | pbcopy
     printf "\033[0;36m   ✓ %d message(s) copied to clipboard — paste into your WhatsApp Channel\033[0m\n" "$n"
+  fi
+  # Telegram: detached, waits for the page to be live (good preview card)
+  if [ "$NOTELEGRAM" -eq 0 ] && [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+    nohup bash _tools/announce.sh "${bases[@]}" >>"$SITE_DIR/_tools/audio.log" 2>&1 &
+    disown 2>/dev/null || true
+    say "✈️ Telegram will post once each page is live (with preview) — safe to close this window."
   fi
 }
 
