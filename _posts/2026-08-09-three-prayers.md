@@ -2,6 +2,7 @@
 title: "Three Prayers"
 subtitle: "(Gimel Tefilot) — Rabash, opening on the Zohar's discussion (portion Balak) of three prayers: the prayer of Moses, the prayer of David, and the prayer of the poor…"
 date: 2026-08-09
+audio: true
 ---
 
 ### Opening
