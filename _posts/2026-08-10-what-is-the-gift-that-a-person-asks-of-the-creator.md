@@ -2,6 +2,7 @@
 title: "What Is the Gift that a Person Asks of the Creator?"
 subtitle: "Rabash (Article No. 22, 1987), opening on the Zohar's discussion (Pinhas, Item 180) of the three-part structure of prayer as 'a servant receiving a gift from his…"
 date: 2026-08-10
+audio: true
 ---
 
 ### Opening
