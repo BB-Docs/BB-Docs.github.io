@@ -2,6 +2,7 @@
 title: "What Is, 'For It Is Your Wisdom and Understanding in the Eyes of the Nations,' in the Work?"
 subtitle: "Rabash, drawing on Deuteronomy 4:6. Live lecture and Q&A by Rav Laitman; no archival recording date is stated in the transcript, and the recording begins mid-reading of…"
 date: 2026-08-11
+audio: true
 ---
 
 ### Opening
