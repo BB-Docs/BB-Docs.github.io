@@ -2,6 +2,7 @@
 title: "One Should Always Sell Everything He Has and Marry a Wise Disciple's Daughter"
 subtitle: "Rabash (Article No. 14, 1984, Writings of Rabash, Vol. 1). Archival recorded lesson by Rav Laitman, August 5, 2002, with live Q&A."
 date: 2026-08-12
+audio: true
 ---
 
 ### Opening
