@@ -2,6 +2,7 @@
 title: "What Is Do Not Add and Do Not Take Away in the Work?"
 subtitle: "Rabash (Article No. 28, 1987), portion Vaetchanan, drawing on Deuteronomy 4:2. Live lecture and Q&A by Rav Laitman, continuing directly from the close of the article…"
 date: 2026-08-13
+audio: true
 ---
 
 ### Opening
