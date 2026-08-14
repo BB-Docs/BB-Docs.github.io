@@ -2,6 +2,7 @@
 title: "What Is the Meaning of 'Spies,' in the Work?"
 subtitle: "Rabash (Article No. 35, 1991, Shlavei HaSulam Vol. 3, page 133, portion Shelach). Archival recorded lesson by Rav Laitman, July 21, 2002, with live Q&A."
 date: 2026-08-14
+audio: true
 ---
 
 ### Opening
