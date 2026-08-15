@@ -2,6 +2,7 @@
 title: "Light and Sun,"
 subtitle: "A live, global 'selected excerpts' (Likutim-style) lesson on Titkalelut/Hitkalelut (Integration/Incorporation), read and explained by Rav Laitman in preparation for an…"
 date: 2026-08-15
+audio: true
 ---
 
 ### Opening

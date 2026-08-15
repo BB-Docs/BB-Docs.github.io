@@ -2,6 +2,7 @@
 title: "Peace in the World"
 subtitle: "Friday Session · Baal HaSulam, heading 'Pain versus Pleasure in Self-Reception' (continuing from the previous week's heading, 'The Conditions of Life in the Last…"
 date: 2026-08-14
+audio: true
 ---
 
 ### Opening

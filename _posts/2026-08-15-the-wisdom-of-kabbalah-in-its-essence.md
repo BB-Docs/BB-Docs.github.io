@@ -2,6 +2,7 @@
 title: "The Wisdom of Kabbalah in Its Essence,"
 subtitle: "Friday Session · Selected excerpts on Hitkalelut (Integration/Incorporation) — Baal HaSulam ('The Wisdom of Kabbalah in Its Essence,' Letter 17, '600,000 Souls') and…"
 date: 2026-08-15
+audio: true
 ---
 
 ### Opening
