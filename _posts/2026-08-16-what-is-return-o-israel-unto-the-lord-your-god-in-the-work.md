@@ -2,6 +2,7 @@
 title: "What Is 'Return, O Israel, unto the Lord Your God,' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, February 3, 2003, with live Q&A — on Rabash's 'What Is 'Return, O Israel, unto the Lord Your God,' in the Work?' (Article No. 2, 1991)."
 date: 2026-08-16
+audio: true
 ---
 
 ### Opening
