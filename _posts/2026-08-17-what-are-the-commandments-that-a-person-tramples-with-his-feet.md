@@ -2,6 +2,7 @@
 title: "What Are the Commandments that a Person Tramples with His Feet"
 subtitle: "Recorded lesson by Rav Laitman, 2002 (exact date not stated in this transcript), with live Q&A — on Rabash's 'What Are the Commandments that a Person Tramples with His…"
 date: 2026-08-17
+audio: true
 ---
 
 ### Opening
