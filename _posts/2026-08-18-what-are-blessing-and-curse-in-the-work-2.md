@@ -2,6 +2,7 @@
 title: "What Are 'Blessing' and 'Curse' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, October 2002, with live Q&A — on Rabash's 'What Are 'Blessing' and 'Curse' in the Work?' (Article No. 27, 1987)."
 date: 2026-08-18
+audio: true
 ---
 
 ### Opening
