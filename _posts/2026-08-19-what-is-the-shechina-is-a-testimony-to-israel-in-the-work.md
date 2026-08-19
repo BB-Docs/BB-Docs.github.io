@@ -2,6 +2,7 @@
 title: "What Is, 'The Shechina Is a Testimony to Israel,' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, August 11, 2002, with live Q&A — on Rabash's 'What Is, 'The Shechina Is a Testimony to Israel,' in the Work?' (Article No. 37, 1990)."
 date: 2026-08-19
+audio: true
 ---
 
 ### Opening
