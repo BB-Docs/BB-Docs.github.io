@@ -15,7 +15,7 @@ Rav Laitman opens by locating this world beneath the barrier entirely. Above the
 
 > "Below the barrier there is no true curse and blessing, rather what we call exercises. This world was given to us so we would prepare ourselves a little, put in some exertion, enter the real work."
 
-Nothing done here is truly holy or truly forbidden — "we're not doing anything bad, we're not doing anything good" — which is why children and beginners are, in effect, permitted everything: they are still only learning. The task of an adult in this world is to move through stages of study and preparation, summarized as the path "from Lolishma we come to Lishma."
+Nothing done here is truly holy or truly forbidden — "we're not doing anything bad, we're not doing anything good" — which is why children and beginners are, in effect, permitted everything: they are still only learning. The task of an adult in this world is to move through stages of study and preparation, summarized as the path "from LoLishma we come to Lishma."
 
 ## Part 2 — Importance Can Only Come From the Environment
 
@@ -49,7 +49,11 @@ Because a person absorbs importance from whatever surrounds him "like it or not,
 
 Asked directly what moves a person from curse to blessing, Rav Laitman answers that Lo Lishma is the lever — the state in which a person still knows he is acting for his own benefit, yet builds, as fully as he can, the appearance of bestowal:
 
-> "That lever exists here, which is the Lolishma. From Lolishma we come to Lishma... As if is a situation that I've built, I've made it. And if a person does that, then the creator comes and does it for him in truth."
+> "That lever exists here, which is the LoLishma. From LoLishma we come to Lishma... As if is a situation that I've built, I've made it. And if a person does that, then the creator comes and does it for him in truth."
+
+Building the "as if" is deliberately distinguished from the real thing: what a person constructs through effort and impressions from the environment is not yet a correction, since only the light itself corrects the Kli (the vessel) — the "as if" is closer to what Rav Laitman calls a kind of brainwash, useful only in that it puts a person in position for the light to do the actual correcting.
+
+> "It's still not a correction, it's not the light — it corrects the Kli."
 
 Lo Lishma proper, he clarifies, is not any partial attempt but the specific, fully exhausted state — a hundred percent effort with nothing more available — that immediately precedes Lishma; everything before that point is preparation toward it, not Lo Lishma itself. This is offered alongside a second image for the same movement: the "single authority," Shabbat, versus the "authority of the many," the weekdays.
 
