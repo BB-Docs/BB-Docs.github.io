@@ -2,6 +2,7 @@
 title: "What Is, 'Every Blade of Grass Has an Appointee Above, Who Strikes It and Tells It, Grow!' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, May 9, 2003, with live Q&A — opening from a shared reading of Rabash's 'What Is, 'Every Blade of Grass Has an Appointee Above, Who…"
 date: 2026-08-20
+audio: true
 ---
 
 ### Opening
