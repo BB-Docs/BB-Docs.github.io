@@ -7,96 +7,96 @@ audio: true
 
 ### Opening
 
-After a live reading of Rabash's article on the verse "Behold, I am setting before you today a blessing and a curse," the group turns to an archival Rav Laitman lesson from October 2002 on the same theme. The central puzzle: this world contains no true blessing or curse at all — so what is a person actually doing here, and how does he get from a place with no real stakes to the one place, above the barrier, where blessing and curse are real? The lecture and Q&A trace that path through the concept of Lo Lishma as a "lever," the role of the environment in supplying a sense of importance a person cannot get from the concealed Creator directly, and a long closing discussion of what changes — and, pointedly, what doesn't — once the work is done correctly.
+Picking up after a shared reading of Rabash's article, Rav Laitman opens the archival lecture with a direct question: what actually makes something a blessing or a curse in the work? His answer reframes the whole distinction as a matter of intention rather than outward action — and the lecture and Q&A that follow trace what that reframing demands of a person: why this world offers neither a true blessing nor a true curse, why every action needs a felt reward except the one that matters most, and why the environment is the only place a person can go to feel the goal's importance at all.
 
-## Part 1 — This World Has No Real Blessing or Curse
+## Part 1 — Blessing and Curse: Defined by Intention, Not Action
 
-Rav Laitman opens by locating this world beneath the barrier entirely. Above the barrier there are two real lines, holiness and the shell — a genuine curse and a genuine blessing. Below the barrier there is neither:
+Rav Laitman states the core distinction plainly: to act in order to bestow is called a blessing; to act in order to receive for oneself is called a curse. This world, governed by the will to receive, is itself "in order to receive"; the next, spiritual world is "in order to bestow." Between these two states there is no direct transition — only a person can move back and forth, "one time seemingly in this, one time seemingly in that."
 
-> "Below the barrier there is no true curse and blessing, rather what we call exercises. This world was given to us so we would prepare ourselves a little, put in some exertion, enter the real work."
+> "This world is called in order to receive. The next world is called in order to bestow. There is no transition between these two things. The transition is in a man who can be one time seemingly in this, one time seemingly in that."
 
-Nothing done here is truly holy or truly forbidden — "we're not doing anything bad, we're not doing anything good" — which is why children and beginners are, in effect, permitted everything: they are still only learning. The task of an adult in this world is to move through stages of study and preparation, summarized as the path "from LoLishma we come to Lishma."
+## Part 2 — Below the Barrier: This World as "Exercises"
 
-## Part 2 — Importance Can Only Come From the Environment
+Above the Machsom (barrier), the two lines are real and absolute: the right line is true holiness, the left is the true Klipa (shell) — a genuine blessing and a genuine curse. Below the barrier, in this world, neither exists in truth. What looks like sanctity here is not yet real bestowal, and what looks like the shell is not yet real reception for oneself; it is, in Rav Laitman's words, "neither this nor that."
 
-Since the Creator is concealed, a person cannot be impressed by Him directly. Rav Laitman illustrates the mechanism with a familiar image: a crowd gathers around a visiting rabbi and someone rushes to carry his luggage, while an ordinary traveler off the same plane gets no such treatment. The difference is entirely a matter of perceived importance — and building that same sense of importance toward the Creator through the environment is described as containing, in a single action, everything at once:
+> "Below the barrier there is no true curse and blessing, rather what we call exercises. This world was given to us so we would prepare ourselves a little bit... enter the real work. So we have here neither sanctity nor holiness in order to bestow, and in truth not even the shell in order to receive. No curse. Neither this nor that. Therefore what we're doing here, we're allowed to do it. We're not doing anything bad, we're not doing anything good."
 
-> "In a single action, you have all the actions — against your own desire, and against the creator, and against the society, all in one action."
+This is why this-worldly actions are morally neutral training — "exercises" that prepare a person for real work only once he crosses the barrier.
 
-## Part 3 — Why "Labor" Has No Pleasure in It
+## Part 3 — The Rule of Reward: Why Bestowal Alone Goes Against Nature
 
-Turning to a passage on page 82, Rav Laitman works through Rabash's claim that work done without any felt pleasure is called labor or exertion — yet a person would never act at all unless he expected some reward. Ordinary pleasures, however trivial (collecting leaves, keeping an aquarium), are enough to move someone to act, because the pleasure is felt in advance and supplies the fuel for the action:
+Drawing on Rabash's own writing (page 82), Rav Laitman lays out a rule: no person can perform any action without feeling some pleasure or reward in it, even if that reward only arrives after death or is as strange as collecting leaves or maintaining an aquarium. Pleasure "can clothe in all kinds of different forms," but it has to be felt somewhere for an action to happen at all.
 
-> "If I don't have any pleasure corresponding to that in my vessels — it's not felt in my vessels — then I can't do anything."
+> "There's a rule that a person cannot perform any action unless he feels pleasure in it... For everything you can imagine a reward, except for one thing, which goes against our nature — in order to bestow."
 
-The one exception is action in order to bestow, which runs directly against nature. Trying to act this way and discovering one's own incapacity to feel any pleasure in it — genuinely, not as a pose — is what Rabash calls exertion or labor.
+An act of true bestowal is the single exception: by definition it offers no felt benefit to the will to receive, so attempting it and discovering one's own incapacity for it is what Rabash calls labor or exertion (Yagia) — not failure, but the necessary discovery of one's real distance from bestowal.
 
-## Part 4 — Two Opposing Points Become a Prayer
+## Part 4 — Two Ends and the Positive: How a Real Prayer Forms
 
-Rav Laitman describes a person who holds two things at once: the felt reward of hearsay and impressions telling him this is the most important thing there is, together with the honest discovery that he has no real pull toward it and no ability to perform it in order to bestow.
+A person reaches this exertion by holding two things at once: the felt lack of the ability to bestow, and the conviction — absorbed from the environment — that bestowal is genuinely important. Rav Laitman stresses that the lack must be discovered by first trying honestly to act, not simply by declaring inability in advance.
 
-> "He's holding the two ends, from which comes a prayer."
+> "He's holding the two ends from which comes a prayer... You must be able to attain spiritual action, to do a spiritual action. And then, of course, relative to that, I'll show you you're unable to do it. Meaning, always work on the positive."
 
-The warning attached to this is that the work has to stay positive — a person cannot work by dwelling on his own incapacity as if that were the point. He has to genuinely attempt the spiritual action first; only then does his inability to complete it become meaningful, rather than a self-defeating starting position.
+Working "through the positive" — genuinely attempting the action rather than working from negation — is what turns the resulting tension between incapacity and importance into an authentic inner cry.
 
-## Part 5 — Curating What Impresses You
+## Part 5 — Only the Society Can Supply the Goal's Importance
 
-Because a person absorbs importance from whatever surrounds him "like it or not," Rav Laitman describes a deliberate narrowing: at work, talk only about work; at home, only about home; here, keep the ears open specifically to hear about the greatness of the Creator. He compares this to ordinary marketing — a cracker factory wants the whole world to eat only its crackers — and points to the video department's own dissemination plan as an example of visible commitment to the goal that itself becomes a source of inspiration for others.
+Because the Creator is concealed, a person cannot draw the sense that spirituality matters from anywhere except the environment — the group, its books, and above all its people. Rav Laitman describes this as requiring deliberate filtering of attention: narrowing conversation at work and at home to practical matters only, and reserving the group as the one place a person allows himself to hear about the Creator's importance at all.
 
-> "So in each and every action that a person does, he needs to enter this intention of his towards others. And then it will return to him, several fold."
+> "We need to use all the means, mostly from the environment, in order to hear that there is nothing more important... talk to them only about matters of work, not about politics or fashion... and at home, only things that belong to the home... Here I need to open up my ears — but from the society, to hear only necessary things."
 
-## Part 6 — Lo Lishma as the Lever Between Curse and Blessing
+He compares the group's task to a business convincing the world its product is indispensable: "I make crackers. So what do I want? I want the whole world to only eat my cracker." The group's own dissemination work — the video department's detailed monthly plan for Moscow, America, and Lithuania is offered as a concrete example — functions the same way: a visible, organized conviction that reinforces everyone's sense that the goal is real and worth the effort.
 
-Asked directly what moves a person from curse to blessing, Rav Laitman answers that Lo Lishma is the lever — the state in which a person still knows he is acting for his own benefit, yet builds, as fully as he can, the appearance of bestowal:
+## Part 6 — Made Small by the Group: Learning Importance by Comparison
 
-> "That lever exists here, which is the LoLishma. From LoLishma we come to Lishma... As if is a situation that I've built, I've made it. And if a person does that, then the creator comes and does it for him in truth."
+Being genuinely impressed by the society, Rav Laitman says, only works on the condition that a person makes himself small relative to it — seeing the group's members as an example of self-sacrifice for spirituality worth learning from, and specifically asking that they demonstrate their good deeds in public rather than quietly, so there is something visible to be impressed by. He also recommends deliberately using ordinary, secular environments (work, family gatherings, casual social circles) as a point of contrast: comparing what such circles actually offer against what the spiritual group offers sharpens, rather than threatens, one's sense of the group's real value — provided a person doesn't let himself be impressed by their surface charm instead.
 
-Building the "as if" is deliberately distinguished from the real thing: what a person constructs through effort and impressions from the environment is not yet a correction, since only the light itself corrects the Kli (the vessel) — the "as if" is closer to what Rav Laitman calls a kind of brainwash, useful only in that it puts a person in position for the light to do the actual correcting.
+## Part 7 — Intention Alone Changes; the Action Never Does
 
-> "It's still not a correction, it's not the light — it corrects the Kli."
+Asked directly how a changed intention shows up in ordinary life — going to work, dealing with a boss — Rav Laitman is emphatic that correction never touches the physical action itself, only the intention behind it. The world continues exactly as it does now, even after full correction, even after the coming of the Messiah: people will still work in kindergartens and schools, still shop in supermarkets, still drive buses and taxis. What changes is entirely internal.
 
-Lo Lishma proper, he clarifies, is not any partial attempt but the specific, fully exhausted state — a hundred percent effort with nothing more available — that immediately precedes Lishma; everything before that point is preparation toward it, not Lo Lishma itself. This is offered alongside a second image for the same movement: the "single authority," Shabbat, versus the "authority of the many," the weekdays.
+> "The correction is the correction of the intention, not the correction of the action. The actual physical action with my hands does not change... only the intentions in a person will change... The intention will change reality because of the intention."
 
-> "The single authority is Shabbat... the authority of the many is what you can use on the weekdays. The authority of the many means that I think that I also control something, I also do something. There's no singularity of the creator in those desires."
+He illustrates this with a story about a man he once lived with who was "very high above the barrier," whose scrupulousness showed up only in invisible, internal places: he refused to let Rav Laitman price an item in several stores without buying — "it's like stealing one's reason" — yet accepted a large, unfair increase in his car tax without complaint, simply because "it's the state that's taking it." From the outside, nothing distinguished these choices from anyone else's; the entire work was internal.
 
-## Part 7 — Only the Intention Changes
+## Part 8 — Multiple Authorities vs. the Single Authority: The Lever of Lo Lishma
 
-A question about whether one's intention has actually shifted at work leads to one of the lecture's clearest statements: correction changes nothing about the action itself, only the intention behind it.
+Rav Laitman maps the weekday/Shabbat distinction directly onto blessing and curse: the "authority of the many" — the scattered, self-interested desires of ordinary life — belongs to the weekdays; the "single authority," undivided intention toward the Creator, belongs to Shabbat. The lever that moves a person from the many to the one, from curse toward blessing, is Lo Lishma.
 
-> "Nature itself — the cup will remain a cup, the book will remain a book — only the intentions in a person will change."
+> "What's the lever that helps me move from the left line to the right, from curse to blessing? That lever exists here, which is the Lolishma. From Lolishma we come to Lishma."
 
-Even after full correction, Rav Laitman says, ordinary life continues exactly as before — buses, stores, work, the supermarket — while the person living it experiences it as spirituality "to the highest degree." He adds, almost as an aside, that this same principle will hold even after the Messiah comes: less need for prisons and hospitals, perhaps, but the same kindergartens, the same schools, the same world, corrected only in intention.
+## Part 9 — Lo Lishma: Building the Simulation Until the Light Makes It Real
 
-## Part 8 — Rabash's Own Precision: A Story About a Store and a Tax
+In Lo Lishma, a person still works with an eye toward his own reward — he cannot yet act without it — but he can deliberately construct a situation that resembles bestowal: gathering impressions of the goal's importance from the environment and the books, and inflating himself with that borrowed conviction as if it were real. Rav Laitman calls this "a game," comparable to children building something, but insists that reaching its full, honest limit — 100% of what a person can do, knowing he cannot do more — is itself the trigger for something real.
 
-Asked how far this internal work actually reaches, Rav Laitman offers two personal recollections of Rabash's own scrupulousness. In one, Rabash would not let him shop around between stores comparing prices, because asking a shopkeeper's price while intending only to gather information, not to buy, was itself a kind of theft:
+> "Lolishma is the final state that you've done a hundred percent of what you could, and you couldn't do more... It is the highest possible state a person can reach in this world. After that, he already enters spirituality — it's no longer this world, it's the spiritual world."
 
-> "It's like stealing one's reason. You enter a store, you ask, and he thinks that you came to buy, and you just came to receive from him without giving him a reward."
+Once a person has built this simulated bestowal as far as he honestly can, the Creator's own light comes and completes what the person's own effort could only imitate — turning the "as if" into a real act of bestowal.
 
-In the other, faced with a large new car tax, Rabash's response was simply, "So it's the state that's taking it" — an indifference to loss that, Rav Laitman notes, was invisible from the outside: nothing to see, nothing to laugh at or cry over, "an old man as usual, really, a really regular" person. The point offered to the questioner is that this work is entirely internal — not something that can be read off a person's outward circumstances, one's own included.
+## Part 10 — Practical Q&A: Friends Who Disrespect You, and Leading by Example
 
-## Part 9 — Closing: Sharing Impressions From the Lesson
-
-The session ends with the group reflecting on what to carry forward: the importance of being impressed by the friends, described as each one arriving "like an angel that rises in the middle of the night" to deliver a spiritual message, and the discipline of working through two contradicted lines at once — discovering, again and again, what is missing, while still working to adhere to the positive toward the Creator, the friends, and the sources.
+Asked how to relate to a friend who has begun showing disrespect, Rav Laitman distinguishes two cases. If it's a longtime friend suddenly acting out of character, treat it as a spiritual crisis — "he's spiritually unconscious... I have to help him somehow continue in this state until he regains consciousness." If the disrespect reflects a settled, permanent difference in spirit and direction, the right response isn't confrontation but example: gather a few like-minded friends within the group and demonstrate the goal's importance through action, "without words, just show an example" — leaving the door open for others to join if they choose, rather than being pressured.
 
 ## Key Themes & Takeaways
 
-1. This world, being entirely below the barrier, contains no true blessing or curse — only "exercises" that prepare a person for the real work that begins above it.
-2. A person cannot act without felt pleasure or reward; genuine "labor" is the honest discovery that one cannot feel any pleasure in bestowal, not a performance of struggle.
-3. Holding two opposing points at once — real incapacity plus a genuinely felt sense of importance — is what produces an authentic inner cry, which becomes prayer.
-4. Because the Creator is concealed, importance can only be absorbed from the environment; a person has to deliberately curate what he allows to impress him.
-5. Lo Lishma is the lever between curse and blessing: a fully exhausted, self-built "as if" of bestowal, which the Creator then completes in truth — not a partial or casual attempt.
-6. Correction changes only a person's intention, never the action itself; ordinary life — work, shopping, the world at large — continues exactly as before.
-7. This work is entirely internal and often invisible from the outside, as shown in two small personal stories about scrupulous honesty in a store and indifference to a financial loss.
+1. Blessing and curse are defined entirely by intention — in order to bestow versus in order to receive for oneself — not by the physical action performed.
+2. This world, below the Machsom, offers neither a true blessing nor a true curse; it is a neutral set of "exercises" that prepare a person for the real work above the barrier.
+3. No action is possible without a felt reward, except an act of true bestowal — which is why attempting it and discovering one's own incapacity is a necessary stage (exertion/labor), not a failure.
+4. Real prayer forms from holding two ends together: the felt lack of ability to bestow, reached by genuinely trying, and the conviction — absorbed from the environment — that bestowal truly matters.
+5. Because the Creator is concealed, only the environment can supply the felt sense that spirituality is important, which is why a person must deliberately curate what he listens to and treat the group as his one source for it.
+6. Correction changes only a person's intention, never the action itself — the world continues to function identically before and after full correction, even after the Messiah; the difference is entirely internal, as shown in the anecdote about honesty in small, invisible daily choices.
+7. Lo Lishma is the lever from the "multiple authorities" of scattered self-interest to the "single authority" of undivided intention to bestow — a self-built simulation of bestowal that, carried to its honest limit, the Creator's light completes and makes real.
 
 ## Key Terms & Concepts
 
 | Term | Definition |
 |---|---|
-| Blessing and Curse (Bracha VeKlala) | This lesson's central theme: above the barrier, a real curse and a real blessing exist as two lines, holiness and the shell; below the barrier — this world — there is no true blessing or curse, only preparatory "exercises." |
-| Lo Lishma / Lishma | Not for Her sake / for Her sake. Here glossed specifically as the "lever" between curse and blessing — the fully exhausted, self-built "as if" of bestowal that immediately precedes true Lishma, at which point the Creator completes the correction. |
-| Machsom | The barrier separating this world (below, where there is no true curse or blessing) from the spiritual world (above, where holiness and the shell are real). |
-| Two Authorities (Shtei Reshuyot) | Here mapped onto Shabbat (the "single authority," where the Creator's singularity governs) versus the weekdays (the "authority of the many," where a person still feels he controls and acts on his own). |
-| Kelim / Kli | Vessel(s); used here for where pleasure must be felt in order for a person to act at all — "if I don't have any pleasure corresponding to that in my vessels... I can't do anything." |
-| Klipot / Klipa | Shell(s); paired with holiness as the two real lines that exist only above the barrier, in contrast to this world's lack of any true curse or blessing. |
-| Dvekut | Adhesion with the Creator; named here as what a person is rewarded with once he has vessels of bestowal and equivalence of form. |
+| Blessing and Curse (Klala U'Vracha) | In this lesson's framing, blessing is acting in order to bestow and curse is acting in order to receive for oneself; the article and lecture argue there is no true middle between them, only the intermediate working state of Lo Lishma. |
+| Lo Lishma / Lishma | "Not for Her sake" versus "for Her sake." Here described at length as the lever between curse and blessing: a self-built, 100%-effort simulation of bestowal that a person cannot exceed on his own, after which the Creator's light turns it into a real act of bestowal (Lishma). |
+| Machsom (Barrier) | The dividing line above which true blessing (holiness) and true curse (the Klipa) exist as real, opposite lines; below it, this world offers neither in truth — only neutral "exercises." |
+| Two Authorities (Shtei Reshuyot) | Here mapped onto the calendar: the "authority of the many" (scattered self-interested desires) belongs to the weekdays, while the "single authority" (undivided intention to bestow) belongs to Shabbat. |
+| Malchut | The receiving vessel whose original restriction (Tzimtzum) is, per the article's own account, the root of the good/bad distinction discussed in this lesson. |
+| Kelim / Kli | Vessel(s) — the desires through which a person receives; a person "in order to receive" has no Kelim capable of holding the delight and pleasure of true blessing. |
+| Dvekut | Adhesion with the Creator — the state a person reaches once rewarded with vessels of bestowal; described in the article as what genuine blessing ultimately makes possible. |
+| TES (Talmud Eser Sefirot) | Referenced alongside Rabash's articles as the two-part structure of study underlying this lesson's material — Rabash for diagnosis of the current state, TES for its cure. |
+| Rabash | Author of "What Are 'Blessing' and 'Curse' in the Work?" (Article No. 27, 1987), the article read and then explained in this lesson's archival lecture and Q&A. |
