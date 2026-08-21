@@ -20,12 +20,25 @@ say()  { printf "\033[1;34m▸\033[0m %s\n" "$*"; }
 warn() { printf "\033[1;33m!\033[0m %s\n" "$*" >&2; }
 
 # Single-run lock (mkdir is atomic) — publish-lesson detaches this, so two
-# overlapping runs could otherwise collide on the git push.
+# overlapping runs could otherwise collide on the git push. The lock records its
+# holder's PID so a crashed/-9'd run (whose EXIT trap never fired) can't block
+# future runs forever — a stale lock owned by a dead PID is reclaimed.
 LOCK="$SITE_DIR/_tools/.audio.lock"
-if ! mkdir "$LOCK" 2>/dev/null; then
+acquire_lock() {
+  if mkdir "$LOCK" 2>/dev/null; then echo $$ > "$LOCK/pid"; return 0; fi
+  local owner; owner="$(cat "$LOCK/pid" 2>/dev/null)"
+  if [ -n "$owner" ] && kill -0 "$owner" 2>/dev/null; then
+    return 1                                   # a live run genuinely holds it
+  fi
+  warn "reclaiming stale audio lock (holder ${owner:-unknown} not running)"
+  rm -rf "$LOCK"
+  mkdir "$LOCK" 2>/dev/null && { echo $$ > "$LOCK/pid"; return 0; }
+  return 1                                      # lost a race to another acquirer
+}
+if ! acquire_lock; then
   warn "another add-audio run is already in progress — exiting."; exit 0
 fi
-cleanup() { rmdir "$LOCK" 2>/dev/null; [ -n "${TMP:-}" ] && rm -rf "$TMP"; }
+cleanup() { rm -rf "$LOCK" 2>/dev/null; [ -n "${TMP:-}" ] && rm -rf "$TMP"; }
 trap cleanup EXIT
 
 FORCE=0; SINCE=""; ARGS=()

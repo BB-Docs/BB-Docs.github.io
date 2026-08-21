@@ -15,6 +15,7 @@ import edge_tts
 
 VOICE = "en-US-AndrewNeural"
 RATE = "-8%"            # a touch slower, for study pacing
+CHUNK_TIMEOUT = 90     # seconds per chunk — a hung edge-tts stream must not run forever
 
 # Respellings so an English neural voice says the recurring terms sensibly.
 # Whole-word, case-insensitive. Extend freely — this is a best-effort starter.
@@ -99,23 +100,31 @@ def chunk(text, maxlen=1400):
     return pieces
 
 
+async def _stream_one(piece):
+    got = bytearray()
+    async for m in edge_tts.Communicate(piece, VOICE, rate=RATE).stream():
+        if m["type"] == "audio":
+            got += m["data"]
+    if not got:
+        raise RuntimeError("empty audio")
+    return got
+
+
 async def synth(text, out):
     audio = bytearray()
     pieces = chunk(text)
     for i, piece in enumerate(pieces):
         for attempt in range(3):
             try:
-                got = bytearray()
-                async for m in edge_tts.Communicate(piece, VOICE, rate=RATE).stream():
-                    if m["type"] == "audio":
-                        got += m["data"]
-                if not got:
-                    raise RuntimeError("empty audio")
+                # Hard per-chunk timeout: without it, a stalled network stream
+                # hangs the whole run indefinitely (seen holding the lock for days).
+                got = await asyncio.wait_for(_stream_one(piece), timeout=CHUNK_TIMEOUT)
                 audio += got
                 break
             except Exception as e:
                 if attempt == 2:
-                    raise RuntimeError(f"chunk {i+1}/{len(pieces)} failed: {e}")
+                    kind = "timed out" if isinstance(e, asyncio.TimeoutError) else str(e)
+                    raise RuntimeError(f"chunk {i+1}/{len(pieces)} failed: {kind}")
                 await asyncio.sleep(1.5)
     with open(out, "wb") as f:
         f.write(audio)
