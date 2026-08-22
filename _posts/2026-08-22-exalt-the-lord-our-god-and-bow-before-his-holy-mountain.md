@@ -2,6 +2,7 @@
 title: "Exalt the Lord Our God, and Bow Before His Holy Mountain"
 subtitle: "Recorded lesson by Rav Laitman (exact date not stated in this transcript), with live Q&A — continuing a shared reading of Rabash, item 6 ('Exalt the Lord Our God, and…"
 date: 2026-08-22
+audio: true
 ---
 
 ### Opening

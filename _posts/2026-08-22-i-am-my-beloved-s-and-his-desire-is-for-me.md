@@ -2,6 +2,7 @@
 title: "I am my beloved's and his desire is for me,"
 subtitle: "Live lesson with Rav Laitman and extensive multilingual Q&A — a reading of selected excerpts (Rabash's Item 6, a Zohar passage as Item 7, and a Baal HaSulam-attributed…"
 date: 2026-08-22
+audio: true
 ---
 
 ### Opening
