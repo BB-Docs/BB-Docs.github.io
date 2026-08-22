@@ -1,6 +1,6 @@
 ---
 title: "What Is a Light Commandment?"
-subtitle: "Live lesson by Rav Laitman, with extensive group Q&A and workshop discussion — on Rabash's 'What Is a Light Commandment?' (Article No. 26, 1987)."
+subtitle: "Recorded lesson by Rav Laitman (exact date not stated in this transcript), with live Q&A — opening from a shared reading of Rabash's 'What Is a Light Commandment?'…"
 date: 2026-08-21
 audio: true
 ---
