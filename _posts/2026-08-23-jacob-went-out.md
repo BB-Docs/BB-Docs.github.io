@@ -2,6 +2,7 @@
 title: "Jacob Went Out"
 subtitle: "Recorded lesson by Rav Laitman, February 8, 2002, with live Q&A — on Rabash's 'Jacob Went Out' (Article No. 10, 1985), from Shlavei HaSulam ('Rungs of the Ladder'), Vol.…"
 date: 2026-08-23
+audio: true
 ---
 
 ### Opening
