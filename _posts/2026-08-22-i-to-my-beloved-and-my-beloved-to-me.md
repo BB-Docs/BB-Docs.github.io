@@ -2,6 +2,7 @@
 title: "I to my beloved and my beloved to me"
 subtitle: "(Afternoon) · Friday afternoon session, a continuation of that morning's opening of the month of Elul theme ('I to my beloved and my beloved to me'). Includes a shared…"
 date: 2026-08-22
+audio: true
 ---
 
 ### Opening
