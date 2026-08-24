@@ -2,6 +2,7 @@
 title: "Who Testifies to a Person?"
 subtitle: "Recorded lesson by Rav Laitman, October 9, 2002, with live Q&A — on Rabash's 'Who Testifies to a Person?' (Article No. 37, 1985)."
 date: 2026-08-24
+audio: true
 ---
 
 ### Opening
