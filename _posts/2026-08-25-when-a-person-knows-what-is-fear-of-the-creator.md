@@ -2,6 +2,7 @@
 title: "When a Person Knows What Is Fear of the Creator"
 subtitle: "Recorded lesson by Rav Laitman, August 15, 2002, with live Q&A — on Rabash's 'When a Person Knows What Is Fear of the Creator' (Article No. 35, 1985) — followed by a…"
 date: 2026-08-25
+audio: true
 ---
 
 ### Opening
