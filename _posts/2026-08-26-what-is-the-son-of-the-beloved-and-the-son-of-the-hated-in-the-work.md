@@ -2,6 +2,7 @@
 title: "What Is the Son of the Beloved and the Son of the Hated in the Work"
 subtitle: "Recorded lesson by Rav Laitman, October 2002, with live Q&A — on Rabash's 'What Is the Son of the Beloved and the Son of the Hated in the Work' (Article No. 46, 1991)…"
 date: 2026-08-26
+audio: true
 ---
 
 ### Opening
