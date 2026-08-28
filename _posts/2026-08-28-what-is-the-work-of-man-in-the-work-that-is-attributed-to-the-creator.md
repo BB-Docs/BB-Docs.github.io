@@ -2,6 +2,7 @@
 title: "What Is the Work of Man, in the Work that Is Attributed to the Creator?"
 subtitle: "Recorded lesson by Rav Laitman, October 2, 2002, with live Q&A — on Rabash's 'What Is the Work of Man, in the Work that Is Attributed to the Creator?' (Article No. 31…"
 date: 2026-08-28
+audio: true
 ---
 
 ### Opening
