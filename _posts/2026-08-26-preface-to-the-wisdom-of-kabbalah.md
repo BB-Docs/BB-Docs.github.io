@@ -2,6 +2,7 @@
 title: "Preface to the Wisdom of Kabbalah"
 subtitle: "Part 2 · Archival lesson by Rav Laitman, from his 2006 series on Baal HaSulam's 'Preface to the Wisdom of Kabbalah' — opening lesson of a new study track, 'Introduction…"
 date: 2026-08-26
+audio: true
 ---
 
 ### Opening
