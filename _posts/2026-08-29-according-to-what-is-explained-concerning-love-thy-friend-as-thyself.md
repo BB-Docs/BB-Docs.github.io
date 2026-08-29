@@ -2,6 +2,7 @@
 title: "According to What Is Explained Concerning 'Love Thy Friend as Thyself'"
 subtitle: "Live session at the Arava Congress, with Rav Laitman and group Q&A — on Rabash's 'According to What Is Explained Concerning 'Love Thy Friend as Thyself'' (Article No. 7…"
 date: 2026-08-29
+audio: true
 ---
 
 ### Opening
