@@ -2,6 +2,7 @@
 title: "What Is, 'He Who Is Without Sons,' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, August 12, 2002, with live Q&A — on Rabash's 'What Is, 'He Who Is Without Sons,' in the Work?' (Article No. 35, 1989)."
 date: 2026-08-30
+audio: true
 ---
 
 ### Opening
