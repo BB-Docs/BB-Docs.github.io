@@ -2,6 +2,7 @@
 title: "What Is, 'The Torah Speaks Only Against the Evil Inclination,' in the Work?"
 subtitle: "Live lesson with Rav Laitman, group Q&A — on Rabash's 'What Is, 'The Torah Speaks Only Against the Evil Inclination,' in the Work?' (Article No. 39, 1989)."
 date: 2026-08-31
+audio: true
 ---
 
 ### Opening
