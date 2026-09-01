@@ -2,6 +2,7 @@
 title: "What Is the Main Deficiency for Which One Should Pray?"
 subtitle: "Recorded lesson by Rav Laitman, June 4, 2002, with live Q&A — on Rabash's 'What Is the Main Deficiency for Which One Should Pray?' (Article No. 12, 1986)."
 date: 2026-09-01
+audio: true
 ---
 
 ### Opening
