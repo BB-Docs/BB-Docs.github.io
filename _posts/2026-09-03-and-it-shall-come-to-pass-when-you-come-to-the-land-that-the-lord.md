@@ -2,6 +2,7 @@
 title: "And It Shall Come to Pass When You Come to the Land that the Lord Your God Gives You"
 subtitle: "Recorded lesson by Rav Laitman, November 1, 2002, with live Q&A — on Rabash's 'And It Shall Come to Pass When You Come to the Land that the Lord Your God Gives You'…"
 date: 2026-09-03
+audio: true
 ---
 
 ### Opening

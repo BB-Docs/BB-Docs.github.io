@@ -2,6 +2,7 @@
 title: "The concealed things belong to the Lord our God, and the revealed belong to us and our children."
 subtitle: "Recorded lesson by Rav Laitman, November 3, 2002, with live Q&A — on Rabash's article from Shlavei HaSulam (Rungs of the Ladder), Volume 3, Torah portion Nitzavim, on…"
 date: 2026-09-02
+audio: true
 ---
 
 ### Opening
