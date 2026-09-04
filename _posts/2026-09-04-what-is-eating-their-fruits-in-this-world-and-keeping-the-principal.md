@@ -2,6 +2,7 @@
 title: "What Is Eating Their Fruits in This World and Keeping the Principal for the Next World, in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, July 17, 2002, with live Q&A — on Rabash's 'What Is Eating Their Fruits in This World and Keeping the Principal for the Next World, in…"
 date: 2026-09-04
+audio: true
 ---
 
 ### Opening
