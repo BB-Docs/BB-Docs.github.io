@@ -2,6 +2,7 @@
 title: "Prayer of Many,"
 subtitle: "Recorded lesson by Rav Laitman, October 16, 2015 (Odessa Congress), 'Prayer of Many,' Lesson 5 — this week's Shabbat topic, on moving from an individual prayer to the…"
 date: 2026-09-05
+audio: true
 ---
 
 ### Opening
