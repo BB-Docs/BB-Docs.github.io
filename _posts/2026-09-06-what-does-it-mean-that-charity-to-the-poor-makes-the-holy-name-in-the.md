@@ -2,6 +2,7 @@
 title: "What Does It Mean that Charity to the Poor Makes the Holy Name, in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, June 26, 2002, based on Rabash's 'What Does It Mean that Charity to the Poor Makes the Holy Name, in the Work?' (Article No. 31, 1991)…"
 date: 2026-09-06
+audio: true
 ---
 
 ### Opening
