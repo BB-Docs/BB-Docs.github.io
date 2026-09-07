@@ -2,6 +2,7 @@
 title: "What Are a Blessing and a Curse, in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, October 8, 2002, based on Rabash's 'What Are a Blessing and a Curse, in the Work?' (Article No. 42, 1990), with live Q&A."
 date: 2026-09-07
+audio: true
 ---
 
 ### Opening
