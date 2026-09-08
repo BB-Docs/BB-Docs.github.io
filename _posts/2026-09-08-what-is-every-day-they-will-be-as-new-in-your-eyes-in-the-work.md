@@ -2,6 +2,7 @@
 title: "What Is, 'Every Day They Will Be as New in Your Eyes,' in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, with live Q&A, based on Rabash's 'What Is, 'Every Day They Will Be as New in Your Eyes,' in the Work?' (Article No. 40, 1989). The…"
 date: 2026-09-08
+audio: true
 ---
 
 ### Opening
