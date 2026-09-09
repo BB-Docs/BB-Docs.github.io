@@ -2,6 +2,7 @@
 title: "Go Forth from Your Land"
 subtitle: "Recorded lesson by Rav Laitman, 2003, with live Q&A, based on Rabash's 'Go Forth from Your Land' (Article No. 5, 1985), read from Shlavei HaSulam ('Rungs of the…"
 date: 2026-09-09
+audio: true
 ---
 
 ### Opening
