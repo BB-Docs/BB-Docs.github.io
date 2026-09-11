@@ -2,6 +2,7 @@
 title: "The Rosh Hashanah Prayer"
 subtitle: "Recorded lesson by Rav Laitman, September 16, 2003, with live Q&A, based on Rabash's 'The Rosh Hashanah Prayer' (Article No. 884). Rav Laitman opens by noting the source…"
 date: 2026-09-11
+audio: true
 ---
 
 ### Opening

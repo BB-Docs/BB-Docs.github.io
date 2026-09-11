@@ -2,6 +2,7 @@
 title: "What Is Half a Shekel in the Work? - 2"
 subtitle: "Rabash, 'What Is Half a Shekel in the Work? - 2' (Article No. 20, 1990), read from Shlavei HaSulam ('Rungs of the Ladder'), Volume 2, page 233, with Rav Laitman's live…"
 date: 2026-09-10
+audio: true
 ---
 
 ### Opening
