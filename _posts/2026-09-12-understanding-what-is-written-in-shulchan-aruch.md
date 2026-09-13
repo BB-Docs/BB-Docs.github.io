@@ -2,6 +2,7 @@
 title: "Understanding What Is Written in Shulchan Aruch"
 subtitle: "Recorded lesson by Rav Laitman, September 24, 2003, with live Q&A, based on Baal HaSulam's Shamati article 122, 'Understanding What Is Written in Shulchan Aruch' (heard…"
 date: 2026-09-12
+audio: true
 ---
 
 ### Opening
