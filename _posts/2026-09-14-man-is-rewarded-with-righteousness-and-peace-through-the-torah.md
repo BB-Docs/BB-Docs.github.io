@@ -2,6 +2,7 @@
 title: "Man Is Rewarded with Righteousness and Peace through the Torah"
 subtitle: "Recorded lesson by Rav Laitman, November 4, 2003, with extensive live Q&A, based on Rabash's teaching on Tzedaka (righteousness/faith) and peace as sequential stages of…"
 date: 2026-09-14
+audio: true
 ---
 
 ### Opening

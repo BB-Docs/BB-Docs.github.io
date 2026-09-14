@@ -2,6 +2,7 @@
 title: "The Pole and the Bubble of Bestowal"
 subtitle: "Recorded lesson by Rav Laitman, September 25, 2003, with live Q&A, based on Rabash's Letter No. 23 (written August 1956, Manchester, to the friends approaching a new…"
 date: 2026-09-13
+audio: true
 ---
 
 ### Opening
