@@ -2,6 +2,7 @@
 title: "Annulment Lived in Society"
 subtitle: "Live internship testimonial and open discussion, recorded at the Bnei Baruch World Center (Israel) during the Rosh Hashanah internship program — no source article.…"
 date: 2026-09-15
+audio: true
 ---
 
 ### Opening

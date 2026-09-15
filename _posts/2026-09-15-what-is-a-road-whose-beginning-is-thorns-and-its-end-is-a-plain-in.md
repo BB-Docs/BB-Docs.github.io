@@ -2,6 +2,7 @@
 title: "What Is a Road Whose Beginning Is Thorns and Its End Is a Plain in the Work."
 subtitle: "Recorded lesson by Rav Laitman, October 7, 2002, with live Q&A, based on Rabash's Article No. 37, 1989, 'What Is a Road Whose Beginning Is Thorns and Its End Is a Plain…"
 date: 2026-09-15
+audio: true
 ---
 
 ### Opening
