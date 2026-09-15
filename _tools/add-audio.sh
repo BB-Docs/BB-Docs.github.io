@@ -24,13 +24,21 @@ warn() { printf "\033[1;33m!\033[0m %s\n" "$*" >&2; }
 # holder's PID so a crashed/-9'd run (whose EXIT trap never fired) can't block
 # future runs forever — a stale lock owned by a dead PID is reclaimed.
 LOCK="$SITE_DIR/_tools/.audio.lock"
+# A live run genuinely holds the lock only if the recorded PID is both alive AND
+# actually an add-audio process — macOS recycles PIDs, so a bare kill -0 can be
+# fooled by an unrelated process that inherited a -9'd holder's PID.
+holder_is_live() {
+  local pid="$1"
+  [ -n "$pid" ] && kill -0 "$pid" 2>/dev/null || return 1
+  ps -o command= -p "$pid" 2>/dev/null | grep -q 'add-audio'
+}
 acquire_lock() {
   if mkdir "$LOCK" 2>/dev/null; then echo $$ > "$LOCK/pid"; return 0; fi
   local owner; owner="$(cat "$LOCK/pid" 2>/dev/null)"
-  if [ -n "$owner" ] && kill -0 "$owner" 2>/dev/null; then
-    return 1                                   # a live run genuinely holds it
+  if holder_is_live "$owner"; then
+    return 1                                   # a live add-audio run genuinely holds it
   fi
-  warn "reclaiming stale audio lock (holder ${owner:-unknown} not running)"
+  warn "reclaiming stale audio lock (holder ${owner:-unknown} not a live add-audio run)"
   rm -rf "$LOCK"
   mkdir "$LOCK" 2>/dev/null && { echo $$ > "$LOCK/pid"; return 0; }
   return 1                                      # lost a race to another acquirer
