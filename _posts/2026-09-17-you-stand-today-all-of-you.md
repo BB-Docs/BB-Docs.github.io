@@ -2,6 +2,7 @@
 title: "You Stand Today, All of You"
 subtitle: "Rabash, Article No. 19, 1984, 'You Stand Today, All of You' (Atem Nitzavim), Shlavei HaSulam Vol. 3, pp. 220–221 — archival lecture by Rav Laitman, November 3, 2002…"
 date: 2026-09-17
+audio: true
 ---
 
 ### Opening

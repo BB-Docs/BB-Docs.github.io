@@ -2,6 +2,7 @@
 title: "What Does It Mean That the Ladder Is Diagonal, in the Work?"
 subtitle: "Live international Q&A with Rav Laitman for Rabash's Memorial Day (Yahrzeit), opening with two brief excerpts: Baal HaSulam's Introduction to the Book Panim Meirot…"
 date: 2026-09-16
+audio: true
 ---
 
 ### Opening

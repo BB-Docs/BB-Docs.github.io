@@ -2,6 +2,7 @@
 title: "One Does Not Regard Oneself as Wicked."
 subtitle: "Recorded lesson by Rav Laitman, July 28, 2002, with live Q&A — based on Rabash's Article No. 31, 1985, 'One Does Not Regard Oneself as Wicked.'"
 date: 2026-09-18
+audio: true
 ---
 
 ### Opening

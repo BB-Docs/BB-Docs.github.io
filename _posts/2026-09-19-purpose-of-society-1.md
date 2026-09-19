@@ -2,6 +2,7 @@
 title: "Purpose of Society - 1"
 subtitle: "Recorded lesson by Rav Laitman, September 20, 2002, with live Q&A — based on Rabash's Article No. 1, Part 1, 1984, 'Purpose of Society - 1' (Matarat HaChevra), read in…"
 date: 2026-09-19
+audio: true
 ---
 
 ### Opening
