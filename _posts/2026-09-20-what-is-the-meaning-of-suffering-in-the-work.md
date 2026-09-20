@@ -2,6 +2,7 @@
 title: "What Is the Meaning of Suffering in the Work?"
 subtitle: "Recorded lesson by Rav Laitman, September 30, 2003, with live Q&A — based on Rabash's 'What Is the Meaning of Suffering in the Work?' (Shlavei HaSulam, Vol. 4), read in…"
 date: 2026-09-20
+audio: true
 ---
 
 ### Opening
