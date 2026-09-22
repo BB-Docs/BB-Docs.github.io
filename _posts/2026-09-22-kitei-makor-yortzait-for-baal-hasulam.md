@@ -2,6 +2,7 @@
 title: "Kitei Makor: Yortzait for Baal HaSulam,"
 subtitle: "Recorded lesson by Rav Laitman, reading selected excerpts for the Memorial Day (Yahrzeit) of Baal HaSulam, from an official 2018 compilation ('Kitei Makor: Yortzait for…"
 date: 2026-09-22
+audio: true
 ---
 
 ### Opening
