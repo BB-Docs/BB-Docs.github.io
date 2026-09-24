@@ -2,6 +2,7 @@
 title: "Concealment and Revelation of the Creator"
 subtitle: "Recorded lesson by Rav Laitman, Sukkot Congress 2003 (Sitrin, Israel), spoken in Russian with simultaneous English interpretation, with live Q&A. Second lesson in the…"
 date: 2026-09-24
+audio: true
 ---
 
 ### Opening
