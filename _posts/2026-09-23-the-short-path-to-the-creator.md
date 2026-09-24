@@ -2,6 +2,7 @@
 title: "The Short Path to the Creator"
 subtitle: "Recorded lesson by Rav Laitman, October 10, 2003, Sukkot Congress (Sitrin, Israel), spoken in Russian with simultaneous English interpretation, with live Q&A. First…"
 date: 2026-09-23
+audio: true
 ---
 
 ### Opening
