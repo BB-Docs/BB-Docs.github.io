@@ -2,6 +2,7 @@
 title: "From Yom Kippur to Purim"
 subtitle: "Recorded lesson by Rav Laitman, Sukkot Congress 2003 (Sitrin, Israel), spoken in Russian with simultaneous English interpretation, with live Q&A. Given on the eve of…"
 date: 2026-09-25
+audio: true
 ---
 
 ### Opening
