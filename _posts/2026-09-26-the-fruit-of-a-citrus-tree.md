@@ -2,6 +2,7 @@
 title: "The Fruit of a Citrus Tree"
 subtitle: "Recorded lesson by Rav Laitman, October 14, 2011, with live Q&A, on Rabash's 'The Fruit of a Citrus Tree' (Writings of Rabash, Vol. 3, Article 893), studied for Sukkot.…"
 date: 2026-09-26
+audio: true
 ---
 
 ### Opening
