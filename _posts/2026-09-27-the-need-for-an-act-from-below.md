@@ -2,6 +2,7 @@
 title: "The Need for an Act from Below"
 subtitle: "Study among friends (Limud Bein Haverim, part 2), built around Rabash's 'The Need for an Act from Below' (Writings of Rabash, Article 921), with one short recorded clip…"
 date: 2026-09-27
+audio: true
 ---
 
 ### Opening
