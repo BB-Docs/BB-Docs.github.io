@@ -2,6 +2,7 @@
 title: "Welcome to the Machsom,"
 subtitle: "Recorded lesson by Rav Laitman, October 12, 2003, with live Q&A: Lesson 4 of the Sukkot Congress 2003 (Sitrin, Israel), spoken in Russian with simultaneous…"
 date: 2026-09-29
+audio: true
 ---
 
 ### Opening
