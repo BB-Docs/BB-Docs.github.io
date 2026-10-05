@@ -2,6 +2,7 @@
 title: "Hosha'ana Raba – Selected Excerpts from the Sources (2020)"
 subtitle: "Recorded lesson by Rav Laitman, night of Hoshana Rabbah, October 16, 2003 (Sukkot Congress, Sitrin, Israel), with live Q&A. Source compilation: 'Hosha'ana Raba –…"
 date: 2026-10-02
+audio: true
 ---
 
 ### Opening

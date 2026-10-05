@@ -2,6 +2,7 @@
 title: "There Is One Who Acquires His World in One Hour,"
 subtitle: "Recorded lesson by Rav Laitman, Lesson 12 of the Sukkot Congress 2003 (Sitrin, Israel), October 16, 2003, with live Q&A, spoken in Russian with simultaneous…"
 date: 2026-10-05
+audio: true
 ---
 
 ### Opening

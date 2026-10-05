@@ -2,6 +2,7 @@
 title: "The Giving of the Torah"
 subtitle: "Recorded lesson by Rav Laitman, Lesson 13 of the Sukkot Congress 2003 (Sitrin, Israel), October 17, 2003, with live Q&A, on Simchat Torah. Rav Laitman reads his own…"
 date: 2026-10-03
+audio: true
 ---
 
 ### Opening

@@ -2,6 +2,7 @@
 title: "The Giving of the Torah"
 subtitle: "Recorded lesson by Rav Laitman, Lesson 11 of the Sukkot Congress 2003 (Sitrin, Israel), October 16, 2003, with live Q&A, spoken in Russian with simultaneous…"
 date: 2026-10-04
+audio: true
 ---
 
 ### Opening
