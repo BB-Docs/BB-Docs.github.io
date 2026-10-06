@@ -2,6 +2,7 @@
 title: "If I am not for me, who is for me... and if not now, when?"
 subtitle: "Recorded lesson by Rav Laitman, Lesson 12 of the Sukkot Congress 2003 (Sitrin, Israel), October 16, 2003, with live Q&A, spoken in Russian with simultaneous…"
 date: 2026-10-05
+audio: true
 ---
 
 ### Opening

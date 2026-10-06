@@ -2,6 +2,7 @@
 title: "The Giving of the Torah"
 subtitle: "Recorded lesson by Rav Laitman, Lesson 16 (the final lesson) of the Sukkot Congress 2003 (Sitrin, Israel), October 17, 2003, with live Q&A. Rav Laitman expounds Baal…"
 date: 2026-10-06
+audio: true
 ---
 
 ### Opening
