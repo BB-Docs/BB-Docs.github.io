@@ -2,6 +2,7 @@
 title: "There Is None Else Besides Him,"
 subtitle: "Shamati, Article 1, 'There Is None Else Besides Him,' Baal HaSulam (heard February 6, 1944). Recorded lesson by Rav Laitman, April 26, 2011, with Q&A. Chosen to mark the…"
 date: 2026-10-07
+audio: true
 ---
 
 ### Opening
