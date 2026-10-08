@@ -2,6 +2,7 @@
 title: "What Is Making a Covenant in the Work?"
 subtitle: "'What Is Making a Covenant in the Work?' Rabash, Article No. 31, 1987 (Shlavei HaSulam, Vol. 3, Devarim, portion Nitzavim, p. 227). Recorded lesson by Rav Laitman…"
 date: 2026-10-08
+audio: true
 ---
 
 ### Opening
