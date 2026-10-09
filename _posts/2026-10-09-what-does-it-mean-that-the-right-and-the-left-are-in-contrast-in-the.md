@@ -2,6 +2,7 @@
 title: "What Does It Mean that the Right and the Left Are in Contrast, in the Work?"
 subtitle: "'What Does It Mean that the Right and the Left Are in Contrast, in the Work?' Rabash, Article No. 47, 1991 (Shlavei HaSulam, Vol. 3, Devarim, p. 198). Recorded lesson by…"
 date: 2026-10-09
+audio: true
 ---
 
 ### Opening
