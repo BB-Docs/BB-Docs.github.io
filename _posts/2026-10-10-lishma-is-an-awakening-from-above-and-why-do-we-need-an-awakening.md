@@ -2,6 +2,7 @@
 title: "Lishma Is an Awakening from Above, and Why Do We Need an Awakening from Below?"
 subtitle: "'Lishma Is an Awakening from Above, and Why Do We Need an Awakening from Below?' Baal HaSulam, Shamati, Article No. 5 ('I heard in 1945'). Recorded lesson by Rav…"
 date: 2026-10-10
+audio: true
 ---
 
 ### Opening
