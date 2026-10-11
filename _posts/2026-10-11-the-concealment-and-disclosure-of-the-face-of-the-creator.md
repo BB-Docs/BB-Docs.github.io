@@ -2,6 +2,7 @@
 title: "The Concealment and Disclosure of the Face of the Creator,"
 subtitle: "'The Concealment and Disclosure of the Face of the Creator,' Part 1 (Hester VeGilui Panim), Baal HaSulam. Recorded lesson by Rav Laitman, May 12, 2004, with live Q&A…"
 date: 2026-10-11
+audio: true
 ---
 
 ### Opening
