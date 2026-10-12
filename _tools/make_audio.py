@@ -12,6 +12,16 @@ import re
 import sys
 
 import edge_tts
+import edge_tts.communicate
+import edge_tts.constants
+
+# Since Oct 2026 speech.platform.bing.com 403s the synthesis WebSocket; Edge now
+# uses api.msedgeservices.com (rany2/edge-tts#490/#491). Drop this once an
+# edge-tts release ships the new host.
+if "speech.platform.bing.com" in edge_tts.communicate.WSS_URL:
+    edge_tts.communicate.WSS_URL = (
+        "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+        f"?Ocp-Apim-Subscription-Key={edge_tts.constants.TRUSTED_CLIENT_TOKEN}")
 
 VOICE = "en-US-AndrewNeural"
 RATE = "-8%"            # a touch slower, for study pacing
