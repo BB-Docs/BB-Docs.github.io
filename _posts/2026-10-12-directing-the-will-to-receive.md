@@ -2,6 +2,7 @@
 title: "Directing the Will to Receive"
 subtitle: "Article by Rabash, written in Kfar Saba (the article's title was not captured in the transcript). Recorded lesson by Rav Laitman, March 18, 2003, with live Q&A."
 date: 2026-10-12
+audio: true
 ---
 
 ### Opening
