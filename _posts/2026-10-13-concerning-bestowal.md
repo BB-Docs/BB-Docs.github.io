@@ -2,6 +2,7 @@
 title: "Concerning Bestowal,"
 subtitle: "'Concerning Bestowal,' Rabash, Article No. 16, 1984 (Shlavei HaSulam, Vol. 5, p. 244). Recorded lesson by Rav Laitman, March 23 (year not stated; likely 2003), with live…"
 date: 2026-10-13
+audio: true
 ---
 
 ### Opening
