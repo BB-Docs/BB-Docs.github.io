@@ -2,6 +2,7 @@
 title: "What Is the Difference between General and Individual in the Work of the Creator?"
 subtitle: "'What Is the Difference between General and Individual in the Work of the Creator?' Rabash, Article No. 33, 1988. Recorded lesson by Rav Laitman, March 25, 2003, with…"
 date: 2026-10-14
+audio: true
 ---
 
 ### Opening
