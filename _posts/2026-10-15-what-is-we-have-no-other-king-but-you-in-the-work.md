@@ -2,6 +2,7 @@
 title: "What Is, 'We Have No Other King But You,' in the Work?"
 subtitle: "'What Is, 'We Have No Other King But You,' in the Work?' Rabash, Article No. 1, 1991 (Shlavei HaSulam, Vol. 3, p. 255). Recorded lesson by Rav Laitman, November 24…"
 date: 2026-10-15
+audio: true
 ---
 
 ### Opening
