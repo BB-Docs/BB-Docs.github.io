@@ -2,6 +2,7 @@
 title: "A Congregation Is No Less than Ten,"
 subtitle: "'A Congregation Is No Less than Ten,' Rabash, Article No. 28, 1986 (Shlavei HaSulam, portion Nasso). Recorded lesson by Rav Laitman, 2002 (announced both as 'the 3rd of…"
 date: 2026-10-16
+audio: true
 ---
 
 ### Opening
