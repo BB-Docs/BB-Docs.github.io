@@ -2,6 +2,7 @@
 title: "The Agenda of the Assembly – 2,"
 subtitle: "'The Agenda of the Assembly – 2,' Rabash, Article No. 17, 1986. Recorded lesson by Rav Laitman, December 2, 2011, given just before the convention at the Tel Aviv…"
 date: 2026-10-17
+audio: true
 ---
 
 ### Opening
