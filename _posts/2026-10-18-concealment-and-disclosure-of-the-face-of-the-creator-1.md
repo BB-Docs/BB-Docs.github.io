@@ -2,6 +2,7 @@
 title: "Concealment and Disclosure of the Face of the Creator – 1,"
 subtitle: "'Concealment and Disclosure of the Face of the Creator – 1,' Baal HaSulam. Lesson by Rav Laitman with live Q&A (the recording picks up partway through the lecture; the…"
 date: 2026-10-18
+audio: true
 ---
 
 ### Opening
