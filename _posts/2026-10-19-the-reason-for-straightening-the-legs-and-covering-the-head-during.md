@@ -2,6 +2,7 @@
 title: "The Reason for Straightening the Legs and Covering the Head During the Prayer,"
 subtitle: "'The Reason for Straightening the Legs and Covering the Head During the Prayer,' Rabash, Article No. 32, 1986 (on The Zohar, Vaetchanan, item 10). Recorded lesson by Rav…"
 date: 2026-10-19
+audio: true
 ---
 
 ### Opening
