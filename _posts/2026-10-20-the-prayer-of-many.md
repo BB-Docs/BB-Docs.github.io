@@ -2,6 +2,7 @@
 title: "The Prayer of Many"
 subtitle: "'The Prayer of Many' (Tefilat Rabim), Rabash, Shlavei HaSulam (Stages of the Ladder), Volume 2. Recorded lesson by Rav Laitman, April 29, 2002, with live Q&A, followed…"
 date: 2026-10-20
+audio: true
 ---
 
 ### Opening
