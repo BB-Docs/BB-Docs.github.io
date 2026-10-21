@@ -2,6 +2,7 @@
 title: "What Is, 'An Ox Knows Its Owner, etc., Israel Does Not Know,' in the Work?"
 subtitle: "'What Is, 'An Ox Knows Its Owner, etc., Israel Does Not Know,' in the Work?', Rabash, Article No. 42, 1991 (Shlavei HaSulam / Rungs of the Ladder, Volume 4, p. 5).…"
 date: 2026-10-21
+audio: true
 ---
 
 ### Opening

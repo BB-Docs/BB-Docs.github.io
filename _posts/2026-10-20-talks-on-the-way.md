@@ -2,6 +2,7 @@
 title: "Talks on the Way"
 subtitle: "Second Lesson · 'Talks on the Way' (Sichot al HaDerech): 'Rosh HaAsiriya Mekabel Kochot me'Chaverei HaAsiriya Shelo' (The Head of the Ten Receives Forces from the…"
 date: 2026-10-20
+audio: true
 ---
 
 ### Opening
