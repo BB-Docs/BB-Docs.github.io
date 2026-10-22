@@ -2,6 +2,7 @@
 title: "Confidence"
 subtitle: "'Confidence' (Bitachon), Rabash, Article No. 6, 1986. Recorded lesson by Rav Laitman, January 31, 2002, with Q&A, followed by a short sharing of impressions."
 date: 2026-10-22
+audio: true
 ---
 
 ### Opening
