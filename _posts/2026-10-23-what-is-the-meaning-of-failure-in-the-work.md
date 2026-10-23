@@ -2,6 +2,7 @@
 title: "What Is the Meaning of Failure in the Work?"
 subtitle: "'What Is the Meaning of Failure in the Work?', Rabash, Article No. 2, 1990 (Shlavei HaSulam, vol. 4, section Hosea). Recorded lesson by Rav Laitman, December 10, 2002…"
 date: 2026-10-23
+audio: true
 ---
 
 ### Opening
