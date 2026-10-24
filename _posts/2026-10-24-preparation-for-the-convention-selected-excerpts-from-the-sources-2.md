@@ -2,6 +2,7 @@
 title: "Preparation for the Convention: Selected Excerpts from the Sources"
 subtitle: "'Preparation for the Convention: Selected Excerpts from the Sources' (Rabash, Baal HaSulam and others), opening with Rabash, 'Purpose of Society – 1' (Article No. 1…"
 date: 2026-10-24
+audio: true
 ---
 
 ### Opening
