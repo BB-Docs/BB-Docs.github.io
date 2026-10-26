@@ -2,6 +2,7 @@
 title: "According to What Is Explained Concerning 'Love Thy Friend as Thyself'"
 subtitle: "'According to What Is Explained Concerning 'Love Thy Friend as Thyself'', Rabash, Article No. 7, 1984 (Shlavei HaSulam, vol. 4, section Psalms). Recorded lesson by Rav…"
 date: 2026-10-25
+audio: true
 ---
 
 ### Opening
