@@ -2,6 +2,7 @@
 title: "The Importance of Recognition of Evil"
 subtitle: "'The Importance of Recognition of Evil', Rabash, Article No. 2, 1987 (Shlavei HaSulam, section Beresheet). Recorded lesson by Rav Laitman, October 21, 2003, with Q&A…"
 date: 2026-10-26
+audio: true
 ---
 
 ### Opening
