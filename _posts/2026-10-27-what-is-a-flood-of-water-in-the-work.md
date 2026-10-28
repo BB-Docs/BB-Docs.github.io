@@ -2,6 +2,7 @@
 title: "What Is a Flood of Water in the Work?"
 subtitle: "'What Is a Flood of Water in the Work?', Rabash, Article No. 4, 1989 (Shlavei HaSulam, portion Noach). Recorded lesson by Rav Laitman, October 27, 2003, with Q&A."
 date: 2026-10-27
+audio: true
 ---
 
 ### Opening
