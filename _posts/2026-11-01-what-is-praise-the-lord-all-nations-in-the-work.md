@@ -2,6 +2,7 @@
 title: "What Is 'Praise the Lord, All Nations' in the Work?"
 subtitle: "'What Is 'Praise the Lord, All Nations' in the Work?', Rabash, Article No. 25, 1990. Recorded lesson by Rav Laitman, December 23, 2002, with Q&A."
 date: 2026-11-01
+audio: true
 ---
 
 ### Opening

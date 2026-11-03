@@ -2,6 +2,7 @@
 title: "What Is a Groom's Meal?"
 subtitle: "'What Is a Groom's Meal?', Rabash, Article No. 12, 1989. Recorded lesson by Rav Laitman (original lesson date not stated in the transcript), with Q&A."
 date: 2026-11-03
+audio: true
 ---
 
 ### Opening

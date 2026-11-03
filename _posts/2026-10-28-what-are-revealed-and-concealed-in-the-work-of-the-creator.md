@@ -2,6 +2,7 @@
 title: "What Are Revealed and Concealed in the Work of the Creator?"
 subtitle: "'What Are Revealed and Concealed in the Work of the Creator?', Rabash, Article No. 19, 1987 (Shlavei HaSulam). Recorded lesson by Rav Laitman, December 22, 2002, with…"
 date: 2026-10-28
+audio: true
 ---
 
 ### Opening

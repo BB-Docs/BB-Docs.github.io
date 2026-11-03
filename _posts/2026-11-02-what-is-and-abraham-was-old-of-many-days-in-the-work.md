@@ -2,6 +2,7 @@
 title: "What Is, 'And Abraham Was Old, of Many Days,' in the Work?"
 subtitle: "'What Is, 'And Abraham Was Old, of Many Days,' in the Work?', Rabash, Article No. 8, 1991. Recorded lesson by Rav Laitman, March 4, 2002 (before Passover), with Q&A."
 date: 2026-11-02
+audio: true
 ---
 
 ### Opening

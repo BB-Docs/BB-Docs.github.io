@@ -2,6 +2,7 @@
 title: "The Agenda of the Assembly,"
 subtitle: "Congress Lesson 1, 'The Agenda of the Assembly,' Rabash, Article No. 17, 1986 (theme of all three Congress lessons: the praise of the friends). With an excerpt by Rav…"
 date: 2026-10-29
+audio: true
 ---
 
 ### Opening
