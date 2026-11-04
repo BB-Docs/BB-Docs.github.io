@@ -2,6 +2,7 @@
 title: "Repentance,"
 subtitle: "'Repentance,' Rabash, Article No. 27, 1985 (Shlavei HaSulam). Recorded lesson by Rav Laitman, 2002 (day and month not stated), with Q&A; only part of the article was…"
 date: 2026-11-04
+audio: true
 ---
 
 ### Opening
