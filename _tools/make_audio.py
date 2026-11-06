@@ -35,7 +35,7 @@ PRONUNCIATION = {
     "Dvekut": "Dvekoot", "Aravut": "Aravoot", "Arvut": "Arvoot",
     "Lishma": "Leeshma", "Zohar": "Zohar", "Rabash": "Rabaash",
     "Laitman": "Laetman", "Adam": "Ah dahm",
-    "Baal HaSulam": "Baal Ha Sulaam", "Chesed": "Hesed", "Hesed": "Hesed",
+    "Baal HaSulam": "Baal Ha Sulaam", "Chesed": "Heh-sed", "Hesed": "Heh-sed",
     "Tzimtzum": "Tzimtzoom", "Partzuf": "Partzoof", "Sefirot": "Sefeerote",
     "Malchut": "Malhoot", "Chochma": "Hohma", "Bina": "Beena",
     "Gmar Tikkun": "Gmar Tikoon", "Tikkun": "Tikoon", "Shechina": "Shehina",
