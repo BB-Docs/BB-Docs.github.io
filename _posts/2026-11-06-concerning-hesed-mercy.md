@@ -2,6 +2,7 @@
 title: "Concerning Hesed [Mercy],"
 subtitle: "'Concerning Hesed [Mercy],' Rabash, Article No. 4, 1986 (Shlavei HaSulam, vol. 1, p. 83). Recorded lesson by Rav Laitman, January 14, 2002, with Q&A."
 date: 2026-11-06
+audio: true
 ---
 
 ### Opening
