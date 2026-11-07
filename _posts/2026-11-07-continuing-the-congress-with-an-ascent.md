@@ -2,6 +2,7 @@
 title: "Continuing the Congress with an Ascent,"
 subtitle: "'Continuing the Congress with an Ascent,' selected excerpts from the sources (Baal HaSulam, Shamati 26 and Letter 18; Rabash, Article 6 (1991) and Article 22 (1985)).…"
 date: 2026-11-07
+audio: true
 ---
 
 ### Opening
