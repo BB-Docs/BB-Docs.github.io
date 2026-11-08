@@ -2,6 +2,7 @@
 title: "What Are Judges and Officers in the Work?"
 subtitle: "'What Are Judges and Officers in the Work?' Rabash, Article No. 38, 1989 (Torah portion Shoftim). Recorded lesson by Rav Laitman, October 11, 2002, with Q&A."
 date: 2026-11-08
+audio: true
 ---
 
 ### Opening
