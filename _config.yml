@@ -27,7 +27,7 @@ timezone: Asia/Kolkata
 future: true
 
 # Lesson narration MP3s live on the repo's "audio" GitHub Release.
-audio_base: "https://github.com/BB-Docs/BB-Docs.github.io/releases/download/audio"
+audio_base: "https://pub-ed9d42c9a092424cb9e2b729b3cfd7b6.r2.dev"
 
 # Show newest lessons first on the home page
 paginate: 20

@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 #
-# add-audio — generate narration MP3s, upload them to the 'audio' GitHub
-# Release, and stamp `audio: true` into each post's front matter.
+# add-audio — generate narration MP3s, upload them to Cloudflare R2 (which the
+# site plays from: GitHub Release files don't play on iPhone) and to the 'audio'
+# GitHub Release (backup), and stamp `audio: true` into each post's front matter.
 #
 #   add-audio                 # backfill every post that has no audio yet
 #   add-audio _posts/x.md …   # only these posts (skips ones already done)
@@ -14,6 +15,7 @@ export SSL_CERT_FILE=/etc/ssl/cert.pem     # edge-tts must trust this env's TLS 
 
 REPO="BB-Docs/BB-Docs.github.io"
 RELEASE="audio"
+R2_BUCKET="bb-docs-audio"
 GIT_NAME="pradeepcb"; GIT_EMAIL="pradeepcb@gmail.com"
 
 say()  { printf "\033[1;34m▸\033[0m %s\n" "$*"; }
@@ -91,6 +93,11 @@ for post in "${targets[@]}"; do
   fi
   if ! gh release upload "$RELEASE" "$TMP/$base.mp3" --repo "$REPO" --clobber >/dev/null 2>&1; then
     warn "  upload failed for $base"; continue
+  fi
+  # Served as audio/mpeg so iPhone Safari will play it. Needs `npx wrangler@4 login`.
+  if ! npx --yes wrangler@4 r2 object put "$R2_BUCKET/$base.mp3" --file "$TMP/$base.mp3" \
+       --content-type audio/mpeg --remote >/dev/null 2>"$TMP/err"; then
+    warn "  Cloudflare upload failed for $base: $(tr '\n' ' ' <"$TMP/err" | cut -c1-160)"; continue
   fi
   # stamp audio:true into the front matter (first closing delimiter)
   python3 - "$post" <<'PY'
