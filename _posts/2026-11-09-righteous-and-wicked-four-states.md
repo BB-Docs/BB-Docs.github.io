@@ -2,6 +2,7 @@
 title: "Righteous and Wicked Four States"
 subtitle: "Rabash article on the righteous and the wicked, who feel good or feel bad, Shlavei HaSulam, vol. 3 (Torah portion Ki Tetze). Recorded lesson by Rav Laitman, October 14…"
 date: 2026-11-09
+audio: true
 ---
 
 ### Opening
