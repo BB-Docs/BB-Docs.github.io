@@ -2,6 +2,7 @@
 title: "A Righteous Who Is Happy, a Righteous Who Is Suffering,"
 subtitle: "'A Righteous Who Is Happy, a Righteous Who Is Suffering,' Rabash, Article No. 38, 1985 (Shlavei HaSulam, vol. 3; Torah portion Ki Tetze). Recorded lesson by Rav Laitman…"
 date: 2026-11-09
+audio: true
 ---
 
 ### Opening

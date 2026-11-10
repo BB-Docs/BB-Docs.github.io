@@ -2,6 +2,7 @@
 title: "It Is Forbidden to Hear a Good Thing from a Bad Person,"
 subtitle: "'It Is Forbidden to Hear a Good Thing from a Bad Person,' Rabash, Article No. 4, 1987 (Shlavei HaSulam). Recorded lesson by Rav Laitman (recording date not captured in…"
 date: 2026-11-10
+audio: true
 ---
 
 ### Opening
