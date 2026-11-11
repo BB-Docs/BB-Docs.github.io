@@ -2,6 +2,7 @@
 title: "What Is, 'You Shall Not Plant for Yourself an Asherah by the Altar,' in the Work?"
 subtitle: "'What Is, 'You Shall Not Plant for Yourself an Asherah by the Altar,' in the Work?' Rabash, Article No. 43, 1990 (Shlavei HaSulam, vol. 3; Torah portion Shoftim).…"
 date: 2026-11-11
+audio: true
 ---
 
 ### Opening
