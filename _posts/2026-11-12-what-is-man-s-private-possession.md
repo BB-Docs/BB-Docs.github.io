@@ -2,6 +2,7 @@
 title: "What Is Man's Private Possession?"
 subtitle: "'What Is Man's Private Possession?' Rabash, Article No. 20, 1987 (Shlavei HaSulam, vol. 3; Torah portion Korach). Recorded lesson by Rav Laitman, 2002 (exact date not…"
 date: 2026-11-12
+audio: true
 ---
 
 ### Opening
