@@ -2,6 +2,7 @@
 title: "I Am the First and I Am the Last"
 subtitle: "'I Am the First and I Am the Last' (the matter of the uniqueness of the Creator), Rabash, Shlavei HaSulam ('Rungs of the Ladder'), vol. 4, p. 1. Recorded lesson by Rav…"
 date: 2026-11-13
+audio: true
 ---
 
 ### Opening
