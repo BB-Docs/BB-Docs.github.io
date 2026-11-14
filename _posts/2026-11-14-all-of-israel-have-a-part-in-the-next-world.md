@@ -2,6 +2,7 @@
 title: "All of Israel Have a Part in the Next World,"
 subtitle: "'All of Israel Have a Part in the Next World,' Rabash, Shlavei HaSulam ('Rungs of the Ladder'), vol. 1, p. 394 (Hebrew), on The Zohar, Noah. Recorded lesson by Rav…"
 date: 2026-11-14
+audio: true
 ---
 
 ### Opening
