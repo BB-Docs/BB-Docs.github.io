@@ -2,6 +2,7 @@
 title: "To all the students"
 subtitle: "Rabash, Letter No. 13, October 20, 1955, London ('To all the students'). Recorded lesson by Rav Laitman, June 15, 2003, with Q&A."
 date: 2026-11-15
+audio: true
 ---
 
 ### Opening
