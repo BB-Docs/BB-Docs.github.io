@@ -2,6 +2,7 @@
 title: "What It Means that the Name of the Creator Is 'Truth,'"
 subtitle: "'What It Means that the Name of the Creator Is 'Truth,'' Rabash, Article No. 3, 1988 (on The Zohar, Haazinu, item 210). Recorded lesson by Rav Laitman, November 2002…"
 date: 2026-11-16
+audio: true
 ---
 
 ### Opening
