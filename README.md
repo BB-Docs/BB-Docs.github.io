@@ -28,6 +28,7 @@ Images go in `assets/` and are linked like `![caption](/assets/name.png)`.
 | `_posts/` | One Markdown file per lesson |
 | `_layouts/` | Page templates (`lesson.html`, `default.html`) |
 | `index.html` | Home page that lists all lessons |
+| `lessons.json` | Generated lesson index (title, subtitle, date, path) read by kabbalahindia.com |
 | `assets/css/style.css` | Styling |
 | `_config.yml` | Site title, tagline, settings |
 
