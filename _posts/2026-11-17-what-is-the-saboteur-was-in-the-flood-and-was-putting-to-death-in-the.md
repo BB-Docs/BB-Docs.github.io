@@ -2,6 +2,7 @@
 title: "What Is, 'The Saboteur Was in the Flood, and Was Putting to Death,' in the Work?"
 subtitle: "'What Is, 'The Saboteur Was in the Flood, and Was Putting to Death,' in the Work?' Rabash, Article No. 4, 1991 (on The Zohar, Noah). Recorded lesson by Rav Laitman…"
 date: 2026-11-17
+audio: true
 ---
 
 ### Opening
