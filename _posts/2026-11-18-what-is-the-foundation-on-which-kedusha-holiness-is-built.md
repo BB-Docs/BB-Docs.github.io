@@ -2,6 +2,7 @@
 title: "What Is the Foundation on which Kedusha [Holiness] Is Built?"
 subtitle: "'What Is the Foundation on which Kedusha [Holiness] Is Built?' Rabash, Article No. 16, 1988 (Shlavei HaSulam; on Abraham's servants digging the wells and the Philistines…"
 date: 2026-11-18
+audio: true
 ---
 
 ### Opening
