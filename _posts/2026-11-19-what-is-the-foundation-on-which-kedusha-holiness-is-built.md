@@ -2,6 +2,7 @@
 title: "What Is the Foundation on which Kedusha [Holiness] Is Built?"
 subtitle: "'What Is the Foundation on which Kedusha [Holiness] Is Built?' (continued), Rabash, Article No. 16, 1988 (Shlavei HaSulam; on the three wells Isaac's servants dug: Esek…"
 date: 2026-11-19
+audio: true
 ---
 
 ### Opening
