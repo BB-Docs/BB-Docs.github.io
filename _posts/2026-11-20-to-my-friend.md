@@ -2,6 +2,7 @@
 title: "To my friend"
 subtitle: "Rabash, Letter No. 77, February 18, 1973, Bnei Brak ('To my friend'). Recorded lesson by Rav Laitman, July 24, 2003, with Q&A."
 date: 2026-11-20
+audio: true
 ---
 
 ### Opening
