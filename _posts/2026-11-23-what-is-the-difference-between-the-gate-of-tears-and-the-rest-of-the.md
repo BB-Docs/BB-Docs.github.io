@@ -2,6 +2,7 @@
 title: "What Is the Difference between the Gate of Tears and the Rest of the Gates?"
 subtitle: "'What Is the Difference between the Gate of Tears and the Rest of the Gates?' Rabash, Article No. 3, 1989 (Shlavei HaSulam, vol. 5, on Berachot 59; vol. 2, p. 795 in the…"
 date: 2026-11-23
+audio: true
 ---
 
 ### Opening

@@ -2,6 +2,7 @@
 title: "What Is the Extent of Teshuva [Repentance]?"
 subtitle: "'What Is the Extent of Teshuva [Repentance]?' Rabash, Article No. 2, 1988 (Shlavei HaSulam, vol. 4, p. 18 in Hebrew; on Hosea 14, 'Return, O Israel, unto the Lord your…"
 date: 2026-11-21
+audio: true
 ---
 
 ### Opening

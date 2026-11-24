@@ -2,6 +2,7 @@
 title: "Letter7 Building the Vessel"
 subtitle: "Rabash, Letter No. 7, April 24, 1955 (the end of the letter is missing). Recorded lesson by Rav Laitman, August 3, 2003, with Q&A."
 date: 2026-11-22
+audio: true
 ---
 
 ### Opening
