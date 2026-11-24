@@ -2,6 +2,7 @@
 title: "What Is the Advantage in the Work More than in the Reward?"
 subtitle: "'What Is the Advantage in the Work More than in the Reward?' Rabash, Article No. 5, 1987 (Shlavei HaSulam, p. 110 in Hebrew; on the portion Vayera, 'And the Lord…"
 date: 2026-11-24
+audio: true
 ---
 
 ### Opening
