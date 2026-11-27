@@ -2,6 +2,7 @@
 title: "To the students, may they live long."
 subtitle: "Rabash, Letter No. 14, 'To the students, may they live long.' Recorded lesson by Rav Laitman, June 24, 2003, with Q&A."
 date: 2026-11-27
+audio: true
 ---
 
 ### Opening
