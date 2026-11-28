@@ -2,6 +2,7 @@
 title: "What It Means that the Generations of the Righteous are Good Deeds, in the Work."
 subtitle: "Rabash, Article No. 4, 1990, 'What It Means that the Generations of the Righteous are Good Deeds, in the Work.' Recorded lesson by Rav Laitman, January 2002, with Q&A."
 date: 2026-11-28
+audio: true
 ---
 
 ### Opening
